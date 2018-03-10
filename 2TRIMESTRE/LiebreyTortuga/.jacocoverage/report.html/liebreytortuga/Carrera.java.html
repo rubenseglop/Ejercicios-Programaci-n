@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>Carrera.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">JaCoCoverage analysis of project &quot;LiebreyTortuga&quot; (powered by JaCoCo from EclEmma)</a> &gt; <a href="index.source.html" class="el_package">liebreytortuga</a> &gt; <span class="el_source">Carrera.java</span></div><h1>Carrera.java</h1><pre class="source lang-java linenums">/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package liebreytortuga;
+
+/**
+ *
+ * @author ruben
+ */
+public class Carrera {
+
+    private int posicionL;
+    private int posicionT;
+    private boolean reloj;
+    private boolean meta;
+
+<span class="fc" id="L19">    public Carrera() {</span>
+<span class="fc" id="L20">        this.meta = false;</span>
+<span class="fc" id="L21">        this.reloj = false;</span>
+<span class="fc" id="L22">        posicionL = 1;</span>
+<span class="fc" id="L23">        posicionT = 1;</span>
+<span class="fc" id="L24">    }</span>
+    private int casillaL, casillaT;
+
+    public synchronized void turnoL(int casillasAMover) {
+
+<span class="pc bpc" id="L29" title="3 of 4 branches missed.">        while (reloj == true &amp;&amp; meta==false) {</span>
+            try {
+<span class="nc" id="L31">                wait();</span>
+<span class="nc" id="L32">            } catch (InterruptedException e) {</span>
+<span class="nc" id="L33">                System.out.println(e);</span>
+<span class="nc" id="L34">            }</span>
+        }
+        //Muevo mi Liebre
+
+<span class="fc" id="L38">        posicionL = posicionL + casillasAMover;</span>
+<span class="fc bfc" id="L39" title="All 2 branches covered.">        if (posicionL &lt; 1) {</span>
+<span class="fc" id="L40">            posicionL = 1;</span>
+        }
+<span class="fc" id="L42">        reloj = false;</span>
+<span class="fc" id="L43">    }</span>
+
+    public synchronized void turnoT(int casillasAMover) {
+<span class="fc" id="L46">        String linea = &quot;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&quot;;</span>
+<span class="pc bpc" id="L47" title="3 of 4 branches missed.">        while (reloj == true &amp;&amp; meta==false) {</span>
+            try {
+<span class="nc" id="L49">                wait();</span>
+<span class="nc" id="L50">            } catch (InterruptedException e) {</span>
+<span class="nc" id="L51">                System.out.println(e);</span>
+<span class="nc" id="L52">            }</span>
+        }
+        //Muevo mi tortuga
+<span class="fc" id="L55">        posicionT = posicionT + casillasAMover;</span>
+<span class="fc bfc" id="L56" title="All 2 branches covered.">        if (posicionT &lt; 1) {</span>
+<span class="fc" id="L57">            posicionT = 1;</span>
+        }
+<span class="pc bpc" id="L59" title="1 of 4 branches missed.">        if (posicionL &lt;= 70 &amp;&amp; meta==false) {</span>
+<span class="fc bfc" id="L60" title="All 2 branches covered.">            for (int i = 1; i &lt;= posicionL; i++) {</span>
+<span class="fc" id="L61">                System.out.print(&quot; &quot;);</span>
+<span class="fc bfc" id="L62" title="All 2 branches covered.">                if (posicionL == i) {</span>
+<span class="fc" id="L63">                    System.out.println(&quot;L&quot;);</span>
+                }
+            }
+<span class="pc bpc" id="L66" title="2 of 4 branches missed.">            if (posicionT &lt;= 70 &amp;&amp; meta==false) {</span>
+<span class="fc bfc" id="L67" title="All 2 branches covered.">                for (int i = 1; i &lt;= posicionT; i++) {</span>
+<span class="fc" id="L68">                    System.out.print(&quot; &quot;);</span>
+<span class="fc bfc" id="L69" title="All 2 branches covered.">                    if (posicionT == i) {</span>
+<span class="fc" id="L70">                        System.out.println(&quot;T&quot;);</span>
+                    }
+                }
+            }
+        }
+
+<span class="pc bpc" id="L76" title="2 of 6 branches missed.">        if (posicionL &lt;= 70 &amp;&amp; posicionT &lt;= 70 &amp;&amp; meta==false) {</span>
+<span class="fc" id="L77">            System.out.println(linea);</span>
+<span class="fc" id="L78">            reloj = false;</span>
+        }
+
+// Resultado final
+<span class="pc bpc" id="L82" title="1 of 6 branches missed.">        if (posicionL &gt;= 70 &amp;&amp; posicionT &gt;= 70 &amp;&amp; meta == false) {</span>
+<span class="nc" id="L83">            System.out.println(&quot;Han acabado en empate!!&quot;);</span>
+<span class="nc" id="L84">            meta = true;</span>
+<span class="fc bfc" id="L85" title="All 6 branches covered.">        } else if (posicionL &gt;= 70 &amp;&amp; posicionT &lt; 70 &amp;&amp; meta == false) {</span>
+<span class="fc" id="L86">            System.out.println(&quot;Ha ganado la liebre&quot;);</span>
+<span class="fc" id="L87">            meta = true;</span>
+<span class="pc bpc" id="L88" title="3 of 6 branches missed.">        } else if (posicionT &gt;= 70 &amp;&amp; posicionL &lt; 70 &amp;&amp; meta == false) {</span>
+<span class="nc" id="L89">            System.out.println(&quot;Ha ganado la tortuga&quot;);</span>
+<span class="nc" id="L90">            meta = true;            </span>
+        }
+<span class="fc" id="L92">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>

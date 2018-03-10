@@ -1,0 +1,1964 @@
+El saldo de inicio del cliente 0 en su cuenta es de: 3419.75
+El saldo de inicio del cliente 1 en su cuenta es de: 3419.75
+El saldo de inicio del cliente 2 en su cuenta es de: 4678.82
+El saldo de inicio del cliente 3 en su cuenta es de: 4678.82
+El saldo de inicio del cliente 4 en su cuenta es de: 9343.53
+El saldo de inicio del cliente 5 en su cuenta es de: 7842.35
+El saldo de inicio del cliente 6 en su cuenta es de: 4355.72
+El saldo de inicio del cliente 7 en su cuenta es de: 4355.72
+==== Mes 0 día 0====
+Se ingresaron 260.33 en la cuenta 2. El saldo de la cuenta es de 4884.09
+El cliente 3 ha retirado 55.06 en su cuenta. El saldo de la cuenta es de 4884.09
+El cliente 0 ha retirado 140.91 en su cuenta. El saldo de la cuenta es de 3650.1
+Se ingresaron 208.39 en la cuenta 4. El saldo de la cuenta es de 9551.92
+Se ingresaron 371.26 en la cuenta 1. El saldo de la cuenta es de 3791.01
+El cliente 1 ha retirado 158.42 en su cuenta. El saldo de la cuenta es de 3491.68
+El cliente 3 ha retirado 351.66 en su cuenta. El saldo de la cuenta es de 4323.09
+El cliente 4 ha retirado 94.86 en su cuenta. El saldo de la cuenta es de 9457.06
+==== Mes 0 día 1====
+Se ingresaron 140.91 en la cuenta 3. El saldo de la cuenta es de 3632.59
+El cliente 2 ha retirado 209.34 en su cuenta. El saldo de la cuenta es de 4674.75
+Cliente 0 pidió su saldo que es de: 3632.59
+El cliente 4 ha retirado 53.39 en su cuenta. El saldo de la cuenta es de 9403.67
+El cliente 2 ha retirado 217.96 en su cuenta. El saldo de la cuenta es de 4105.14
+El cliente 1 ha retirado 287.25 en su cuenta. El saldo de la cuenta es de 3345.34
+Se ingresaron 351.66 en la cuenta 2. El saldo de la cuenta es de 4456.79
+==== Mes 0 día 2====
+Se ingresaron 53.39 en la cuenta 3. El saldo de la cuenta es de 9457.06
+==== Mes 0 día 3====
+Se ingresaron 446.87 en la cuenta 0. El saldo de la cuenta es de 3792.22
+Se ingresaron 217.96 en la cuenta 0. El saldo de la cuenta es de 4674.75
+Se ingresaron 287.25 en la cuenta 3. El saldo de la cuenta es de 4079.46
+Cliente 3 pidió su saldo que es de: 4456.79
+El cliente 0 ha retirado 373.87 en su cuenta. El saldo de la cuenta es de 3705.59
+Se ingresaron 314.11 en la cuenta 3. El saldo de la cuenta es de 4988.86
+Se ingresaron 494.55 en la cuenta 4. El saldo de la cuenta es de 9951.61
+Cliente 1 pidió su saldo que es de: 3705.59
+==== Mes 0 día 4====
+El cliente 2 ha retirado 256.47 en su cuenta. El saldo de la cuenta es de 4732.39
+==== Mes 0 día 5====
+Se ingresaron 84.27 en la cuenta 1. El saldo de la cuenta es de 3789.86
+El cliente 4 ha retirado 486.95 en su cuenta. El saldo de la cuenta es de 9464.66
+El cliente 3 ha retirado 236.16 en su cuenta. El saldo de la cuenta es de 4496.23
+Se ingresaron 256.47 en la cuenta 0. El saldo de la cuenta es de 4752.7
+El cliente 0 ha retirado 350.13 en su cuenta. El saldo de la cuenta es de 3439.73
+El cliente 4 ha retirado 483.6 en su cuenta. El saldo de la cuenta es de 8981.06
+El cliente 3 ha retirado 111.24 en su cuenta. El saldo de la cuenta es de 4641.46
+==== Mes 0 día 6====
+Cliente 2 pidió su saldo que es de: 4641.46
+Se ingresaron 350.13 en la cuenta 1. El saldo de la cuenta es de 3531.43
+El cliente 1 ha retirado 258.43 en su cuenta. El saldo de la cuenta es de 3181.3
+El cliente 1 ha retirado 472.16 en su cuenta. El saldo de la cuenta es de 3059.27
+Cliente 0 pidió su saldo que es de: 3531.43
+==== Mes 0 día 7====
+Se ingresaron 111.24 en la cuenta 0. El saldo de la cuenta es de 5139.99
+Se ingresaron 387.29 en la cuenta 2. El saldo de la cuenta es de 5028.75
+Se ingresaron 483.6 en la cuenta 3. El saldo de la cuenta es de 9464.66
+Se ingresaron 95.61 en la cuenta 4. El saldo de la cuenta es de 9560.27
+Se ingresaron 118.38 en la cuenta 0. El saldo de la cuenta es de 3177.65
+==== Mes 0 día 8====
+Se ingresaron 391.24 en la cuenta 3. El saldo de la cuenta es de 5228.07
+Se ingresaron 472.16 en la cuenta 1. El saldo de la cuenta es de 3649.81
+El cliente 2 ha retirado 303.16 en su cuenta. El saldo de la cuenta es de 4836.83
+El cliente 3 ha retirado 183.05 en su cuenta. El saldo de la cuenta es de 5045.02
+El cliente 2 ha retirado 152.52 en su cuenta. El saldo de la cuenta es de 4892.5
+El cliente 0 ha retirado 133.14 en su cuenta. El saldo de la cuenta es de 3516.66
+==== Mes 0 día 9====
+El cliente 4 ha retirado 41.68 en su cuenta. El saldo de la cuenta es de 9518.59
+Cliente 1 pidió su saldo que es de: 3649.81
+==== Mes 0 día 10====
+El cliente 4 ha retirado 65.67 en su cuenta. El saldo de la cuenta es de 9452.92
+El cliente 0 ha retirado 385.46 en su cuenta. El saldo de la cuenta es de 3131.2
+Se ingresaron 83.32 en la cuenta 1. El saldo de la cuenta es de 3214.52
+Se ingresaron 152.52 en la cuenta 3. El saldo de la cuenta es de 5045.02
+El cliente 3 ha retirado 163.6 en su cuenta. El saldo de la cuenta es de 4881.42
+Se ingresaron 385.46 en la cuenta 3. El saldo de la cuenta es de 3599.98
+Se ingresaron 163.6 en la cuenta 0. El saldo de la cuenta es de 5045.02
+El cliente 1 intentó retirar 324.72 en su cuenta y no pudo. El saldo de la cuenta es de 3214.52
+El cliente 2 ha retirado 417.89 en su cuenta. El saldo de la cuenta es de 4627.14
+Se ingresaron 65.67 en la cuenta 3. El saldo de la cuenta es de 9518.59
+==== Mes 0 día 11====
+El cliente 1 ha retirado 254.8 en su cuenta. El saldo de la cuenta es de 3345.18
+==== Mes 0 día 12====
+El cliente 3 ha retirado 475.87 en su cuenta. El saldo de la cuenta es de 3851.89
+El cliente 2 ha retirado 299.38 en su cuenta. El saldo de la cuenta es de 4327.76
+El cliente 4 ha retirado 23.75 en su cuenta. El saldo de la cuenta es de 9494.84
+El cliente 0 ha retirado 216.74 en su cuenta. El saldo de la cuenta es de 3128.44
+Se ingresaron 299.38 en la cuenta 3. El saldo de la cuenta es de 4151.26
+Se ingresaron 216.74 en la cuenta 3. El saldo de la cuenta es de 3345.18
+Se ingresaron 23.75 en la cuenta 0. El saldo de la cuenta es de 9518.59
+Se ingresaron 254.8 en la cuenta 2. El saldo de la cuenta es de 3599.98
+Se ingresaron 475.87 en la cuenta 3. El saldo de la cuenta es de 4627.14
+==== Mes 0 día 13====
+==== Mes 0 día 14====
+El cliente 4 ha retirado 467.66 en su cuenta. El saldo de la cuenta es de 9050.92
+El cliente 1 ha retirado 244.85 en su cuenta. El saldo de la cuenta es de 3355.13
+El cliente 3 ha retirado 456.99 en su cuenta. El saldo de la cuenta es de 4170.15
+Se ingresaron 239.4 en la cuenta 0. El saldo de la cuenta es de 3594.53
+El cliente 2 ha retirado 337.19 en su cuenta. El saldo de la cuenta es de 3832.96
+El cliente 2 ha retirado 408.47 en su cuenta. El saldo de la cuenta es de 3424.49
+El cliente 3 ha retirado 201.73 en su cuenta. El saldo de la cuenta es de 3222.76
+==== Mes 0 día 15====
+El cliente 4 ha retirado 371.65 en su cuenta. El saldo de la cuenta es de 8679.28
+El cliente 0 ha retirado 189.42 en su cuenta. El saldo de la cuenta es de 3405.1
+Se ingresaron 244.85 en la cuenta 3. El saldo de la cuenta es de 3649.96
+El cliente 0 ha retirado 49.91 en su cuenta. El saldo de la cuenta es de 3600.04
+El cliente 1 ha retirado 32.29 en su cuenta. El saldo de la cuenta es de 3567.75
+Se ingresaron 371.65 en la cuenta 1. El saldo de la cuenta es de 9050.92
+==== Mes 0 día 16====
+Se ingresaron 201.73 en la cuenta 0. El saldo de la cuenta es de 3424.49
+Se ingresaron 408.47 en la cuenta 3. El saldo de la cuenta es de 3832.96
+El cliente 2 ha retirado 22.13 en su cuenta. El saldo de la cuenta es de 3825.16
+==== Mes 0 día 17====
+El cliente 4 ha retirado 354.25 en su cuenta. El saldo de la cuenta es de 8696.67
+El cliente 1 ha retirado 36.76 en su cuenta. El saldo de la cuenta es de 3580.91
+Se ingresaron 49.91 en la cuenta 2. El saldo de la cuenta es de 3580.91
+Se ingresaron 14.34 en la cuenta 3. El saldo de la cuenta es de 3847.29
+==== Mes 0 día 18====
+Se ingresaron 36.76 en la cuenta 1. El saldo de la cuenta es de 3617.67
+El cliente 3 ha retirado 247.73 en su cuenta. El saldo de la cuenta es de 3577.43
+El cliente 0 ha retirado 428.13 en su cuenta. El saldo de la cuenta es de 3189.54
+Se ingresaron 22.13 en la cuenta 0. El saldo de la cuenta es de 3599.56
+El cliente 4 ha retirado 439.18 en su cuenta. El saldo de la cuenta es de 8257.49
+Cliente 2 pidió su saldo que es de: 3599.56
+Se ingresaron 428.13 en la cuenta 2. El saldo de la cuenta es de 3617.67
+El cliente 3 ha retirado 464.37 en su cuenta. El saldo de la cuenta es de 3135.18
+Se ingresaron 439.18 en la cuenta 3. El saldo de la cuenta es de 8696.67
+El cliente 1 intentó retirar 486.97 en su cuenta y no pudo. El saldo de la cuenta es de 3189.54
+==== Mes 0 día 19====
+Cliente 4 pidió su saldo que es de: 8696.67
+El cliente 1 ha retirado 370.09 en su cuenta. El saldo de la cuenta es de 3247.58
+El cliente 0 intentó retirar 341.9 en su cuenta y no pudo. El saldo de la cuenta es de 3247.58
+Se ingresaron 464.37 en la cuenta 2. El saldo de la cuenta es de 3599.56
+==== Mes 0 día 20====
+Se ingresaron 304.47 en la cuenta 2. El saldo de la cuenta es de 3904.03
+==== Mes 0 día 21====
+El cliente 3 ha retirado 36.25 en su cuenta. El saldo de la cuenta es de 3672.52
+El cliente 2 ha retirado 195.26 en su cuenta. El saldo de la cuenta es de 3708.76
+Se ingresaron 370.09 en la cuenta 2. El saldo de la cuenta es de 3422.19
+El cliente 0 ha retirado 195.47 en su cuenta. El saldo de la cuenta es de 3052.1
+Se ingresaron 339.03 en la cuenta 4. El saldo de la cuenta es de 9035.7
+El cliente 4 ha retirado 37.16 en su cuenta. El saldo de la cuenta es de 8998.54
+El cliente 2 ha retirado 365.09 en su cuenta. El saldo de la cuenta es de 3307.43
+El cliente 1 ha retirado 51.6 en su cuenta. El saldo de la cuenta es de 3370.6
+Se ingresaron 36.25 en la cuenta 3. El saldo de la cuenta es de 3343.68
+==== Mes 0 día 22====
+Se ingresaron 195.47 en la cuenta 2. El saldo de la cuenta es de 3566.07
+Se ingresaron 51.6 en la cuenta 2. El saldo de la cuenta es de 3617.67
+Se ingresaron 365.09 en la cuenta 3. El saldo de la cuenta es de 3708.76
+El cliente 4 ha retirado 117.94 en su cuenta. El saldo de la cuenta es de 8880.6
+El cliente 3 ha retirado 298.2 en su cuenta. El saldo de la cuenta es de 3410.57
+==== Mes 0 día 23====
+Se ingresaron 123.24 en la cuenta 0. El saldo de la cuenta es de 3740.9
+Se ingresaron 117.94 en la cuenta 0. El saldo de la cuenta es de 8998.54
+El cliente 0 ha retirado 487.55 en su cuenta. El saldo de la cuenta es de 3253.36
+==== Mes 0 día 24====
+Se ingresaron 298.2 en la cuenta 0. El saldo de la cuenta es de 3371.71
+El cliente 2 ha retirado 337.06 en su cuenta. El saldo de la cuenta es de 3371.71
+Cliente 1 pidió su saldo que es de: 3253.36
+El cliente 3 ha retirado 203.24 en su cuenta. El saldo de la cuenta es de 3168.47
+El cliente 0 ha retirado 473.59 en su cuenta. El saldo de la cuenta es de 3083.79
+==== Mes 0 día 25====
+Se ingresaron 304.02 en la cuenta 1. El saldo de la cuenta es de 3083.79
+Se ingresaron 337.06 en la cuenta 3. El saldo de la cuenta es de 3505.52
+Se ingresaron 46.84 en la cuenta 4. El saldo de la cuenta es de 9045.38
+Cliente 2 pidió su saldo que es de: 3505.52
+El cliente 1 ha retirado 17.69 en su cuenta. El saldo de la cuenta es de 3066.1
+El cliente 4 ha retirado 341.95 en su cuenta. El saldo de la cuenta es de 8703.43
+Se ingresaron 473.59 en la cuenta 2. El saldo de la cuenta es de 3539.68
+==== Mes 0 día 26====
+El cliente 3 ha retirado 100.33 en su cuenta. El saldo de la cuenta es de 3405.19
+Se ingresaron 100.33 en la cuenta 3. El saldo de la cuenta es de 3505.52
+Se ingresaron 16.66 en la cuenta 0. El saldo de la cuenta es de 3556.35
+El cliente 1 ha retirado 343.73 en su cuenta. El saldo de la cuenta es de 3212.61
+==== Mes 0 día 27====
+Se ingresaron 429.32 en la cuenta 2. El saldo de la cuenta es de 3934.85
+El cliente 4 ha retirado 425.66 en su cuenta. El saldo de la cuenta es de 8277.77
+El cliente 2 ha retirado 115.06 en su cuenta. El saldo de la cuenta es de 3819.79
+Se ingresaron 343.73 en la cuenta 1. El saldo de la cuenta es de 3556.35
+El cliente 0 ha retirado 363.87 en su cuenta. El saldo de la cuenta es de 3192.48
+Se ingresaron 425.66 en la cuenta 0. El saldo de la cuenta es de 8703.43
+==== Mes 0 día 28====
+El cliente 3 ha retirado 456.02 en su cuenta. El saldo de la cuenta es de 3363.77
+El cliente 2 intentó retirar 473.77 en su cuenta y no pudo. El saldo de la cuenta es de 3363.77
+==== Mes 0 día 29====
+Se ingresaron 430.64 en la cuenta 1. El saldo de la cuenta es de 3623.12
+El cliente 0 ha retirado 159.71 en su cuenta. El saldo de la cuenta es de 3463.4
+El cliente 4 ha retirado 405.49 en su cuenta. El saldo de la cuenta es de 8297.94
+El cliente 3 intentó retirar 418.01 en su cuenta y no pudo. El saldo de la cuenta es de 3363.77
+El cliente 4 ha retirado 198.86 en su cuenta. El saldo de la cuenta es de 8099.08
+El cliente 3 ha retirado 29.87 en su cuenta. El saldo de la cuenta es de 3333.91
+El cliente 1 ha retirado 444.12 en su cuenta. El saldo de la cuenta es de 3019.28
+Se ingresaron 159.71 en la cuenta 2. El saldo de la cuenta es de 3178.99
+==== Mes 0 día 30====
+Se ingresaron 109.2 en la cuenta 2. El saldo de la cuenta es de 3443.1
+El cliente 2 ha retirado 286.41 en su cuenta. El saldo de la cuenta es de 3156.69
+Se ingresaron 198.86 en la cuenta 1. El saldo de la cuenta es de 8297.94
+Cliente 0 pidió su saldo que es de: 3178.99
+El cliente 1 intentó retirar 238.71 en su cuenta y no pudo. El saldo de la cuenta es de 3178.99
+El cliente 3 intentó retirar 494.25 en su cuenta y no pudo. El saldo de la cuenta es de 3156.69
+Se ingresaron 232.43 en la cuenta 3. El saldo de la cuenta es de 3389.12
+El cliente 2 ha retirado 136.32 en su cuenta. El saldo de la cuenta es de 3252.8
+Se ingresaron 63.22 en la cuenta 4. El saldo de la cuenta es de 8361.17
+El cliente 1 intentó retirar 376.56 en su cuenta y no pudo. El saldo de la cuenta es de 3178.99
+Se ingresaron 18.77 en la cuenta 0. El saldo de la cuenta es de 3197.77
+Se ingresaron 136.32 en la cuenta 2. El saldo de la cuenta es de 3389.12
+El cliente 0 intentó retirar 459.48 en su cuenta y no pudo. El saldo de la cuenta es de 3102.96
+El cliente 1 ha retirado 94.81 en su cuenta. El saldo de la cuenta es de 3102.96
+El cliente 3 intentó retirar 429.78 en su cuenta y no pudo. El saldo de la cuenta es de 3389.12
+El cliente 4 ha retirado 480.23 en su cuenta. El saldo de la cuenta es de 7880.94
+El cliente 3 ha retirado 256.78 en su cuenta. El saldo de la cuenta es de 3132.35
+El cliente 4 ha retirado 352.23 en su cuenta. El saldo de la cuenta es de 7528.71
+El cliente 0 intentó retirar 390.34 en su cuenta y no pudo. El saldo de la cuenta es de 3102.96
+Se ingresaron 94.81 en la cuenta 1. El saldo de la cuenta es de 3197.77
+Cliente 2 pidió su saldo que es de: 3132.35
+El cliente 1 ha retirado 3.05 en su cuenta. El saldo de la cuenta es de 3194.71
+Se ingresaron 495.26 en la cuenta 2. El saldo de la cuenta es de 3627.6
+Se ingresaron 256.78 en la cuenta 3. El saldo de la cuenta es de 3884.38
+Se ingresaron 352.23 en la cuenta 0. El saldo de la cuenta es de 7880.94
+Cliente 0 pidió su saldo que es de: 3194.71
+Se ingresaron 432.58 en la cuenta 4. El saldo de la cuenta es de 8313.52
+Se ingresaron 3.05 en la cuenta 3. El saldo de la cuenta es de 3616.94
+El cliente 2 ha retirado 33.41 en su cuenta. El saldo de la cuenta es de 3400.86
+Se ingresaron 419.17 en la cuenta 0. El saldo de la cuenta es de 3613.89
+El cliente 3 ha retirado 450.1 en su cuenta. El saldo de la cuenta es de 3434.28
+El cliente 2 ha retirado 399.43 en su cuenta. El saldo de la cuenta es de 3001.44
+El cliente 1 ha retirado 466.14 en su cuenta. El saldo de la cuenta es de 3150.8
+El cliente 0 intentó retirar 442.0 en su cuenta y no pudo. El saldo de la cuenta es de 3150.8
+El cliente 4 ha retirado 4.97 en su cuenta. El saldo de la cuenta es de 8308.54
+Se ingresaron 450.1 en la cuenta 3. El saldo de la cuenta es de 3451.54
+Se ingresaron 466.14 en la cuenta 1. El saldo de la cuenta es de 3616.94
+El cliente 4 ha retirado 353.81 en su cuenta. El saldo de la cuenta es de 7954.73
+El cliente 0 ha retirado 143.04 en su cuenta. El saldo de la cuenta es de 3473.9
+El cliente 3 ha retirado 343.97 en su cuenta. El saldo de la cuenta es de 3107.57
+Se ingresaron 399.43 en la cuenta 3. El saldo de la cuenta es de 3507.0
+Se ingresaron 143.04 en la cuenta 2. El saldo de la cuenta es de 3616.94
+El cliente 3 intentó retirar 263.95 en su cuenta y no pudo. El saldo de la cuenta es de 3507.0
+El cliente 2 ha retirado 350.4 en su cuenta. El saldo de la cuenta es de 3156.6
+Se ingresaron 353.81 en la cuenta 3. El saldo de la cuenta es de 8308.54
+El cliente 1 ha retirado 60.07 en su cuenta. El saldo de la cuenta es de 3556.87
+El cliente 0 ha retirado 411.93 en su cuenta. El saldo de la cuenta es de 3087.05
+El cliente 2 intentó retirar 281.79 en su cuenta y no pudo. El saldo de la cuenta es de 3156.6
+El cliente 3 intentó retirar 389.87 en su cuenta y no pudo. El saldo de la cuenta es de 3156.6
+El cliente 1 ha retirado 57.89 en su cuenta. El saldo de la cuenta es de 3498.98
+Cliente 4 pidió su saldo que es de: 8308.54
+Se ingresaron 349.46 en la cuenta 2. El saldo de la cuenta es de 3506.06
+El cliente 0 intentó retirar 288.11 en su cuenta y no pudo. El saldo de la cuenta es de 3144.94
+El cliente 3 ha retirado 118.87 en su cuenta. El saldo de la cuenta es de 3387.2
+Se ingresaron 360.82 en la cuenta 4. El saldo de la cuenta es de 8669.37
+Se ingresaron 57.89 en la cuenta 2. El saldo de la cuenta es de 3144.94
+El cliente 2 ha retirado 385.36 en su cuenta. El saldo de la cuenta es de 3001.84
+El cliente 1 intentó retirar 404.49 en su cuenta y no pudo. El saldo de la cuenta es de 3144.94
+Se ingresaron 118.87 en la cuenta 2. El saldo de la cuenta es de 3120.71
+El cliente 4 ha retirado 261.2 en su cuenta. El saldo de la cuenta es de 8408.17
+El cliente 0 ha retirado 4.59 en su cuenta. El saldo de la cuenta es de 3140.36
+El cliente 4 ha retirado 396.09 en su cuenta. El saldo de la cuenta es de 8012.08
+El cliente 3 intentó retirar 162.48 en su cuenta y no pudo. El saldo de la cuenta es de 3120.71
+El cliente 0 intentó retirar 268.69 en su cuenta y no pudo. El saldo de la cuenta es de 3140.36
+Se ingresaron 398.39 en la cuenta 1. El saldo de la cuenta es de 3538.74
+El cliente 2 intentó retirar 381.68 en su cuenta y no pudo. El saldo de la cuenta es de 3120.71
+Se ingresaron 346.93 en la cuenta 3. El saldo de la cuenta es de 3467.63
+El cliente 1 ha retirado 223.61 en su cuenta. El saldo de la cuenta es de 3315.13
+Cliente 2 pidió su saldo que es de: 3120.71
+Se ingresaron 396.09 en la cuenta 1. El saldo de la cuenta es de 8408.17
+Cliente 0 pidió su saldo que es de: 3315.13
+Se ingresaron 158.07 en la cuenta 2. El saldo de la cuenta es de 3625.7
+Se ingresaron 269.85 en la cuenta 0. El saldo de la cuenta es de 3584.98
+El cliente 1 intentó retirar 364.08 en su cuenta y no pudo. El saldo de la cuenta es de 3584.98
+El cliente 4 ha retirado 283.73 en su cuenta. El saldo de la cuenta es de 8124.43
+El cliente 3 ha retirado 179.7 en su cuenta. El saldo de la cuenta es de 3446.0
+Hemos aplicado un incremento de 10% en la cuenta 0
+El cliente 3 ha retirado 73.52 en su cuenta. El saldo de la cuenta es de 3372.49
+El cliente 0 ha retirado 140.04 en su cuenta. El saldo de la cuenta es de 3651.29
+El cliente 4 ha retirado 221.57 en su cuenta. El saldo de la cuenta es de 7902.86
+El cliente 1 ha retirado 152.15 en su cuenta. El saldo de la cuenta es de 3791.33
+Hemos aplicado un incremento de 25% en la cuenta 0
+El cliente 2 ha retirado 118.25 en su cuenta. El saldo de la cuenta es de 3254.23
+El cliente 0 ha retirado 291.38 en su cuenta. El saldo de la cuenta es de 4251.24
+El cliente 2 intentó retirar 259.87 en su cuenta y no pudo. El saldo de la cuenta es de 3254.23
+El cliente 1 ha retirado 21.49 en su cuenta. El saldo de la cuenta es de 4542.62
+Se ingresaron 221.57 en la cuenta 1. El saldo de la cuenta es de 8124.43
+Hemos aplicado un incremento de 10% en la cuenta 1
+Se ingresaron 73.52 en la cuenta 3. El saldo de la cuenta es de 3653.17
+Se ingresaron 37.98 en la cuenta 4. El saldo de la cuenta es de 8162.41
+Hemos aplicado un incremento de 25% en la cuenta 1
+Se ingresaron 291.38 en la cuenta 2. El saldo de la cuenta es de 4542.62
+Se ingresaron 471.8 en la cuenta 2. El saldo de la cuenta es de 4033.36
+Se ingresaron 21.49 en la cuenta 1. El saldo de la cuenta es de 4564.12
+El cliente 3 ha retirado 91.62 en su cuenta. El saldo de la cuenta es de 4033.36
+Se ingresaron 220.47 en la cuenta 1. El saldo de la cuenta es de 4522.61
+El cliente 3 ha retirado 275.89 en su cuenta. El saldo de la cuenta es de 4765.81
+El cliente 0 ha retirado 261.97 en su cuenta. El saldo de la cuenta es de 4302.14
+El cliente 4 ha retirado 10.22 en su cuenta. El saldo de la cuenta es de 8152.19
+Hemos aplicado un incremento de 10% en la cuenta 2
+El cliente 2 ha retirado 196.72 en su cuenta. El saldo de la cuenta es de 4569.08
+El cliente 2 ha retirado 341.34 en su cuenta. El saldo de la cuenta es de 4227.75
+Hemos aplicado un incremento de 25% en la cuenta 2
+El cliente 0 ha retirado 379.07 en su cuenta. El saldo de la cuenta es de 4143.54
+Se ingresaron 275.89 en la cuenta 2. El saldo de la cuenta es de 4503.63
+El cliente 1 ha retirado 3.5 en su cuenta. El saldo de la cuenta es de 4140.04
+El cliente 4 ha retirado 464.79 en su cuenta. El saldo de la cuenta es de 10744.48
+Se ingresaron 464.79 en la cuenta 1. El saldo de la cuenta es de 11209.27
+El cliente 1 ha retirado 295.61 en su cuenta. El saldo de la cuenta es de 3844.43
+Se ingresaron 442.8 en la cuenta 3. El saldo de la cuenta es de 4946.43
+Se ingresaron 379.07 en la cuenta 1. El saldo de la cuenta es de 4223.5
+Hemos aplicado un incremento de 10% en la cuenta 3
+Se ingresaron 341.34 en la cuenta 0. El saldo de la cuenta es de 5287.77
+El cliente 2 ha retirado 209.26 en su cuenta. El saldo de la cuenta es de 5078.51
+El cliente 3 ha retirado 470.2 en su cuenta. El saldo de la cuenta es de 4608.31
+Se ingresaron 295.61 en la cuenta 1. El saldo de la cuenta es de 4240.8
+El cliente 0 ha retirado 278.3 en su cuenta. El saldo de la cuenta es de 3945.19
+El cliente 4 ha retirado 386.95 en su cuenta. El saldo de la cuenta es de 10822.32
+Hemos aplicado un incremento de 25% en la cuenta 3
+Hemos aplicado un incremento de 10% en la cuenta 4
+El cliente 1 ha retirado 339.65 en su cuenta. El saldo de la cuenta es de 3901.15
+Se ingresaron 386.95 en la cuenta 0. El saldo de la cuenta es de 11209.27
+El cliente 3 ha retirado 469.46 en su cuenta. El saldo de la cuenta es de 4138.85
+El cliente 2 ha retirado 321.31 en su cuenta. El saldo de la cuenta es de 3817.54
+El cliente 0 ha retirado 7.58 en su cuenta. El saldo de la cuenta es de 3893.57
+Se ingresaron 7.58 en la cuenta 2. El saldo de la cuenta es de 3901.15
+Hemos aplicado un incremento de 25% en la cuenta 4
+Se ingresaron 469.46 en la cuenta 0. El saldo de la cuenta es de 4608.31
+Se ingresaron 321.31 en la cuenta 0. El saldo de la cuenta es de 4138.85
+Se ingresaron 339.65 en la cuenta 1. El saldo de la cuenta es de 4240.8
+El cliente 4 ha retirado 155.93 en su cuenta. El saldo de la cuenta es de 11053.34
+Se ingresaron 155.93 en la cuenta 3. El saldo de la cuenta es de 11209.27
+El cliente 2 ha retirado 91.64 en su cuenta. El saldo de la cuenta es de 4516.67
+Se ingresaron 202.99 en la cuenta 1. El saldo de la cuenta es de 4443.8
+==== Mes 1 día 0====
+El cliente 0 ha retirado 97.46 en su cuenta. El saldo de la cuenta es de 4346.33
+El cliente 3 ha retirado 291.1 en su cuenta. El saldo de la cuenta es de 4225.57
+El cliente 2 ha retirado 319.8 en su cuenta. El saldo de la cuenta es de 3579.51
+==== Mes 1 día 1====
+El cliente 1 ha retirado 100.43 en su cuenta. El saldo de la cuenta es de 4245.9
+El cliente 0 ha retirado 386.48 en su cuenta. El saldo de la cuenta es de 3859.42
+El cliente 3 ha retirado 326.27 en su cuenta. El saldo de la cuenta es de 3899.3
+El cliente 4 ha retirado 430.99 en su cuenta. El saldo de la cuenta es de 10778.28
+==== Mes 1 día 2====
+El cliente 1 ha retirado 17.65 en su cuenta. El saldo de la cuenta es de 4228.25
+El cliente 4 ha retirado 368.53 en su cuenta. El saldo de la cuenta es de 10409.75
+Se ingresaron 326.27 en la cuenta 2. El saldo de la cuenta es de 3905.78
+Se ingresaron 386.48 en la cuenta 3. El saldo de la cuenta es de 4245.9
+Se ingresaron 319.8 en la cuenta 2. El saldo de la cuenta es de 4225.57
+Se ingresaron 260.37 en la cuenta 0. El saldo de la cuenta es de 4488.62
+El cliente 2 ha retirado 494.7 en su cuenta. El saldo de la cuenta es de 3730.87
+Se ingresaron 368.53 en la cuenta 0. El saldo de la cuenta es de 10778.28
+Se ingresaron 17.65 en la cuenta 2. El saldo de la cuenta es de 4506.27
+Se ingresaron 187.61 en la cuenta 3. El saldo de la cuenta es de 3918.49
+==== Mes 1 día 3====
+El cliente 2 ha retirado 241.39 en su cuenta. El saldo de la cuenta es de 3677.1
+El cliente 4 ha retirado 402.69 en su cuenta. El saldo de la cuenta es de 10375.59
+El cliente 1 ha retirado 348.19 en su cuenta. El saldo de la cuenta es de 4158.08
+El cliente 3 ha retirado 303.5 en su cuenta. El saldo de la cuenta es de 3373.6
+El cliente 0 ha retirado 416.61 en su cuenta. El saldo de la cuenta es de 3741.47
+==== Mes 1 día 4====
+El cliente 3 ha retirado 207.44 en su cuenta. El saldo de la cuenta es de 3166.17
+El cliente 1 ha retirado 430.85 en su cuenta. El saldo de la cuenta es de 3310.61
+==== Mes 1 día 5====
+Se ingresaron 402.69 en la cuenta 0. El saldo de la cuenta es de 10778.28
+El cliente 0 ha retirado 150.89 en su cuenta. El saldo de la cuenta es de 3159.72
+Se ingresaron 241.39 en la cuenta 0. El saldo de la cuenta es de 3407.55
+Se ingresaron 430.85 en la cuenta 2. El saldo de la cuenta es de 3590.57
+==== Mes 1 día 6====
+El cliente 2 intentó retirar 475.87 en su cuenta y no pudo. El saldo de la cuenta es de 3407.55
+Se ingresaron 150.89 en la cuenta 3. El saldo de la cuenta es de 3741.47
+Se ingresaron 207.44 en la cuenta 0. El saldo de la cuenta es de 3614.99
+Cliente 4 pidió su saldo que es de: 10778.28
+==== Mes 1 día 7====
+El cliente 3 ha retirado 340.05 en su cuenta. El saldo de la cuenta es de 3274.94
+El cliente 2 intentó retirar 409.67 en su cuenta y no pudo. El saldo de la cuenta es de 3274.94
+El cliente 1 ha retirado 56.59 en su cuenta. El saldo de la cuenta es de 3452.08
+El cliente 0 ha retirado 232.79 en su cuenta. El saldo de la cuenta es de 3508.67
+Se ingresaron 413.4 en la cuenta 4. El saldo de la cuenta es de 11191.68
+El cliente 0 ha retirado 145.49 en su cuenta. El saldo de la cuenta es de 3306.59
+El cliente 4 ha retirado 275.05 en su cuenta. El saldo de la cuenta es de 10916.63
+Se ingresaron 160.91 en la cuenta 2. El saldo de la cuenta es de 3435.85
+El cliente 1 intentó retirar 414.93 en su cuenta y no pudo. El saldo de la cuenta es de 3306.59
+El cliente 3 ha retirado 253.93 en su cuenta. El saldo de la cuenta es de 3181.92
+==== Mes 1 día 8====
+Se ingresaron 107.09 en la cuenta 1. El saldo de la cuenta es de 3413.68
+Se ingresaron 253.93 en la cuenta 0. El saldo de la cuenta es de 3435.85
+Se ingresaron 145.49 en la cuenta 3. El saldo de la cuenta es de 3559.17
+El cliente 2 ha retirado 354.57 en su cuenta. El saldo de la cuenta es de 3081.28
+==== Mes 1 día 9====
+El cliente 4 ha retirado 227.15 en su cuenta. El saldo de la cuenta es de 10689.48
+==== Mes 1 día 10====
+El cliente 2 intentó retirar 487.88 en su cuenta y no pudo. El saldo de la cuenta es de 3081.28
+El cliente 0 ha retirado 57.23 en su cuenta. El saldo de la cuenta es de 3501.94
+Se ingresaron 227.15 en la cuenta 3. El saldo de la cuenta es de 10916.63
+Se ingresaron 442.37 en la cuenta 3. El saldo de la cuenta es de 3523.65
+El cliente 1 ha retirado 194.05 en su cuenta. El saldo de la cuenta es de 3307.89
+El cliente 3 ha retirado 378.41 en su cuenta. El saldo de la cuenta es de 3145.24
+El cliente 0 intentó retirar 414.94 en su cuenta y no pudo. El saldo de la cuenta es de 3307.89
+==== Mes 1 día 11====
+El cliente 1 ha retirado 180.71 en su cuenta. El saldo de la cuenta es de 3127.18
+Cliente 2 pidió su saldo que es de: 3145.24
+Se ingresaron 485.68 en la cuenta 4. El saldo de la cuenta es de 11402.3
+Se ingresaron 195.89 en la cuenta 2. El saldo de la cuenta es de 3341.13
+==== Mes 1 día 12====
+El cliente 0 intentó retirar 257.0 en su cuenta y no pudo. El saldo de la cuenta es de 3127.18
+Se ingresaron 180.71 en la cuenta 2. El saldo de la cuenta es de 3307.89
+El cliente 4 ha retirado 293.78 en su cuenta. El saldo de la cuenta es de 11108.53
+El cliente 3 ha retirado 155.53 en su cuenta. El saldo de la cuenta es de 3185.61
+El cliente 0 ha retirado 139.42 en su cuenta. El saldo de la cuenta es de 3168.47
+Se ingresaron 155.53 en la cuenta 2. El saldo de la cuenta es de 3341.13
+El cliente 4 ha retirado 114.52 en su cuenta. El saldo de la cuenta es de 10994.01
+Cliente 1 pidió su saldo que es de: 3168.47
+==== Mes 1 día 13====
+El cliente 2 ha retirado 198.06 en su cuenta. El saldo de la cuenta es de 3143.07
+==== Mes 1 día 14====
+Se ingresaron 400.73 en la cuenta 1. El saldo de la cuenta es de 3569.2
+El cliente 3 intentó retirar 375.53 en su cuenta y no pudo. El saldo de la cuenta es de 3143.07
+Se ingresaron 114.52 en la cuenta 1. El saldo de la cuenta es de 11108.53
+Se ingresaron 139.42 en la cuenta 3. El saldo de la cuenta es de 3708.62
+El cliente 2 intentó retirar 251.68 en su cuenta y no pudo. El saldo de la cuenta es de 3143.07
+Cliente 2 pidió su saldo que es de: 3143.07
+Cliente 0 pidió su saldo que es de: 3708.62
+==== Mes 1 día 15====
+El cliente 1 ha retirado 76.04 en su cuenta. El saldo de la cuenta es de 3632.58
+El cliente 3 intentó retirar 387.63 en su cuenta y no pudo. El saldo de la cuenta es de 3143.07
+Se ingresaron 398.48 en la cuenta 4. El saldo de la cuenta es de 11507.01
+El cliente 4 ha retirado 135.18 en su cuenta. El saldo de la cuenta es de 11371.83
+El cliente 3 intentó retirar 394.79 en su cuenta y no pudo. El saldo de la cuenta es de 3143.07
+==== Mes 1 día 16====
+El cliente 1 ha retirado 151.09 en su cuenta. El saldo de la cuenta es de 3481.49
+Se ingresaron 92.63 en la cuenta 2. El saldo de la cuenta es de 3235.7
+Se ingresaron 60.03 en la cuenta 0. El saldo de la cuenta es de 3541.52
+El cliente 0 ha retirado 360.47 en su cuenta. El saldo de la cuenta es de 3181.04
+El cliente 2 intentó retirar 272.38 en su cuenta y no pudo. El saldo de la cuenta es de 3235.7
+==== Mes 1 día 17====
+El cliente 3 intentó retirar 435.56 en su cuenta y no pudo. El saldo de la cuenta es de 3235.7
+Se ingresaron 151.09 en la cuenta 3. El saldo de la cuenta es de 3332.14
+El cliente 4 ha retirado 104.76 en su cuenta. El saldo de la cuenta es de 11267.07
+==== Mes 1 día 18====
+Se ingresaron 104.76 en la cuenta 3. El saldo de la cuenta es de 11371.83
+El cliente 3 intentó retirar 485.91 en su cuenta y no pudo. El saldo de la cuenta es de 3235.7
+El cliente 2 intentó retirar 340.45 en su cuenta y no pudo. El saldo de la cuenta es de 3235.7
+El cliente 0 intentó retirar 283.07 en su cuenta y no pudo. El saldo de la cuenta es de 3139.54
+El cliente 1 ha retirado 192.6 en su cuenta. El saldo de la cuenta es de 3139.54
+Cliente 0 pidió su saldo que es de: 3139.54
+El cliente 1 intentó retirar 146.75 en su cuenta y no pudo. El saldo de la cuenta es de 3139.54
+Se ingresaron 99.07 en la cuenta 3. El saldo de la cuenta es de 3334.77
+El cliente 2 ha retirado 121.1 en su cuenta. El saldo de la cuenta es de 3213.67
+El cliente 4 ha retirado 17.49 en su cuenta. El saldo de la cuenta es de 11354.34
+==== Mes 1 día 19====
+==== Mes 1 día 20====
+El cliente 2 intentó retirar 352.98 en su cuenta y no pudo. El saldo de la cuenta es de 3213.67
+Se ingresaron 17.49 en la cuenta 1. El saldo de la cuenta es de 11371.83
+El cliente 3 ha retirado 134.52 en su cuenta. El saldo de la cuenta es de 3079.15
+El cliente 1 ha retirado 284.67 en su cuenta. El saldo de la cuenta es de 3055.07
+Se ingresaron 200.21 en la cuenta 0. El saldo de la cuenta es de 3339.74
+El cliente 4 ha retirado 174.69 en su cuenta. El saldo de la cuenta es de 11197.14
+Se ingresaron 284.67 en la cuenta 1. El saldo de la cuenta es de 3339.74
+El cliente 3 intentó retirar 328.53 en su cuenta y no pudo. El saldo de la cuenta es de 3079.15
+Se ingresaron 75.35 en la cuenta 2. El saldo de la cuenta es de 3154.51
+==== Mes 1 día 21====
+El cliente 0 ha retirado 182.79 en su cuenta. El saldo de la cuenta es de 3156.96
+Cliente 3 pidió su saldo que es de: 3154.51
+El cliente 1 intentó retirar 262.5 en su cuenta y no pudo. El saldo de la cuenta es de 3156.96
+El cliente 0 intentó retirar 206.51 en su cuenta y no pudo. El saldo de la cuenta es de 3156.96
+El cliente 2 ha retirado 45.44 en su cuenta. El saldo de la cuenta es de 3109.07
+El cliente 4 ha retirado 322.9 en su cuenta. El saldo de la cuenta es de 10874.23
+==== Mes 1 día 22====
+==== Mes 1 día 23====
+El cliente 2 intentó retirar 444.86 en su cuenta y no pudo. El saldo de la cuenta es de 3109.07
+El cliente 1 intentó retirar 253.49 en su cuenta y no pudo. El saldo de la cuenta es de 3156.96
+Cliente 0 pidió su saldo que es de: 3156.96
+Se ingresaron 53.23 en la cuenta 3. El saldo de la cuenta es de 3162.3
+Se ingresaron 322.9 en la cuenta 1. El saldo de la cuenta es de 11197.14
+Se ingresaron 394.58 en la cuenta 0. El saldo de la cuenta es de 3551.54
+El cliente 3 ha retirado 118.41 en su cuenta. El saldo de la cuenta es de 3043.89
+Se ingresaron 382.85 en la cuenta 4. El saldo de la cuenta es de 11579.99
+El cliente 2 intentó retirar 59.82 en su cuenta y no pudo. El saldo de la cuenta es de 3043.89
+El cliente 1 ha retirado 258.16 en su cuenta. El saldo de la cuenta es de 3293.38
+==== Mes 1 día 24====
+Se ingresaron 258.16 en la cuenta 3. El saldo de la cuenta es de 3551.54
+El cliente 3 intentó retirar 445.91 en su cuenta y no pudo. El saldo de la cuenta es de 3043.89
+==== Mes 1 día 25====
+El cliente 4 ha retirado 199.59 en su cuenta. El saldo de la cuenta es de 11380.4
+El cliente 0 ha retirado 358.25 en su cuenta. El saldo de la cuenta es de 3193.29
+El cliente 2 intentó retirar 490.2 en su cuenta y no pudo. El saldo de la cuenta es de 3043.89
+El cliente 4 ha retirado 17.36 en su cuenta. El saldo de la cuenta es de 11363.04
+Cliente 2 pidió su saldo que es de: 3506.47
+Se ingresaron 462.58 en la cuenta 3. El saldo de la cuenta es de 3506.47
+El cliente 1 intentó retirar 414.02 en su cuenta y no pudo. El saldo de la cuenta es de 3060.43
+El cliente 0 ha retirado 132.87 en su cuenta. El saldo de la cuenta es de 3060.43
+==== Mes 1 día 26====
+Se ingresaron 132.87 en la cuenta 3. El saldo de la cuenta es de 3193.29
+El cliente 3 ha retirado 38.37 en su cuenta. El saldo de la cuenta es de 3468.1
+El cliente 1 intentó retirar 366.91 en su cuenta y no pudo. El saldo de la cuenta es de 3193.29
+==== Mes 1 día 27====
+Se ingresaron 106.09 en la cuenta 2. El saldo de la cuenta es de 3574.18
+Se ingresaron 17.36 en la cuenta 1. El saldo de la cuenta es de 11380.4
+Se ingresaron 482.88 en la cuenta 4. El saldo de la cuenta es de 11863.28
+El cliente 3 ha retirado 483.4 en su cuenta. El saldo de la cuenta es de 3090.78
+El cliente 1 ha retirado 68.86 en su cuenta. El saldo de la cuenta es de 3124.43
+El cliente 2 ha retirado 24.76 en su cuenta. El saldo de la cuenta es de 3066.02
+==== Mes 1 día 28====
+Se ingresaron 428.3 en la cuenta 0. El saldo de la cuenta es de 3552.73
+El cliente 0 ha retirado 269.65 en su cuenta. El saldo de la cuenta es de 3283.08
+==== Mes 1 día 29====
+El cliente 2 intentó retirar 397.78 en su cuenta y no pudo. El saldo de la cuenta es de 3066.02
+Se ingresaron 483.4 en la cuenta 2. El saldo de la cuenta es de 3549.43
+El cliente 4 ha retirado 320.47 en su cuenta. El saldo de la cuenta es de 11542.81
+Se ingresaron 68.86 en la cuenta 3. El saldo de la cuenta es de 3351.94
+Se ingresaron 272.8 en la cuenta 3. El saldo de la cuenta es de 3822.23
+El cliente 1 intentó retirar 353.54 en su cuenta y no pudo. El saldo de la cuenta es de 3351.94
+==== Mes 1 día 30====
+El cliente 2 ha retirado 91.15 en su cuenta. El saldo de la cuenta es de 3731.08
+El cliente 0 intentó retirar 459.81 en su cuenta y no pudo. El saldo de la cuenta es de 3351.94
+El cliente 4 ha retirado 399.16 en su cuenta. El saldo de la cuenta es de 11143.65
+El cliente 0 intentó retirar 389.16 en su cuenta y no pudo. El saldo de la cuenta es de 3351.94
+El cliente 2 ha retirado 464.81 en su cuenta. El saldo de la cuenta es de 3266.27
+Se ingresaron 399.16 en la cuenta 0. El saldo de la cuenta es de 11542.81
+El cliente 1 ha retirado 105.51 en su cuenta. El saldo de la cuenta es de 3246.43
+El cliente 3 intentó retirar 358.29 en su cuenta y no pudo. El saldo de la cuenta es de 3266.27
+Cliente 4 pidió su saldo que es de: 11542.81
+Cliente 0 pidió su saldo que es de: 3246.43
+El cliente 3 intentó retirar 316.7 en su cuenta y no pudo. El saldo de la cuenta es de 3266.27
+Se ingresaron 105.51 en la cuenta 1. El saldo de la cuenta es de 3351.94
+Se ingresaron 464.81 en la cuenta 3. El saldo de la cuenta es de 3731.08
+Se ingresaron 18.91 en la cuenta 3. El saldo de la cuenta es de 3402.17
+Se ingresaron 337.28 en la cuenta 0. El saldo de la cuenta es de 3642.09
+Se ingresaron 220.45 en la cuenta 4. El saldo de la cuenta es de 11763.26
+El cliente 2 ha retirado 347.81 en su cuenta. El saldo de la cuenta es de 3402.17
+El cliente 1 ha retirado 47.13 en su cuenta. El saldo de la cuenta es de 3642.09
+El cliente 1 ha retirado 355.48 en su cuenta. El saldo de la cuenta es de 3286.61
+El cliente 4 ha retirado 444.02 en su cuenta. El saldo de la cuenta es de 11319.24
+Se ingresaron 347.81 en la cuenta 2. El saldo de la cuenta es de 3749.98
+El cliente 0 ha retirado 257.06 en su cuenta. El saldo de la cuenta es de 3029.55
+El cliente 3 ha retirado 58.59 en su cuenta. El saldo de la cuenta es de 3691.39
+Cliente 2 pidió su saldo que es de: 3691.39
+El cliente 0 intentó retirar 183.82 en su cuenta y no pudo. El saldo de la cuenta es de 3029.55
+El cliente 3 ha retirado 48.76 en su cuenta. El saldo de la cuenta es de 3642.63
+El cliente 4 ha retirado 84.78 en su cuenta. El saldo de la cuenta es de 11234.46
+Se ingresaron 355.48 en la cuenta 1. El saldo de la cuenta es de 3385.03
+Se ingresaron 90.95 en la cuenta 1. El saldo de la cuenta es de 3475.98
+Se ingresaron 48.76 en la cuenta 3. El saldo de la cuenta es de 3691.39
+Se ingresaron 117.87 en la cuenta 2. El saldo de la cuenta es de 3809.27
+El cliente 0 intentó retirar 477.89 en su cuenta y no pudo. El saldo de la cuenta es de 3475.98
+Se ingresaron 84.78 en la cuenta 0. El saldo de la cuenta es de 11319.24
+Se ingresaron 120.61 en la cuenta 3. El saldo de la cuenta es de 3929.88
+El cliente 1 ha retirado 294.15 en su cuenta. El saldo de la cuenta es de 3058.94
+El cliente 2 ha retirado 376.9 en su cuenta. El saldo de la cuenta es de 3552.98
+El cliente 4 ha retirado 79.17 en su cuenta. El saldo de la cuenta es de 11240.07
+El cliente 0 ha retirado 122.88 en su cuenta. El saldo de la cuenta es de 3353.09
+Se ingresaron 122.88 en la cuenta 1. El saldo de la cuenta es de 3181.83
+El cliente 1 intentó retirar 124.14 en su cuenta y no pudo. El saldo de la cuenta es de 3058.94
+Se ingresaron 79.17 en la cuenta 0. El saldo de la cuenta es de 11319.24
+El cliente 2 ha retirado 493.87 en su cuenta. El saldo de la cuenta es de 3059.11
+El cliente 3 intentó retirar 392.24 en su cuenta y no pudo. El saldo de la cuenta es de 3059.11
+El cliente 1 ha retirado 83.19 en su cuenta. El saldo de la cuenta es de 3098.64
+El cliente 3 intentó retirar 231.76 en su cuenta y no pudo. El saldo de la cuenta es de 3059.11
+El cliente 4 ha retirado 415.87 en su cuenta. El saldo de la cuenta es de 10903.37
+El cliente 0 intentó retirar 466.43 en su cuenta y no pudo. El saldo de la cuenta es de 3098.64
+Se ingresaron 493.87 en la cuenta 3. El saldo de la cuenta es de 3552.98
+El cliente 3 intentó retirar 477.85 en su cuenta y no pudo. El saldo de la cuenta es de 3260.17
+El cliente 4 ha retirado 117.65 en su cuenta. El saldo de la cuenta es de 10785.72
+El cliente 2 ha retirado 292.81 en su cuenta. El saldo de la cuenta es de 3260.17
+El cliente 0 ha retirado 60.96 en su cuenta. El saldo de la cuenta es de 3037.68
+Se ingresaron 83.19 en la cuenta 3. El saldo de la cuenta es de 3120.87
+El cliente 1 ha retirado 15.48 en su cuenta. El saldo de la cuenta es de 3105.38
+Se ingresaron 117.65 en la cuenta 3. El saldo de la cuenta es de 10903.37
+El cliente 0 ha retirado 23.98 en su cuenta. El saldo de la cuenta es de 3081.4
+Se ingresaron 292.81 en la cuenta 0. El saldo de la cuenta es de 3552.98
+El cliente 3 ha retirado 498.72 en su cuenta. El saldo de la cuenta es de 3054.26
+Se ingresaron 41.77 en la cuenta 2. El saldo de la cuenta es de 3096.04
+Se ingresaron 498.72 en la cuenta 0. El saldo de la cuenta es de 3594.75
+El cliente 1 intentó retirar 253.33 en su cuenta y no pudo. El saldo de la cuenta es de 3105.38
+Se ingresaron 469.15 en la cuenta 4. El saldo de la cuenta es de 11372.52
+Se ingresaron 23.98 en la cuenta 1. El saldo de la cuenta es de 3105.38
+El cliente 0 intentó retirar 245.25 en su cuenta y no pudo. El saldo de la cuenta es de 3105.38
+El cliente 3 ha retirado 468.63 en su cuenta. El saldo de la cuenta es de 3126.13
+El cliente 1 intentó retirar 483.42 en su cuenta y no pudo. El saldo de la cuenta es de 3105.38
+El cliente 2 ha retirado 106.56 en su cuenta. El saldo de la cuenta es de 3019.57
+El cliente 4 ha retirado 57.07 en su cuenta. El saldo de la cuenta es de 11315.45
+El cliente 4 ha retirado 141.82 en su cuenta. El saldo de la cuenta es de 11173.63
+El cliente 1 intentó retirar 201.18 en su cuenta y no pudo. El saldo de la cuenta es de 3105.38
+El cliente 3 intentó retirar 73.54 en su cuenta y no pudo. El saldo de la cuenta es de 3019.57
+El cliente 2 intentó retirar 55.79 en su cuenta y no pudo. El saldo de la cuenta es de 3019.57
+El cliente 0 intentó retirar 181.5 en su cuenta y no pudo. El saldo de la cuenta es de 3105.38
+Cliente 2 pidió su saldo que es de: 3019.57
+El cliente 0 ha retirado 57.37 en su cuenta. El saldo de la cuenta es de 3048.01
+El cliente 3 intentó retirar 112.92 en su cuenta y no pudo. El saldo de la cuenta es de 3019.57
+El cliente 1 intentó retirar 491.79 en su cuenta y no pudo. El saldo de la cuenta es de 3048.01
+Se ingresaron 141.82 en la cuenta 3. El saldo de la cuenta es de 11315.45
+Se ingresaron 347.8 en la cuenta 4. El saldo de la cuenta es de 11663.25
+El cliente 0 intentó retirar 101.14 en su cuenta y no pudo. El saldo de la cuenta es de 3048.01
+Cliente 3 pidió su saldo que es de: 3019.57
+El cliente 1 intentó retirar 175.97 en su cuenta y no pudo. El saldo de la cuenta es de 3048.01
+Se ingresaron 403.42 en la cuenta 2. El saldo de la cuenta es de 3422.98
+El cliente 0 intentó retirar 413.4 en su cuenta y no pudo. El saldo de la cuenta es de 3048.01
+Se ingresaron 205.5 en la cuenta 3. El saldo de la cuenta es de 3283.06
+El cliente 4 ha retirado 297.81 en su cuenta. El saldo de la cuenta es de 11365.43
+Cliente 1 pidió su saldo que es de: 3048.01
+El cliente 2 ha retirado 345.42 en su cuenta. El saldo de la cuenta es de 3077.56
+Se ingresaron 376.91 en la cuenta 1. El saldo de la cuenta es de 3424.92
+El cliente 4 ha retirado 149.99 en su cuenta. El saldo de la cuenta es de 11215.44
+El cliente 0 intentó retirar 474.73 en su cuenta y no pudo. El saldo de la cuenta es de 3424.92
+El cliente 2 ha retirado 25.8 en su cuenta. El saldo de la cuenta es de 3257.26
+El cliente 3 intentó retirar 450.51 en su cuenta y no pudo. El saldo de la cuenta es de 3257.26
+Hemos aplicado un incremento de 10% en la cuenta 0
+Se ingresaron 25.8 en la cuenta 3. El saldo de la cuenta es de 3283.06
+El cliente 1 ha retirado 25.55 en su cuenta. El saldo de la cuenta es de 3356.25
+El cliente 0 ha retirado 385.61 en su cuenta. El saldo de la cuenta es de 3381.8
+Se ingresaron 149.99 en la cuenta 0. El saldo de la cuenta es de 11365.43
+El cliente 3 intentó retirar 335.53 en su cuenta y no pudo. El saldo de la cuenta es de 3283.06
+Hemos aplicado un incremento de 25% en la cuenta 0
+El cliente 1 ha retirado 491.62 en su cuenta. El saldo de la cuenta es de 3703.7
+Hemos aplicado un incremento de 10% en la cuenta 1
+El cliente 3 ha retirado 173.85 en su cuenta. El saldo de la cuenta es de 3109.2
+Se ingresaron 445.54 en la cuenta 4. El saldo de la cuenta es de 11810.97
+El cliente 0 ha retirado 316.98 en su cuenta. El saldo de la cuenta es de 3386.72
+Se ingresaron 430.03 en la cuenta 2. El saldo de la cuenta es de 3850.15
+El cliente 2 ha retirado 150.72 en su cuenta. El saldo de la cuenta es de 3699.43
+El cliente 4 ha retirado 177.91 en su cuenta. El saldo de la cuenta es de 11633.06
+Se ingresaron 316.98 en la cuenta 1. El saldo de la cuenta es de 3703.7
+Se ingresaron 173.85 en la cuenta 0. El saldo de la cuenta es de 4798.15
+Se ingresaron 491.62 en la cuenta 3. El saldo de la cuenta es de 4195.32
+Hemos aplicado un incremento de 25% en la cuenta 1
+El cliente 1 ha retirado 95.09 en su cuenta. El saldo de la cuenta es de 4100.23
+Hemos aplicado un incremento de 10% en la cuenta 2
+Se ingresaron 13.75 en la cuenta 0. El saldo de la cuenta es de 4113.98
+El cliente 4 ha retirado 311.98 en su cuenta. El saldo de la cuenta es de 12484.39
+El cliente 3 ha retirado 219.46 en su cuenta. El saldo de la cuenta es de 4578.69
+El cliente 2 ha retirado 353.84 en su cuenta. El saldo de la cuenta es de 4224.84
+Se ingresaron 219.46 en la cuenta 0. El saldo de la cuenta es de 4444.3
+El cliente 0 ha retirado 442.43 en su cuenta. El saldo de la cuenta es de 3671.55
+Se ingresaron 311.98 en la cuenta 0. El saldo de la cuenta es de 15917.47
+Se ingresaron 353.84 en la cuenta 0. El saldo de la cuenta es de 4798.15
+Hemos aplicado un incremento de 25% en la cuenta 2
+Se ingresaron 95.09 en la cuenta 3. El saldo de la cuenta es de 3766.64
+Se ingresaron 109.9 en la cuenta 2. El saldo de la cuenta es de 4908.04
+Se ingresaron 211.09 en la cuenta 1. El saldo de la cuenta es de 3977.73
+Se ingresaron 50.24 en la cuenta 4. El saldo de la cuenta es de 15967.71
+El cliente 0 ha retirado 25.44 en su cuenta. El saldo de la cuenta es de 3952.28
+Hemos aplicado un incremento de 10% en la cuenta 3
+Se ingresaron 133.69 en la cuenta 3. El saldo de la cuenta es de 5041.73
+El cliente 4 ha retirado 483.98 en su cuenta. El saldo de la cuenta es de 15483.73
+El cliente 2 ha retirado 472.45 en su cuenta. El saldo de la cuenta es de 4569.28
+El cliente 1 ha retirado 105.62 en su cuenta. El saldo de la cuenta es de 3846.66
+El cliente 3 ha retirado 399.35 en su cuenta. El saldo de la cuenta es de 4169.93
+Hemos aplicado un incremento de 25% en la cuenta 3
+Se ingresaron 25.44 en la cuenta 1. El saldo de la cuenta es de 3872.11
+El cliente 0 ha retirado 398.22 en su cuenta. El saldo de la cuenta es de 3321.79
+El cliente 2 ha retirado 228.06 en su cuenta. El saldo de la cuenta es de 3941.87
+El cliente 1 ha retirado 152.1 en su cuenta. El saldo de la cuenta es de 3720.01
+Hemos aplicado un incremento de 10% en la cuenta 4
+El cliente 3 ha retirado 130.9 en su cuenta. El saldo de la cuenta es de 3810.97
+El cliente 4 ha retirado 291.5 en su cuenta. El saldo de la cuenta es de 15192.23
+Se ingresaron 228.06 en la cuenta 2. El saldo de la cuenta es de 4039.03
+Se ingresaron 291.5 en la cuenta 3. El saldo de la cuenta es de 15483.73
+Se ingresaron 152.1 en la cuenta 2. El saldo de la cuenta es de 3473.89
+Hemos aplicado un incremento de 25% en la cuenta 4
+Se ingresaron 398.22 en la cuenta 3. El saldo de la cuenta es de 3872.11
+Se ingresaron 130.9 en la cuenta 3. El saldo de la cuenta es de 4169.93
+==== Mes 2 día 0====
+Se ingresaron 395.04 en la cuenta 4. El saldo de la cuenta es de 15878.77
+El cliente 1 ha retirado 327.38 en su cuenta. El saldo de la cuenta es de 3544.72
+El cliente 2 ha retirado 438.26 en su cuenta. El saldo de la cuenta es de 3731.67
+El cliente 3 ha retirado 57.99 en su cuenta. El saldo de la cuenta es de 3673.68
+El cliente 0 ha retirado 31.19 en su cuenta. El saldo de la cuenta es de 3513.54
+El cliente 1 ha retirado 40.23 en su cuenta. El saldo de la cuenta es de 3473.3
+El cliente 4 ha retirado 22.37 en su cuenta. El saldo de la cuenta es de 15856.4
+Se ingresaron 438.26 en la cuenta 2. El saldo de la cuenta es de 4111.94
+El cliente 0 ha retirado 120.11 en su cuenta. El saldo de la cuenta es de 3353.19
+==== Mes 2 día 1====
+Se ingresaron 57.99 en la cuenta 0. El saldo de la cuenta es de 4169.93
+El cliente 4 ha retirado 27.74 en su cuenta. El saldo de la cuenta es de 15828.65
+El cliente 2 ha retirado 416.99 en su cuenta. El saldo de la cuenta es de 3752.94
+Cliente 3 pidió su saldo que es de: 4169.93
+==== Mes 2 día 2====
+Se ingresaron 40.23 en la cuenta 3. El saldo de la cuenta es de 3513.54
+Se ingresaron 120.11 en la cuenta 3. El saldo de la cuenta es de 3473.3
+Se ingresaron 413.11 en la cuenta 1. El saldo de la cuenta es de 3926.65
+Se ingresaron 416.99 en la cuenta 3. El saldo de la cuenta es de 4169.93
+==== Mes 2 día 3====
+Se ingresaron 243.73 en la cuenta 3. El saldo de la cuenta es de 4413.65
+Se ingresaron 402.19 en la cuenta 0. El saldo de la cuenta es de 4328.84
+Se ingresaron 27.74 en la cuenta 3. El saldo de la cuenta es de 15856.4
+El cliente 3 ha retirado 289.28 en su cuenta. El saldo de la cuenta es de 4124.37
+Se ingresaron 162.94 en la cuenta 2. El saldo de la cuenta es de 4287.31
+==== Mes 2 día 4====
+El cliente 4 ha retirado 391.98 en su cuenta. El saldo de la cuenta es de 15464.42
+El cliente 1 ha retirado 6.17 en su cuenta. El saldo de la cuenta es de 3951.5
+El cliente 0 ha retirado 371.18 en su cuenta. El saldo de la cuenta es de 3957.67
+El cliente 2 ha retirado 348.76 en su cuenta. El saldo de la cuenta es de 3938.55
+El cliente 0 ha retirado 125.26 en su cuenta. El saldo de la cuenta es de 3826.24
+El cliente 1 ha retirado 157.76 en su cuenta. El saldo de la cuenta es de 3668.47
+El cliente 4 ha retirado 273.1 en su cuenta. El saldo de la cuenta es de 15191.32
+El cliente 3 ha retirado 460.4 en su cuenta. El saldo de la cuenta es de 3478.15
+==== Mes 2 día 5====
+==== Mes 2 día 6====
+Se ingresaron 273.1 en la cuenta 0. El saldo de la cuenta es de 15464.42
+Se ingresaron 460.4 en la cuenta 2. El saldo de la cuenta es de 3938.55
+Se ingresaron 157.76 en la cuenta 1. El saldo de la cuenta es de 3826.24
+El cliente 2 ha retirado 189.97 en su cuenta. El saldo de la cuenta es de 3748.58
+Se ingresaron 125.26 en la cuenta 2. El saldo de la cuenta es de 3951.5
+El cliente 3 ha retirado 99.05 en su cuenta. El saldo de la cuenta es de 3649.53
+El cliente 4 ha retirado 228.48 en su cuenta. El saldo de la cuenta es de 15235.94
+El cliente 1 ha retirado 259.57 en su cuenta. El saldo de la cuenta es de 4133.24
+Se ingresaron 189.97 en la cuenta 3. El saldo de la cuenta es de 3839.5
+==== Mes 2 día 7====
+Se ingresaron 441.32 en la cuenta 0. El saldo de la cuenta es de 4392.82
+El cliente 0 ha retirado 450.58 en su cuenta. El saldo de la cuenta es de 3682.67
+Se ingresaron 228.48 en la cuenta 0. El saldo de la cuenta es de 15464.42
+El cliente 2 ha retirado 140.06 en su cuenta. El saldo de la cuenta es de 3699.44
+==== Mes 2 día 8====
+El cliente 1 ha retirado 104.92 en su cuenta. El saldo de la cuenta es de 3577.75
+Se ingresaron 99.05 en la cuenta 3. El saldo de la cuenta es de 3798.49
+El cliente 3 ha retirado 109.8 en su cuenta. El saldo de la cuenta es de 3688.69
+El cliente 2 ha retirado 91.95 en su cuenta. El saldo de la cuenta es de 3596.74
+Cliente 4 pidió su saldo que es de: 15464.42
+Se ingresaron 104.92 en la cuenta 3. El saldo de la cuenta es de 3682.67
+==== Mes 2 día 9====
+El cliente 0 ha retirado 422.73 en su cuenta. El saldo de la cuenta es de 3259.94
+==== Mes 2 día 10====
+Se ingresaron 478.15 en la cuenta 1. El saldo de la cuenta es de 3738.09
+Se ingresaron 345.25 en la cuenta 4. El saldo de la cuenta es de 15809.67
+Se ingresaron 422.73 en la cuenta 1. El saldo de la cuenta es de 4160.82
+El cliente 3 ha retirado 317.93 en su cuenta. El saldo de la cuenta es de 3370.77
+Se ingresaron 91.95 en la cuenta 3. El saldo de la cuenta es de 3688.69
+El cliente 4 ha retirado 378.94 en su cuenta. El saldo de la cuenta es de 15430.73
+Cliente 2 pidió su saldo que es de: 3370.77
+Se ingresaron 317.93 en la cuenta 3. El saldo de la cuenta es de 3688.69
+Se ingresaron 311.19 en la cuenta 0. El saldo de la cuenta es de 4472.02
+El cliente 1 ha retirado 121.19 en su cuenta. El saldo de la cuenta es de 4350.83
+==== Mes 2 día 11====
+Se ingresaron 168.02 en la cuenta 2. El saldo de la cuenta es de 3856.71
+El cliente 1 ha retirado 53.61 en su cuenta. El saldo de la cuenta es de 4297.22
+El cliente 4 ha retirado 440.04 en su cuenta. El saldo de la cuenta es de 14990.69
+==== Mes 2 día 12====
+El cliente 0 ha retirado 142.04 en su cuenta. El saldo de la cuenta es de 4155.18
+El cliente 3 ha retirado 423.61 en su cuenta. El saldo de la cuenta es de 3433.1
+El cliente 0 ha retirado 472.15 en su cuenta. El saldo de la cuenta es de 3683.03
+Se ingresaron 440.04 en la cuenta 1. El saldo de la cuenta es de 15430.73
+El cliente 3 ha retirado 141.43 en su cuenta. El saldo de la cuenta es de 3291.68
+==== Mes 2 día 13====
+Se ingresaron 53.61 en la cuenta 3. El saldo de la cuenta es de 3736.64
+El cliente 2 ha retirado 60.16 en su cuenta. El saldo de la cuenta es de 3231.51
+Se ingresaron 472.15 en la cuenta 1. El saldo de la cuenta es de 4208.79
+El cliente 1 ha retirado 236.93 en su cuenta. El saldo de la cuenta es de 3971.86
+El cliente 4 ha retirado 422.13 en su cuenta. El saldo de la cuenta es de 15008.6
+El cliente 2 intentó retirar 453.39 en su cuenta y no pudo. El saldo de la cuenta es de 3231.51
+Se ingresaron 27.04 en la cuenta 0. El saldo de la cuenta es de 3998.9
+Se ingresaron 141.43 en la cuenta 0. El saldo de la cuenta es de 3372.94
+==== Mes 2 día 14====
+==== Mes 2 día 15====
+El cliente 0 ha retirado 499.78 en su cuenta. El saldo de la cuenta es de 3499.12
+Se ingresaron 236.93 en la cuenta 1. El saldo de la cuenta es de 3736.05
+Cliente 2 pidió su saldo que es de: 3849.78
+Se ingresaron 476.84 en la cuenta 3. El saldo de la cuenta es de 3849.78
+El cliente 4 ha retirado 493.64 en su cuenta. El saldo de la cuenta es de 14514.96
+El cliente 3 ha retirado 454.09 en su cuenta. El saldo de la cuenta es de 3395.68
+El cliente 0 ha retirado 28.33 en su cuenta. El saldo de la cuenta es de 3707.72
+Se ingresaron 493.64 en la cuenta 0. El saldo de la cuenta es de 15008.6
+El cliente 1 ha retirado 258.67 en su cuenta. El saldo de la cuenta es de 3449.05
+==== Mes 2 día 16====
+Se ingresaron 55.3 en la cuenta 2. El saldo de la cuenta es de 3450.98
+Cliente 4 pidió su saldo que es de: 15008.6
+==== Mes 2 día 17====
+Se ingresaron 258.67 en la cuenta 2. El saldo de la cuenta es de 3736.05
+Se ingresaron 28.33 en la cuenta 2. El saldo de la cuenta es de 3477.38
+El cliente 3 ha retirado 238.42 en su cuenta. El saldo de la cuenta es de 3212.56
+El cliente 2 intentó retirar 435.67 en su cuenta y no pudo. El saldo de la cuenta es de 3212.56
+El cliente 2 intentó retirar 401.87 en su cuenta y no pudo. El saldo de la cuenta es de 3212.56
+Se ingresaron 238.42 en la cuenta 2. El saldo de la cuenta es de 3450.98
+Cliente 1 pidió su saldo que es de: 3736.05
+Cliente 0 pidió su saldo que es de: 3736.05
+Se ingresaron 421.42 en la cuenta 4. El saldo de la cuenta es de 15430.02
+==== Mes 2 día 18====
+Cliente 2 pidió su saldo que es de: 3450.98
+El cliente 4 ha retirado 371.14 en su cuenta. El saldo de la cuenta es de 15058.88
+==== Mes 2 día 19====
+Se ingresaron 279.69 en la cuenta 1. El saldo de la cuenta es de 4322.74
+El cliente 3 intentó retirar 454.35 en su cuenta y no pudo. El saldo de la cuenta es de 3450.98
+Se ingresaron 307.0 en la cuenta 0. El saldo de la cuenta es de 4043.05
+Cliente 3 pidió su saldo que es de: 3450.98
+El cliente 1 ha retirado 115.34 en su cuenta. El saldo de la cuenta es de 4207.4
+==== Mes 2 día 20====
+El cliente 0 ha retirado 20.63 en su cuenta. El saldo de la cuenta es de 4186.77
+El cliente 4 ha retirado 233.27 en su cuenta. El saldo de la cuenta es de 14825.61
+Se ingresaron 396.29 en la cuenta 2. El saldo de la cuenta es de 3847.27
+Se ingresaron 153.07 en la cuenta 3. El saldo de la cuenta es de 3551.32
+==== Mes 2 día 21====
+Se ingresaron 233.27 en la cuenta 1. El saldo de la cuenta es de 15058.88
+El cliente 0 ha retirado 109.22 en su cuenta. El saldo de la cuenta es de 4077.55
+El cliente 2 ha retirado 449.02 en su cuenta. El saldo de la cuenta es de 3398.25
+El cliente 1 ha retirado 45.56 en su cuenta. El saldo de la cuenta es de 4031.99
+El cliente 2 ha retirado 285.15 en su cuenta. El saldo de la cuenta es de 3266.17
+==== Mes 2 día 22====
+El cliente 4 ha retirado 145.27 en su cuenta. El saldo de la cuenta es de 14913.61
+Se ingresaron 45.56 en la cuenta 1. El saldo de la cuenta es de 4077.55
+El cliente 3 ha retirado 164.33 en su cuenta. El saldo de la cuenta es de 3101.84
+Se ingresaron 109.22 en la cuenta 1. El saldo de la cuenta es de 4186.77
+El cliente 3 intentó retirar 412.44 en su cuenta y no pudo. El saldo de la cuenta es de 3101.84
+El cliente 1 ha retirado 347.09 en su cuenta. El saldo de la cuenta es de 3707.79
+El cliente 0 ha retirado 131.88 en su cuenta. El saldo de la cuenta es de 4054.89
+==== Mes 2 día 23====
+Se ingresaron 285.15 en la cuenta 2. El saldo de la cuenta es de 3386.99
+El cliente 4 ha retirado 84.35 en su cuenta. El saldo de la cuenta es de 14829.26
+Se ingresaron 491.23 en la cuenta 2. El saldo de la cuenta es de 3878.21
+Se ingresaron 84.35 en la cuenta 0. El saldo de la cuenta es de 14913.61
+Se ingresaron 131.88 en la cuenta 3. El saldo de la cuenta es de 3839.68
+==== Mes 2 día 24====
+El cliente 3 ha retirado 472.05 en su cuenta. El saldo de la cuenta es de 3406.16
+Se ingresaron 347.09 en la cuenta 3. El saldo de la cuenta es de 4186.77
+Cliente 4 pidió su saldo que es de: 14913.61
+El cliente 3 ha retirado 309.0 en su cuenta. El saldo de la cuenta es de 3097.16
+==== Mes 2 día 25====
+El cliente 0 ha retirado 319.58 en su cuenta. El saldo de la cuenta es de 3867.19
+El cliente 2 intentó retirar 142.14 en su cuenta y no pudo. El saldo de la cuenta es de 3097.16
+El cliente 1 ha retirado 221.06 en su cuenta. El saldo de la cuenta es de 3646.13
+Se ingresaron 221.06 en la cuenta 1. El saldo de la cuenta es de 4186.77
+Se ingresaron 319.58 en la cuenta 3. El saldo de la cuenta es de 3965.71
+El cliente 2 intentó retirar 144.92 en su cuenta y no pudo. El saldo de la cuenta es de 3097.16
+==== Mes 2 día 26====
+Se ingresaron 309.0 en la cuenta 0. El saldo de la cuenta es de 3406.16
+Se ingresaron 441.28 en la cuenta 4. El saldo de la cuenta es de 15354.89
+Se ingresaron 483.52 en la cuenta 2. El saldo de la cuenta es de 3889.69
+El cliente 4 ha retirado 256.33 en su cuenta. El saldo de la cuenta es de 15098.56
+==== Mes 2 día 27====
+El cliente 3 ha retirado 126.36 en su cuenta. El saldo de la cuenta es de 3763.33
+Cliente 0 pidió su saldo que es de: 4186.77
+Cliente 1 pidió su saldo que es de: 4186.77
+El cliente 3 ha retirado 40.89 en su cuenta. El saldo de la cuenta es de 3722.44
+Se ingresaron 258.76 en la cuenta 1. El saldo de la cuenta es de 4445.53
+Se ingresaron 403.43 en la cuenta 0. El saldo de la cuenta es de 4848.96
+==== Mes 2 día 28====
+El cliente 2 ha retirado 333.4 en su cuenta. El saldo de la cuenta es de 3389.04
+El cliente 4 ha retirado 175.89 en su cuenta. El saldo de la cuenta es de 14922.67
+==== Mes 2 día 29====
+El cliente 0 ha retirado 260.02 en su cuenta. El saldo de la cuenta es de 4588.94
+El cliente 2 ha retirado 72.38 en su cuenta. El saldo de la cuenta es de 3316.66
+El cliente 1 ha retirado 480.33 en su cuenta. El saldo de la cuenta es de 4108.61
+Se ingresaron 40.89 en la cuenta 0. El saldo de la cuenta es de 3357.55
+Se ingresaron 175.89 en la cuenta 1. El saldo de la cuenta es de 15098.56
+Cliente 3 pidió su saldo que es de: 3357.55
+Cliente 4 pidió su saldo que es de: 15098.56
+Se ingresaron 72.38 en la cuenta 0. El saldo de la cuenta es de 3429.93
+El cliente 1 ha retirado 478.98 en su cuenta. El saldo de la cuenta es de 3629.63
+El cliente 0 ha retirado 172.68 en su cuenta. El saldo de la cuenta es de 3456.95
+==== Mes 2 día 30====
+Se ingresaron 172.68 en la cuenta 2. El saldo de la cuenta es de 3629.63
+Cliente 2 pidió su saldo que es de: 3429.93
+Se ingresaron 405.43 en la cuenta 4. El saldo de la cuenta es de 15503.98
+Se ingresaron 121.9 en la cuenta 3. El saldo de la cuenta es de 3551.83
+Se ingresaron 478.98 en la cuenta 2. El saldo de la cuenta es de 4108.61
+El cliente 4 ha retirado 325.26 en su cuenta. El saldo de la cuenta es de 15178.72
+El cliente 0 ha retirado 480.76 en su cuenta. El saldo de la cuenta es de 3286.3
+El cliente 1 ha retirado 341.55 en su cuenta. El saldo de la cuenta es de 3767.06
+Se ingresaron 187.14 en la cuenta 2. El saldo de la cuenta es de 3738.97
+El cliente 3 ha retirado 301.77 en su cuenta. El saldo de la cuenta es de 3437.2
+El cliente 2 ha retirado 127.27 en su cuenta. El saldo de la cuenta es de 3309.94
+El cliente 3 ha retirado 153.01 en su cuenta. El saldo de la cuenta es de 3156.92
+El cliente 4 ha retirado 375.51 en su cuenta. El saldo de la cuenta es de 14803.22
+Se ingresaron 341.55 en la cuenta 3. El saldo de la cuenta es de 4108.61
+Se ingresaron 480.76 en la cuenta 3. El saldo de la cuenta es de 3767.06
+El cliente 0 ha retirado 436.9 en su cuenta. El saldo de la cuenta es de 3408.96
+El cliente 1 ha retirado 262.75 en su cuenta. El saldo de la cuenta es de 3845.86
+El cliente 2 intentó retirar 425.57 en su cuenta y no pudo. El saldo de la cuenta es de 3156.92
+Se ingresaron 375.51 en la cuenta 0. El saldo de la cuenta es de 15178.72
+Se ingresaron 153.01 en la cuenta 0. El saldo de la cuenta es de 3309.94
+El cliente 2 ha retirado 156.12 en su cuenta. El saldo de la cuenta es de 3153.82
+Se ingresaron 231.68 en la cuenta 3. El saldo de la cuenta es de 3385.5
+El cliente 1 ha retirado 366.74 en su cuenta. El saldo de la cuenta es de 3042.22
+Se ingresaron 436.9 en la cuenta 3. El saldo de la cuenta es de 3479.12
+Se ingresaron 362.2 en la cuenta 4. El saldo de la cuenta es de 15540.93
+El cliente 4 ha retirado 22.69 en su cuenta. El saldo de la cuenta es de 15518.23
+Se ingresaron 366.74 en la cuenta 2. El saldo de la cuenta es de 3845.86
+El cliente 0 ha retirado 381.16 en su cuenta. El saldo de la cuenta es de 3464.71
+El cliente 3 ha retirado 51.66 en su cuenta. El saldo de la cuenta es de 3333.84
+El cliente 2 intentó retirar 467.32 en su cuenta y no pudo. El saldo de la cuenta es de 3333.84
+El cliente 2 intentó retirar 379.75 en su cuenta y no pudo. El saldo de la cuenta es de 3047.96
+El cliente 3 ha retirado 285.88 en su cuenta. El saldo de la cuenta es de 3047.96
+El cliente 1 ha retirado 82.21 en su cuenta. El saldo de la cuenta es de 3382.49
+El cliente 4 ha retirado 225.46 en su cuenta. El saldo de la cuenta es de 15292.78
+Se ingresaron 381.16 en la cuenta 3. El saldo de la cuenta es de 3763.65
+Cliente 0 pidió su saldo que es de: 3763.65
+Se ingresaron 225.46 en la cuenta 1. El saldo de la cuenta es de 15518.23
+Se ingresaron 285.88 en la cuenta 3. El saldo de la cuenta es de 3333.84
+Se ingresaron 36.73 en la cuenta 2. El saldo de la cuenta es de 3370.57
+Se ingresaron 82.21 en la cuenta 3. El saldo de la cuenta es de 3845.86
+Se ingresaron 431.88 en la cuenta 3. El saldo de la cuenta es de 3802.45
+El cliente 2 ha retirado 50.99 en su cuenta. El saldo de la cuenta es de 3751.46
+Se ingresaron 236.86 en la cuenta 1. El saldo de la cuenta es de 4082.72
+El cliente 4 ha retirado 124.27 en su cuenta. El saldo de la cuenta es de 15393.96
+Se ingresaron 95.69 en la cuenta 0. El saldo de la cuenta es de 4178.41
+El cliente 4 ha retirado 119.06 en su cuenta. El saldo de la cuenta es de 15274.91
+El cliente 2 ha retirado 416.35 en su cuenta. El saldo de la cuenta es de 3335.11
+El cliente 0 ha retirado 264.06 en su cuenta. El saldo de la cuenta es de 3914.36
+El cliente 1 ha retirado 358.2 en su cuenta. El saldo de la cuenta es de 3556.16
+El cliente 3 ha retirado 148.23 en su cuenta. El saldo de la cuenta es de 3186.88
+Hemos aplicado un incremento de 10% en la cuenta 0
+El cliente 0 ha retirado 404.47 en su cuenta. El saldo de la cuenta es de 4485.25
+Hemos aplicado un incremento de 25% en la cuenta 0
+El cliente 3 intentó retirar 378.69 en su cuenta y no pudo. El saldo de la cuenta es de 3186.88
+Se ingresaron 416.35 en la cuenta 3. El saldo de la cuenta es de 3603.23
+El cliente 1 ha retirado 266.95 en su cuenta. El saldo de la cuenta es de 4218.3
+Se ingresaron 119.06 en la cuenta 1. El saldo de la cuenta es de 15393.96
+Se ingresaron 266.95 en la cuenta 3. El saldo de la cuenta es de 4485.25
+Se ingresaron 258.11 en la cuenta 4. El saldo de la cuenta es de 15652.08
+El cliente 3 ha retirado 394.31 en su cuenta. El saldo de la cuenta es de 3208.93
+Hemos aplicado un incremento de 10% en la cuenta 1
+Se ingresaron 404.47 en la cuenta 2. El saldo de la cuenta es de 4889.72
+El cliente 2 ha retirado 193.21 en su cuenta. El saldo de la cuenta es de 3336.61
+El cliente 4 ha retirado 368.42 en su cuenta. El saldo de la cuenta es de 15283.66
+Hemos aplicado un incremento de 25% en la cuenta 1
+El cliente 0 ha retirado 7.63 en su cuenta. El saldo de la cuenta es de 4882.09
+El cliente 2 ha retirado 417.15 en su cuenta. El saldo de la cuenta es de 3753.61
+El cliente 3 ha retirado 434.12 en su cuenta. El saldo de la cuenta es de 3319.49
+El cliente 1 ha retirado 277.28 en su cuenta. El saldo de la cuenta es de 4604.81
+Se ingresaron 434.12 en la cuenta 2. El saldo de la cuenta es de 3753.61
+Se ingresaron 277.28 en la cuenta 1. El saldo de la cuenta es de 4882.09
+El cliente 0 ha retirado 145.59 en su cuenta. El saldo de la cuenta es de 4736.49
+El cliente 4 ha retirado 145.67 en su cuenta. El saldo de la cuenta es de 16666.36
+Hemos aplicado un incremento de 10% en la cuenta 2
+Se ingresaron 417.15 en la cuenta 2. El saldo de la cuenta es de 4170.77
+El cliente 2 ha retirado 323.03 en su cuenta. El saldo de la cuenta es de 3847.73
+Hemos aplicado un incremento de 25% en la cuenta 2
+Se ingresaron 145.67 en la cuenta 1. El saldo de la cuenta es de 20978.61
+Se ingresaron 145.59 en la cuenta 1. El saldo de la cuenta es de 4882.09
+El cliente 3 ha retirado 178.2 en su cuenta. El saldo de la cuenta es de 3669.53
+Se ingresaron 412.38 en la cuenta 1. El saldo de la cuenta es de 5294.47
+Se ingresaron 178.2 en la cuenta 0. El saldo de la cuenta es de 3847.73
+El cliente 1 ha retirado 24.89 en su cuenta. El saldo de la cuenta es de 5223.8
+Se ingresaron 87.72 en la cuenta 4. El saldo de la cuenta es de 21066.34
+El cliente 0 ha retirado 45.78 en su cuenta. El saldo de la cuenta es de 5248.68
+Hemos aplicado un incremento de 10% en la cuenta 3
+Se ingresaron 323.03 en la cuenta 3. El saldo de la cuenta es de 4170.77
+Hemos aplicado un incremento de 25% en la cuenta 3
+Se ingresaron 87.88 en la cuenta 2. El saldo de la cuenta es de 4258.65
+El cliente 0 ha retirado 74.49 en su cuenta. El saldo de la cuenta es de 5149.31
+El cliente 1 ha retirado 279.38 en su cuenta. El saldo de la cuenta es de 4869.92
+El cliente 4 ha retirado 178.82 en su cuenta. El saldo de la cuenta es de 20887.52
+Se ingresaron 111.32 en la cuenta 3. El saldo de la cuenta es de 4369.96
+El cliente 3 ha retirado 375.33 en su cuenta. El saldo de la cuenta es de 3994.63
+El cliente 4 ha retirado 12.39 en su cuenta. El saldo de la cuenta es de 20875.13
+Se ingresaron 74.49 en la cuenta 1. El saldo de la cuenta es de 4944.41
+El cliente 2 ha retirado 78.15 en su cuenta. El saldo de la cuenta es de 3916.48
+Hemos aplicado un incremento de 10% en la cuenta 4
+Se ingresaron 279.38 en la cuenta 2. El saldo de la cuenta es de 5223.8
+El cliente 1 ha retirado 75.97 en su cuenta. El saldo de la cuenta es de 5147.83
+El cliente 2 ha retirado 433.8 en su cuenta. El saldo de la cuenta es de 3482.67
+Se ingresaron 12.39 en la cuenta 3. El saldo de la cuenta es de 20887.52
+Hemos aplicado un incremento de 25% en la cuenta 4
+Se ingresaron 359.04 en la cuenta 0. El saldo de la cuenta es de 5506.87
+El cliente 3 ha retirado 217.31 en su cuenta. El saldo de la cuenta es de 3265.36
+==== Mes 3 día 0====
+El cliente 0 ha retirado 177.06 en su cuenta. El saldo de la cuenta es de 5329.81
+Se ingresaron 217.31 en la cuenta 0. El saldo de la cuenta es de 3482.67
+Cliente 4 pidió su saldo que es de: 20887.52
+Se ingresaron 433.8 en la cuenta 3. El saldo de la cuenta es de 3916.48
+El cliente 1 ha retirado 184.37 en su cuenta. El saldo de la cuenta es de 5145.44
+El cliente 2 ha retirado 359.11 en su cuenta. El saldo de la cuenta es de 3557.37
+El cliente 3 ha retirado 399.74 en su cuenta. El saldo de la cuenta es de 3157.63
+Se ingresaron 184.37 en la cuenta 2. El saldo de la cuenta es de 5329.81
+Se ingresaron 418.69 en la cuenta 4. El saldo de la cuenta es de 21306.21
+El cliente 0 ha retirado 323.8 en su cuenta. El saldo de la cuenta es de 5006.01
+==== Mes 3 día 1====
+El cliente 2 intentó retirar 387.23 en su cuenta y no pudo. El saldo de la cuenta es de 3157.63
+Se ingresaron 323.8 en la cuenta 1. El saldo de la cuenta es de 5329.81
+==== Mes 3 día 2====
+El cliente 4 ha retirado 388.84 en su cuenta. El saldo de la cuenta es de 20917.37
+El cliente 3 intentó retirar 313.28 en su cuenta y no pudo. El saldo de la cuenta es de 3157.63
+Cliente 1 pidió su saldo que es de: 5329.81
+El cliente 3 intentó retirar 311.49 en su cuenta y no pudo. El saldo de la cuenta es de 3157.63
+Se ingresaron 462.78 en la cuenta 1. El saldo de la cuenta es de 5792.59
+El cliente 4 ha retirado 291.37 en su cuenta. El saldo de la cuenta es de 20626.0
+El cliente 2 intentó retirar 423.62 en su cuenta y no pudo. El saldo de la cuenta es de 3157.63
+Se ingresaron 91.55 en la cuenta 0. El saldo de la cuenta es de 5884.14
+==== Mes 3 día 3====
+==== Mes 3 día 4====
+El cliente 2 intentó retirar 423.1 en su cuenta y no pudo. El saldo de la cuenta es de 3157.63
+El cliente 1 ha retirado 496.81 en su cuenta. El saldo de la cuenta es de 4912.6
+El cliente 0 ha retirado 474.73 en su cuenta. El saldo de la cuenta es de 5409.41
+Se ingresaron 291.37 en la cuenta 3. El saldo de la cuenta es de 20917.37
+Se ingresaron 286.48 en la cuenta 3. El saldo de la cuenta es de 3444.11
+El cliente 3 ha retirado 365.02 en su cuenta. El saldo de la cuenta es de 3079.09
+El cliente 0 ha retirado 166.09 en su cuenta. El saldo de la cuenta es de 4746.5
+Se ingresaron 42.01 en la cuenta 2. El saldo de la cuenta es de 3121.1
+El cliente 4 ha retirado 13.97 en su cuenta. El saldo de la cuenta es de 20903.4
+==== Mes 3 día 5====
+El cliente 1 ha retirado 308.63 en su cuenta. El saldo de la cuenta es de 4437.88
+==== Mes 3 día 6====
+El cliente 3 intentó retirar 473.32 en su cuenta y no pudo. El saldo de la cuenta es de 3121.1
+Se ingresaron 13.97 en la cuenta 3. El saldo de la cuenta es de 20917.37
+El cliente 2 intentó retirar 255.67 en su cuenta y no pudo. El saldo de la cuenta es de 3121.1
+Se ingresaron 308.63 en la cuenta 2. El saldo de la cuenta es de 4746.5
+Se ingresaron 166.09 en la cuenta 2. El saldo de la cuenta es de 4912.6
+Se ingresaron 253.89 en la cuenta 0. El saldo de la cuenta es de 5166.49
+El cliente 1 ha retirado 115.21 en su cuenta. El saldo de la cuenta es de 5051.28
+El cliente 3 intentó retirar 180.26 en su cuenta y no pudo. El saldo de la cuenta es de 3121.1
+El cliente 4 ha retirado 476.97 en su cuenta. El saldo de la cuenta es de 20440.39
+El cliente 2 intentó retirar 431.99 en su cuenta y no pudo. El saldo de la cuenta es de 3121.1
+==== Mes 3 día 7====
+==== Mes 3 día 8====
+Se ingresaron 203.86 en la cuenta 2. El saldo de la cuenta es de 3324.96
+Cliente 3 pidió su saldo que es de: 3324.96
+El cliente 1 ha retirado 441.86 en su cuenta. El saldo de la cuenta es de 4188.55
+El cliente 0 ha retirado 420.87 en su cuenta. El saldo de la cuenta es de 4630.42
+Se ingresaron 476.97 en la cuenta 1. El saldo de la cuenta es de 20917.37
+El cliente 0 ha retirado 426.24 en su cuenta. El saldo de la cuenta es de 3762.31
+Cliente 4 pidió su saldo que es de: 20917.37
+El cliente 2 ha retirado 313.8 en su cuenta. El saldo de la cuenta es de 3011.16
+Se ingresaron 34.38 en la cuenta 3. El saldo de la cuenta es de 3045.54
+Se ingresaron 441.86 en la cuenta 2. El saldo de la cuenta es de 4204.18
+==== Mes 3 día 9====
+==== Mes 3 día 10====
+El cliente 2 intentó retirar 487.1 en su cuenta y no pudo. El saldo de la cuenta es de 3045.54
+El cliente 1 ha retirado 143.12 en su cuenta. El saldo de la cuenta es de 4061.06
+Se ingresaron 231.01 en la cuenta 4. El saldo de la cuenta es de 21148.38
+El cliente 3 intentó retirar 66.21 en su cuenta y no pudo. El saldo de la cuenta es de 3045.54
+Se ingresaron 426.24 en la cuenta 1. El saldo de la cuenta es de 4487.29
+El cliente 3 intentó retirar 82.29 en su cuenta y no pudo. El saldo de la cuenta es de 3045.54
+El cliente 0 ha retirado 153.2 en su cuenta. El saldo de la cuenta es de 4334.1
+El cliente 1 ha retirado 426.57 en su cuenta. El saldo de la cuenta es de 3907.53
+Cliente 2 pidió su saldo que es de: 3045.54
+El cliente 4 ha retirado 279.01 en su cuenta. El saldo de la cuenta es de 20869.37
+==== Mes 3 día 11====
+El cliente 4 ha retirado 394.91 en su cuenta. El saldo de la cuenta es de 20474.46
+==== Mes 3 día 12====
+Se ingresaron 426.57 en la cuenta 3. El saldo de la cuenta es de 4334.1
+El cliente 3 intentó retirar 364.67 en su cuenta y no pudo. El saldo de la cuenta es de 3051.98
+Se ingresaron 6.44 en la cuenta 2. El saldo de la cuenta es de 3051.98
+Se ingresaron 153.2 en la cuenta 1. El saldo de la cuenta es de 4487.29
+Cliente 0 pidió su saldo que es de: 4487.29
+El cliente 2 intentó retirar 134.66 en su cuenta y no pudo. El saldo de la cuenta es de 3051.98
+==== Mes 3 día 13====
+El cliente 1 ha retirado 448.72 en su cuenta. El saldo de la cuenta es de 4038.57
+El cliente 3 intentó retirar 275.72 en su cuenta y no pudo. El saldo de la cuenta es de 3051.98
+Se ingresaron 394.91 en la cuenta 0. El saldo de la cuenta es de 20869.37
+El cliente 4 ha retirado 374.24 en su cuenta. El saldo de la cuenta es de 20495.13
+El cliente 3 ha retirado 48.31 en su cuenta. El saldo de la cuenta es de 3003.67
+El cliente 2 intentó retirar 182.55 en su cuenta y no pudo. El saldo de la cuenta es de 3003.67
+Se ingresaron 448.72 en la cuenta 2. El saldo de la cuenta es de 4487.29
+==== Mes 3 día 14====
+Se ingresaron 247.99 en la cuenta 0. El saldo de la cuenta es de 4735.29
+==== Mes 3 día 15====
+Se ingresaron 471.53 en la cuenta 2. El saldo de la cuenta es de 3475.2
+El cliente 0 ha retirado 383.16 en su cuenta. El saldo de la cuenta es de 4352.13
+Se ingresaron 11.65 en la cuenta 1. El saldo de la cuenta es de 4363.78
+El cliente 4 ha retirado 460.78 en su cuenta. El saldo de la cuenta es de 20034.35
+Se ingresaron 48.31 en la cuenta 0. El saldo de la cuenta es de 3523.51
+El cliente 1 ha retirado 115.71 en su cuenta. El saldo de la cuenta es de 4248.07
+El cliente 2 ha retirado 174.54 en su cuenta. El saldo de la cuenta es de 3348.97
+El cliente 3 ha retirado 196.43 en su cuenta. El saldo de la cuenta es de 3152.54
+Se ingresaron 460.78 en la cuenta 0. El saldo de la cuenta es de 20495.13
+El cliente 0 ha retirado 353.32 en su cuenta. El saldo de la cuenta es de 3894.75
+==== Mes 3 día 16====
+El cliente 3 intentó retirar 412.55 en su cuenta y no pudo. El saldo de la cuenta es de 3152.54
+==== Mes 3 día 17====
+El cliente 2 intentó retirar 181.0 en su cuenta y no pudo. El saldo de la cuenta es de 3152.54
+Se ingresaron 193.12 en la cuenta 4. El saldo de la cuenta es de 20688.25
+El cliente 1 ha retirado 292.93 en su cuenta. El saldo de la cuenta es de 3601.82
+Se ingresaron 353.32 en la cuenta 2. El saldo de la cuenta es de 3955.14
+==== Mes 3 día 18====
+Se ingresaron 292.93 en la cuenta 2. El saldo de la cuenta es de 4248.07
+Se ingresaron 8.07 en la cuenta 0. El saldo de la cuenta es de 4256.14
+El cliente 2 ha retirado 74.92 en su cuenta. El saldo de la cuenta es de 3077.63
+El cliente 3 intentó retirar 226.73 en su cuenta y no pudo. El saldo de la cuenta es de 3077.63
+El cliente 4 ha retirado 86.96 en su cuenta. El saldo de la cuenta es de 20601.29
+El cliente 0 ha retirado 132.73 en su cuenta. El saldo de la cuenta es de 4123.41
+El cliente 4 ha retirado 142.56 en su cuenta. El saldo de la cuenta es de 20458.73
+El cliente 1 ha retirado 366.62 en su cuenta. El saldo de la cuenta es de 3756.79
+El cliente 3 intentó retirar 495.8 en su cuenta y no pudo. El saldo de la cuenta es de 3152.54
+Se ingresaron 74.92 en la cuenta 2. El saldo de la cuenta es de 3152.54
+==== Mes 3 día 19====
+==== Mes 3 día 20====
+Se ingresaron 267.68 en la cuenta 3. El saldo de la cuenta es de 3420.22
+Se ingresaron 142.56 en la cuenta 3. El saldo de la cuenta es de 20601.29
+Se ingresaron 366.62 en la cuenta 1. El saldo de la cuenta es de 4123.41
+El cliente 2 intentó retirar 499.55 en su cuenta y no pudo. El saldo de la cuenta es de 3420.22
+El cliente 0 ha retirado 493.53 en su cuenta. El saldo de la cuenta es de 3629.88
+El cliente 1 ha retirado 171.49 en su cuenta. El saldo de la cuenta es de 3458.39
+Se ingresaron 493.53 en la cuenta 1. El saldo de la cuenta es de 3951.93
+Cliente 2 pidió su saldo que es de: 3420.22
+El cliente 4 ha retirado 95.53 en su cuenta. El saldo de la cuenta es de 20505.76
+El cliente 3 ha retirado 346.5 en su cuenta. El saldo de la cuenta es de 3073.73
+==== Mes 3 día 21====
+==== Mes 3 día 22====
+El cliente 3 intentó retirar 192.14 en su cuenta y no pudo. El saldo de la cuenta es de 3073.73
+El cliente 4 ha retirado 479.42 en su cuenta. El saldo de la cuenta es de 20026.34
+El cliente 0 ha retirado 115.94 en su cuenta. El saldo de la cuenta es de 3835.99
+Se ingresaron 274.54 en la cuenta 2. El saldo de la cuenta es de 3348.26
+El cliente 1 ha retirado 238.08 en su cuenta. El saldo de la cuenta es de 3597.9
+El cliente 2 ha retirado 123.15 en su cuenta. El saldo de la cuenta es de 3225.12
+Se ingresaron 42.53 en la cuenta 3. El saldo de la cuenta es de 3267.65
+Se ingresaron 238.08 en la cuenta 1. El saldo de la cuenta es de 3835.99
+==== Mes 3 día 23====
+Se ingresaron 115.94 en la cuenta 1. El saldo de la cuenta es de 3951.93
+Se ingresaron 479.42 en la cuenta 3. El saldo de la cuenta es de 20505.76
+El cliente 3 intentó retirar 451.82 en su cuenta y no pudo. El saldo de la cuenta es de 3267.65
+Se ingresaron 439.49 en la cuenta 1. El saldo de la cuenta es de 4005.25
+El cliente 0 ha retirado 386.16 en su cuenta. El saldo de la cuenta es de 3565.76
+==== Mes 3 día 24====
+El cliente 4 ha retirado 138.76 en su cuenta. El saldo de la cuenta es de 20367.0
+El cliente 2 ha retirado 243.63 en su cuenta. El saldo de la cuenta es de 3024.02
+Se ingresaron 386.16 en la cuenta 3. El saldo de la cuenta es de 4391.41
+Se ingresaron 243.63 en la cuenta 2. El saldo de la cuenta es de 3267.65
+Se ingresaron 138.76 en la cuenta 3. El saldo de la cuenta es de 20505.76
+==== Mes 3 día 25====
+El cliente 1 ha retirado 357.97 en su cuenta. El saldo de la cuenta es de 4033.44
+El cliente 3 ha retirado 164.28 en su cuenta. El saldo de la cuenta es de 3103.37
+El cliente 1 ha retirado 136.37 en su cuenta. El saldo de la cuenta es de 3897.07
+==== Mes 3 día 26====
+Se ingresaron 109.1 en la cuenta 2. El saldo de la cuenta es de 3376.75
+El cliente 4 ha retirado 439.94 en su cuenta. El saldo de la cuenta es de 20065.82
+El cliente 0 ha retirado 36.69 en su cuenta. El saldo de la cuenta es de 3860.38
+Se ingresaron 164.28 en la cuenta 0. El saldo de la cuenta es de 3267.65
+El cliente 3 ha retirado 52.25 en su cuenta. El saldo de la cuenta es de 3324.5
+El cliente 2 ha retirado 106.07 en su cuenta. El saldo de la cuenta es de 3218.42
+==== Mes 3 día 27====
+Se ingresaron 36.69 en la cuenta 1. El saldo de la cuenta es de 3897.07
+El cliente 4 ha retirado 336.47 en su cuenta. El saldo de la cuenta es de 19729.35
+Se ingresaron 136.37 en la cuenta 2. El saldo de la cuenta es de 4033.44
+El cliente 0 ha retirado 181.81 en su cuenta. El saldo de la cuenta es de 3851.63
+==== Mes 3 día 28====
+Se ingresaron 336.47 en la cuenta 3. El saldo de la cuenta es de 20065.82
+El cliente 2 intentó retirar 455.99 en su cuenta y no pudo. El saldo de la cuenta es de 3218.42
+Se ingresaron 333.4 en la cuenta 1. El saldo de la cuenta es de 4185.03
+Se ingresaron 52.25 en la cuenta 3. El saldo de la cuenta es de 3270.67
+Se ingresaron 253.87 en la cuenta 3. El saldo de la cuenta es de 3524.54
+El cliente 2 ha retirado 225.91 en su cuenta. El saldo de la cuenta es de 3298.63
+El cliente 4 ha retirado 307.5 en su cuenta. El saldo de la cuenta es de 19758.32
+==== Mes 3 día 29====
+El cliente 0 ha retirado 108.13 en su cuenta. El saldo de la cuenta es de 3810.6
+El cliente 1 ha retirado 266.3 en su cuenta. El saldo de la cuenta es de 3918.73
+El cliente 2 ha retirado 140.29 en su cuenta. El saldo de la cuenta es de 3158.34
+Se ingresaron 108.13 en la cuenta 1. El saldo de la cuenta es de 3875.92
+El cliente 1 ha retirado 42.81 en su cuenta. El saldo de la cuenta es de 3767.79
+==== Mes 3 día 30====
+Se ingresaron 307.5 en la cuenta 0. El saldo de la cuenta es de 20065.82
+El cliente 3 intentó retirar 254.48 en su cuenta y no pudo. El saldo de la cuenta es de 3158.34
+El cliente 3 intentó retirar 183.95 en su cuenta y no pudo. El saldo de la cuenta es de 3158.34
+Se ingresaron 205.06 en la cuenta 0. El saldo de la cuenta es de 4080.98
+Se ingresaron 42.81 en la cuenta 1. El saldo de la cuenta es de 4123.79
+Se ingresaron 140.29 en la cuenta 0. El saldo de la cuenta es de 3298.63
+Se ingresaron 286.49 en la cuenta 4. El saldo de la cuenta es de 20352.32
+El cliente 4 ha retirado 324.41 en su cuenta. El saldo de la cuenta es de 20027.91
+El cliente 0 ha retirado 131.99 en su cuenta. El saldo de la cuenta es de 3991.81
+El cliente 3 intentó retirar 472.1 en su cuenta y no pudo. El saldo de la cuenta es de 3298.63
+El cliente 1 ha retirado 343.77 en su cuenta. El saldo de la cuenta es de 3648.04
+El cliente 2 intentó retirar 492.18 en su cuenta y no pudo. El saldo de la cuenta es de 3298.63
+El cliente 2 intentó retirar 414.18 en su cuenta y no pudo. El saldo de la cuenta es de 3298.63
+Se ingresaron 343.77 en la cuenta 2. El saldo de la cuenta es de 3991.81
+El cliente 3 ha retirado 68.34 en su cuenta. El saldo de la cuenta es de 3230.29
+El cliente 0 ha retirado 172.02 en su cuenta. El saldo de la cuenta es de 3819.79
+El cliente 4 ha retirado 219.99 en su cuenta. El saldo de la cuenta es de 19807.91
+El cliente 3 intentó retirar 359.63 en su cuenta y no pudo. El saldo de la cuenta es de 3230.29
+Se ingresaron 219.99 en la cuenta 0. El saldo de la cuenta es de 20027.91
+Se ingresaron 113.6 en la cuenta 1. El saldo de la cuenta es de 4105.4
+Se ingresaron 172.02 en la cuenta 3. El saldo de la cuenta es de 3991.81
+El cliente 2 intentó retirar 460.91 en su cuenta y no pudo. El saldo de la cuenta es de 3230.29
+El cliente 2 ha retirado 102.78 en su cuenta. El saldo de la cuenta es de 3127.51
+Cliente 4 pidió su saldo que es de: 20027.91
+El cliente 0 ha retirado 103.53 en su cuenta. El saldo de la cuenta es de 4001.88
+El cliente 1 ha retirado 35.75 en su cuenta. El saldo de la cuenta es de 3966.13
+El cliente 3 intentó retirar 483.01 en su cuenta y no pudo. El saldo de la cuenta es de 3127.51
+El cliente 3 ha retirado 74.65 en su cuenta. El saldo de la cuenta es de 3052.87
+El cliente 1 ha retirado 201.31 en su cuenta. El saldo de la cuenta es de 3764.82
+Se ingresaron 365.06 en la cuenta 4. El saldo de la cuenta es de 20392.97
+El cliente 0 ha retirado 370.87 en su cuenta. El saldo de la cuenta es de 3393.95
+Se ingresaron 102.78 en la cuenta 0. El saldo de la cuenta es de 3155.65
+Se ingresaron 101.78 en la cuenta 2. El saldo de la cuenta es de 3257.43
+Se ingresaron 370.87 en la cuenta 3. El saldo de la cuenta es de 3764.82
+El cliente 4 ha retirado 40.56 en su cuenta. El saldo de la cuenta es de 20352.41
+Se ingresaron 201.31 en la cuenta 1. El saldo de la cuenta es de 3966.13
+El cliente 3 ha retirado 232.34 en su cuenta. El saldo de la cuenta es de 3025.08
+El cliente 1 ha retirado 52.48 en su cuenta. El saldo de la cuenta es de 3913.64
+El cliente 4 ha retirado 62.32 en su cuenta. El saldo de la cuenta es de 20290.09
+Se ingresaron 232.34 en la cuenta 0. El saldo de la cuenta es de 3257.43
+El cliente 2 ha retirado 225.83 en su cuenta. El saldo de la cuenta es de 3031.6
+Cliente 0 pidió su saldo que es de: 3913.64
+Se ingresaron 429.52 en la cuenta 3. El saldo de la cuenta es de 3461.12
+Se ingresaron 128.62 en la cuenta 0. El saldo de la cuenta es de 4042.26
+El cliente 2 ha retirado 437.48 en su cuenta. El saldo de la cuenta es de 3023.63
+Se ingresaron 62.32 en la cuenta 3. El saldo de la cuenta es de 20352.41
+Se ingresaron 52.48 en la cuenta 3. El saldo de la cuenta es de 4094.74
+El cliente 1 ha retirado 178.59 en su cuenta. El saldo de la cuenta es de 3916.15
+El cliente 4 ha retirado 439.9 en su cuenta. El saldo de la cuenta es de 19912.51
+El cliente 0 ha retirado 203.87 en su cuenta. El saldo de la cuenta es de 3712.28
+El cliente 3 intentó retirar 476.06 en su cuenta y no pudo. El saldo de la cuenta es de 3461.12
+Se ingresaron 437.48 en la cuenta 2. El saldo de la cuenta es de 3461.12
+El cliente 3 ha retirado 280.58 en su cuenta. El saldo de la cuenta es de 3180.53
+El cliente 0 ha retirado 362.98 en su cuenta. El saldo de la cuenta es de 3349.29
+Cliente 2 pidió su saldo que es de: 3180.53
+Se ingresaron 439.9 en la cuenta 3. El saldo de la cuenta es de 20352.41
+El cliente 1 intentó retirar 410.54 en su cuenta y no pudo. El saldo de la cuenta es de 3349.29
+Se ingresaron 345.26 en la cuenta 2. El saldo de la cuenta es de 3525.8
+Se ingresaron 362.98 en la cuenta 2. El saldo de la cuenta es de 3712.28
+El cliente 4 ha retirado 406.02 en su cuenta. El saldo de la cuenta es de 19946.39
+Se ingresaron 368.79 en la cuenta 1. El saldo de la cuenta es de 4081.07
+Se ingresaron 280.58 en la cuenta 2. El saldo de la cuenta es de 3806.38
+Se ingresaron 123.07 en la cuenta 3. El saldo de la cuenta es de 3929.45
+El cliente 0 ha retirado 347.23 en su cuenta. El saldo de la cuenta es de 3733.84
+El cliente 4 ha retirado 324.81 en su cuenta. El saldo de la cuenta es de 19621.58
+El cliente 1 ha retirado 165.47 en su cuenta. El saldo de la cuenta es de 3568.37
+El cliente 2 ha retirado 456.26 en su cuenta. El saldo de la cuenta es de 3473.19
+El cliente 2 ha retirado 100.18 en su cuenta. El saldo de la cuenta es de 3373.01
+El cliente 0 ha retirado 94.01 en su cuenta. El saldo de la cuenta es de 3474.36
+El cliente 1 ha retirado 54.07 en su cuenta. El saldo de la cuenta es de 3420.29
+Se ingresaron 324.81 en la cuenta 3. El saldo de la cuenta es de 19946.39
+El cliente 3 intentó retirar 485.85 en su cuenta y no pudo. El saldo de la cuenta es de 3373.01
+El cliente 3 intentó retirar 451.6 en su cuenta y no pudo. El saldo de la cuenta es de 3373.01
+Se ingresaron 54.07 en la cuenta 3. El saldo de la cuenta es de 3568.37
+Se ingresaron 66.69 en la cuenta 4. El saldo de la cuenta es de 20013.08
+Se ingresaron 100.18 en la cuenta 0. El saldo de la cuenta es de 3473.19
+Se ingresaron 94.01 en la cuenta 1. El saldo de la cuenta es de 3514.31
+Se ingresaron 321.97 en la cuenta 0. El saldo de la cuenta es de 3890.34
+El cliente 4 ha retirado 495.84 en su cuenta. El saldo de la cuenta es de 19517.24
+Se ingresaron 200.03 en la cuenta 2. El saldo de la cuenta es de 3673.22
+Cliente 1 pidió su saldo que es de: 3890.34
+Se ingresaron 121.59 en la cuenta 3. El saldo de la cuenta es de 3794.81
+El cliente 2 ha retirado 422.55 en su cuenta. El saldo de la cuenta es de 3372.26
+El cliente 4 ha retirado 286.02 en su cuenta. El saldo de la cuenta es de 19231.22
+El cliente 3 intentó retirar 429.94 en su cuenta y no pudo. El saldo de la cuenta es de 3372.26
+Se ingresaron 221.61 en la cuenta 1. El saldo de la cuenta es de 4111.95
+El cliente 0 ha retirado 82.18 en su cuenta. El saldo de la cuenta es de 4029.77
+Hemos aplicado un incremento de 10% en la cuenta 0
+El cliente 1 ha retirado 165.04 en su cuenta. El saldo de la cuenta es de 5375.89
+Se ingresaron 286.02 en la cuenta 1. El saldo de la cuenta es de 19517.24
+Hemos aplicado un incremento de 25% en la cuenta 0
+El cliente 0 ha retirado 420.65 en su cuenta. El saldo de la cuenta es de 4955.24
+El cliente 3 intentó retirar 486.74 en su cuenta y no pudo. El saldo de la cuenta es de 3019.32
+El cliente 2 ha retirado 352.94 en su cuenta. El saldo de la cuenta es de 3019.32
+El cliente 4 ha retirado 335.97 en su cuenta. El saldo de la cuenta es de 19181.28
+El cliente 3 intentó retirar 374.93 en su cuenta y no pudo. El saldo de la cuenta es de 3019.32
+Se ingresaron 352.94 en la cuenta 2. El saldo de la cuenta es de 3372.26
+El cliente 1 ha retirado 344.15 en su cuenta. El saldo de la cuenta es de 4611.08
+Se ingresaron 420.65 en la cuenta 1. El saldo de la cuenta es de 5031.74
+Hemos aplicado un incremento de 10% en la cuenta 1
+Se ingresaron 344.15 en la cuenta 2. El saldo de la cuenta es de 5375.89
+El cliente 4 ha retirado 474.07 en su cuenta. El saldo de la cuenta es de 18707.2
+Hemos aplicado un incremento de 25% en la cuenta 1
+Se ingresaron 26.47 en la cuenta 0. El saldo de la cuenta es de 5402.36
+Cliente 2 pidió su saldo que es de: 4636.86
+El cliente 3 ha retirado 332.71 en su cuenta. El saldo de la cuenta es de 4304.16
+Se ingresaron 474.07 en la cuenta 0. El saldo de la cuenta es de 19181.28
+Se ingresaron 332.71 en la cuenta 3. El saldo de la cuenta es de 4636.86
+Hemos aplicado un incremento de 10% en la cuenta 2
+El cliente 0 ha retirado 432.99 en su cuenta. El saldo de la cuenta es de 4969.37
+Se ingresaron 202.95 en la cuenta 2. El saldo de la cuenta es de 4839.82
+Cliente 1 pidió su saldo que es de: 4969.37
+El cliente 3 ha retirado 74.52 en su cuenta. El saldo de la cuenta es de 4345.37
+El cliente 2 ha retirado 419.93 en su cuenta. El saldo de la cuenta es de 4419.89
+Se ingresaron 330.03 en la cuenta 1. El saldo de la cuenta es de 5299.4
+El cliente 0 ha retirado 299.73 en su cuenta. El saldo de la cuenta es de 4999.67
+Cliente 4 pidió su saldo que es de: 26374.25
+Hemos aplicado un incremento de 25% en la cuenta 2
+El cliente 3 ha retirado 60.68 en su cuenta. El saldo de la cuenta es de 4284.69
+Hemos aplicado un incremento de 10% en la cuenta 3
+Se ingresaron 180.38 en la cuenta 4. El saldo de la cuenta es de 26554.63
+El cliente 2 ha retirado 143.28 en su cuenta. El saldo de la cuenta es de 4141.41
+El cliente 1 ha retirado 281.04 en su cuenta. El saldo de la cuenta es de 4718.63
+Se ingresaron 299.73 en la cuenta 1. El saldo de la cuenta es de 5018.36
+El cliente 1 ha retirado 127.39 en su cuenta. El saldo de la cuenta es de 4890.96
+El cliente 0 ha retirado 302.34 en su cuenta. El saldo de la cuenta es de 4588.63
+Hemos aplicado un incremento de 25% en la cuenta 3
+Se ingresaron 143.28 en la cuenta 0. El saldo de la cuenta es de 4284.69
+Se ingresaron 60.68 en la cuenta 3. El saldo de la cuenta es de 4345.37
+El cliente 4 ha retirado 84.29 en su cuenta. El saldo de la cuenta es de 26470.35
+El cliente 2 ha retirado 274.32 en su cuenta. El saldo de la cuenta es de 4071.05
+El cliente 4 ha retirado 420.31 en su cuenta. El saldo de la cuenta es de 26050.04
+Cliente 3 pidió su saldo que es de: 4071.05
+Hemos aplicado un incremento de 10% en la cuenta 4
+Se ingresaron 302.34 en la cuenta 3. El saldo de la cuenta es de 5018.36
+Se ingresaron 127.39 en la cuenta 3. El saldo de la cuenta es de 4716.02
+El cliente 0 ha retirado 76.08 en su cuenta. El saldo de la cuenta es de 5326.44
+Se ingresaron 475.42 en la cuenta 3. El saldo de la cuenta es de 4546.47
+El cliente 2 ha retirado 359.23 en su cuenta. El saldo de la cuenta es de 4187.24
+Se ingresaron 384.16 en la cuenta 1. El saldo de la cuenta es de 5402.52
+Se ingresaron 420.31 en la cuenta 1. El saldo de la cuenta es de 26470.35
+Hemos aplicado un incremento de 25% en la cuenta 4
+El cliente 1 ha retirado 331.29 en su cuenta. El saldo de la cuenta es de 4995.15
+Se ingresaron 359.23 en la cuenta 3. El saldo de la cuenta es de 4350.76
+==== Mes 4 día 0====
+El cliente 4 ha retirado 339.09 en su cuenta. El saldo de la cuenta es de 26131.26
+El cliente 3 ha retirado 195.71 en su cuenta. El saldo de la cuenta es de 3991.53
+Se ingresaron 76.08 en la cuenta 2. El saldo de la cuenta es de 5071.23
+El cliente 3 ha retirado 235.46 en su cuenta. El saldo de la cuenta es de 4115.3
+Se ingresaron 287.84 en la cuenta 0. El saldo de la cuenta es de 5359.07
+El cliente 1 ha retirado 411.47 en su cuenta. El saldo de la cuenta es de 4947.6
+==== Mes 4 día 1====
+El cliente 4 ha retirado 170.56 en su cuenta. El saldo de la cuenta es de 25960.7
+Se ingresaron 222.57 en la cuenta 2. El saldo de la cuenta es de 4337.86
+El cliente 2 ha retirado 412.86 en su cuenta. El saldo de la cuenta es de 3925.01
+==== Mes 4 día 2====
+Se ingresaron 411.47 en la cuenta 3. El saldo de la cuenta es de 5359.07
+El cliente 0 ha retirado 36.32 en su cuenta. El saldo de la cuenta es de 5322.75
+Se ingresaron 170.56 en la cuenta 0. El saldo de la cuenta es de 26131.26
+Se ingresaron 235.46 en la cuenta 2. El saldo de la cuenta es de 4160.47
+El cliente 4 ha retirado 219.99 en su cuenta. El saldo de la cuenta es de 25911.27
+Se ingresaron 418.42 en la cuenta 3. El saldo de la cuenta es de 4578.89
+El cliente 1 ha retirado 143.73 en su cuenta. El saldo de la cuenta es de 5179.02
+El cliente 2 ha retirado 214.44 en su cuenta. El saldo de la cuenta es de 4364.45
+El cliente 0 ha retirado 342.26 en su cuenta. El saldo de la cuenta es de 4836.76
+==== Mes 4 día 3====
+==== Mes 4 día 4====
+Se ingresaron 214.44 en la cuenta 3. El saldo de la cuenta es de 4578.89
+El cliente 3 ha retirado 60.27 en su cuenta. El saldo de la cuenta es de 4518.62
+Se ingresaron 143.73 en la cuenta 1. El saldo de la cuenta es de 5322.75
+Se ingresaron 342.26 en la cuenta 3. El saldo de la cuenta es de 5179.02
+El cliente 4 ha retirado 379.36 en su cuenta. El saldo de la cuenta es de 25531.92
+Se ingresaron 431.83 en la cuenta 0. El saldo de la cuenta es de 5389.08
+El cliente 3 ha retirado 300.58 en su cuenta. El saldo de la cuenta es de 4218.04
+Se ingresaron 379.36 en la cuenta 0. El saldo de la cuenta es de 25911.27
+El cliente 1 ha retirado 365.49 en su cuenta. El saldo de la cuenta es de 4957.26
+El cliente 2 ha retirado 168.07 en su cuenta. El saldo de la cuenta es de 4049.97
+==== Mes 4 día 5====
+Se ingresaron 300.58 en la cuenta 3. El saldo de la cuenta es de 4350.55
+El cliente 0 ha retirado 129.2 en su cuenta. El saldo de la cuenta es de 5259.88
+El cliente 2 ha retirado 402.98 en su cuenta. El saldo de la cuenta es de 3947.58
+El cliente 1 ha retirado 326.3 en su cuenta. El saldo de la cuenta es de 4933.58
+==== Mes 4 día 6====
+Se ingresaron 199.46 en la cuenta 4. El saldo de la cuenta es de 26110.74
+==== Mes 4 día 7====
+El cliente 0 ha retirado 354.84 en su cuenta. El saldo de la cuenta es de 4578.74
+El cliente 4 ha retirado 400.53 en su cuenta. El saldo de la cuenta es de 25710.2
+Se ingresaron 402.98 en la cuenta 2. El saldo de la cuenta es de 4350.55
+Se ingresaron 326.3 en la cuenta 2. El saldo de la cuenta es de 4905.04
+El cliente 3 ha retirado 344.3 en su cuenta. El saldo de la cuenta es de 4006.26
+Se ingresaron 49.25 en la cuenta 1. El saldo de la cuenta es de 4954.29
+El cliente 2 ha retirado 444.83 en su cuenta. El saldo de la cuenta es de 3561.43
+Se ingresaron 354.84 en la cuenta 3. El saldo de la cuenta es de 5309.13
+El cliente 3 ha retirado 387.91 en su cuenta. El saldo de la cuenta es de 3173.52
+==== Mes 4 día 8====
+El cliente 4 ha retirado 477.27 en su cuenta. El saldo de la cuenta es de 25232.94
+Se ingresaron 477.27 en la cuenta 3. El saldo de la cuenta es de 25710.2
+==== Mes 4 día 9====
+El cliente 0 ha retirado 163.79 en su cuenta. El saldo de la cuenta es de 5145.34
+El cliente 2 ha retirado 53.45 en su cuenta. El saldo de la cuenta es de 3120.06
+Se ingresaron 387.91 en la cuenta 0. El saldo de la cuenta es de 3507.97
+El cliente 1 ha retirado 301.74 en su cuenta. El saldo de la cuenta es de 4843.6
+El cliente 3 ha retirado 177.63 en su cuenta. El saldo de la cuenta es de 3330.34
+El cliente 1 ha retirado 468.49 en su cuenta. El saldo de la cuenta es de 4375.12
+El cliente 0 ha retirado 306.87 en su cuenta. El saldo de la cuenta es de 4068.24
+Se ingresaron 53.45 en la cuenta 2. El saldo de la cuenta es de 3383.79
+==== Mes 4 día 10====
+Cliente 4 pidió su saldo que es de: 25710.2
+El cliente 3 intentó retirar 400.06 en su cuenta y no pudo. El saldo de la cuenta es de 3383.79
+El cliente 2 intentó retirar 405.21 en su cuenta y no pudo. El saldo de la cuenta es de 3383.79
+Se ingresaron 468.49 en la cuenta 3. El saldo de la cuenta es de 4843.6
+==== Mes 4 día 11====
+Se ingresaron 306.87 en la cuenta 2. El saldo de la cuenta es de 4375.12
+Se ingresaron 444.01 en la cuenta 4. El saldo de la cuenta es de 26154.21
+==== Mes 4 día 12====
+El cliente 0 ha retirado 93.63 en su cuenta. El saldo de la cuenta es de 4749.97
+El cliente 4 ha retirado 19.6 en su cuenta. El saldo de la cuenta es de 26134.61
+El cliente 1 ha retirado 96.3 en su cuenta. El saldo de la cuenta es de 4653.67
+El cliente 2 ha retirado 203.9 en su cuenta. El saldo de la cuenta es de 3639.93
+Se ingresaron 460.04 en la cuenta 3. El saldo de la cuenta es de 3843.84
+El cliente 3 ha retirado 324.58 en su cuenta. El saldo de la cuenta es de 3315.35
+Se ingresaron 203.9 en la cuenta 3. El saldo de la cuenta es de 3519.25
+El cliente 4 ha retirado 397.24 en su cuenta. El saldo de la cuenta es de 25737.38
+El cliente 1 ha retirado 363.24 en su cuenta. El saldo de la cuenta es de 4290.43
+El cliente 0 ha retirado 269.65 en su cuenta. El saldo de la cuenta es de 4020.78
+==== Mes 4 día 13====
+El cliente 2 ha retirado 448.85 en su cuenta. El saldo de la cuenta es de 3070.4
+==== Mes 4 día 14====
+Se ingresaron 269.65 en la cuenta 3. El saldo de la cuenta es de 4290.43
+Se ingresaron 397.24 en la cuenta 1. El saldo de la cuenta es de 26134.61
+El cliente 3 intentó retirar 362.53 en su cuenta y no pudo. El saldo de la cuenta es de 3070.4
+Se ingresaron 363.24 en la cuenta 2. El saldo de la cuenta es de 4653.67
+Se ingresaron 406.97 en la cuenta 4. El saldo de la cuenta es de 26541.58
+El cliente 0 ha retirado 224.67 en su cuenta. El saldo de la cuenta es de 4429.0
+El cliente 1 ha retirado 410.78 en su cuenta. El saldo de la cuenta es de 4018.23
+El cliente 3 intentó retirar 448.97 en su cuenta y no pudo. El saldo de la cuenta es de 3070.4
+==== Mes 4 día 15====
+Se ingresaron 448.85 en la cuenta 0. El saldo de la cuenta es de 3519.25
+El cliente 2 ha retirado 66.53 en su cuenta. El saldo de la cuenta es de 3452.72
+El cliente 3 ha retirado 156.27 en su cuenta. El saldo de la cuenta es de 3296.45
+El cliente 4 ha retirado 16.54 en su cuenta. El saldo de la cuenta es de 26525.04
+==== Mes 4 día 16====
+El cliente 0 ha retirado 151.64 en su cuenta. El saldo de la cuenta es de 4277.36
+Se ingresaron 410.78 en la cuenta 3. El saldo de la cuenta es de 4429.0
+==== Mes 4 día 17====
+El cliente 1 ha retirado 264.16 en su cuenta. El saldo de la cuenta es de 4164.84
+Se ingresaron 151.64 en la cuenta 3. El saldo de la cuenta es de 4429.0
+El cliente 3 ha retirado 10.92 en su cuenta. El saldo de la cuenta es de 3285.53
+El cliente 4 ha retirado 370.06 en su cuenta. El saldo de la cuenta es de 26154.99
+Se ingresaron 66.53 en la cuenta 2. El saldo de la cuenta es de 3352.06
+El cliente 0 ha retirado 139.25 en su cuenta. El saldo de la cuenta es de 4025.59
+Cliente 2 pidió su saldo que es de: 3352.06
+Se ingresaron 10.92 en la cuenta 3. El saldo de la cuenta es de 3362.98
+Se ingresaron 370.06 en la cuenta 1. El saldo de la cuenta es de 26525.04
+Se ingresaron 264.16 en la cuenta 1. El saldo de la cuenta es de 4289.75
+==== Mes 4 día 18====
+==== Mes 4 día 19====
+Cliente 1 pidió su saldo que es de: 4289.75
+Cliente 3 pidió su saldo que es de: 3362.98
+Cliente 4 pidió su saldo que es de: 26525.04
+Se ingresaron 78.63 en la cuenta 2. El saldo de la cuenta es de 3441.62
+Se ingresaron 139.25 en la cuenta 2. El saldo de la cuenta es de 4429.0
+Se ingresaron 227.74 en la cuenta 3. El saldo de la cuenta es de 3669.36
+Se ingresaron 135.47 en la cuenta 0. El saldo de la cuenta es de 4564.47
+El cliente 2 ha retirado 147.33 en su cuenta. El saldo de la cuenta es de 3522.03
+Se ingresaron 166.3 en la cuenta 1. El saldo de la cuenta es de 4730.77
+Se ingresaron 211.48 en la cuenta 4. El saldo de la cuenta es de 26736.52
+==== Mes 4 día 20====
+El cliente 1 ha retirado 477.9 en su cuenta. El saldo de la cuenta es de 4252.87
+El cliente 2 ha retirado 398.47 en su cuenta. El saldo de la cuenta es de 3123.55
+El cliente 4 ha retirado 44.65 en su cuenta. El saldo de la cuenta es de 26691.88
+==== Mes 4 día 21====
+El cliente 0 ha retirado 483.06 en su cuenta. El saldo de la cuenta es de 3769.81
+El cliente 3 ha retirado 38.31 en su cuenta. El saldo de la cuenta es de 3085.25
+El cliente 3 intentó retirar 338.08 en su cuenta y no pudo. El saldo de la cuenta es de 3085.25
+El cliente 0 ha retirado 78.92 en su cuenta. El saldo de la cuenta es de 3690.89
+==== Mes 4 día 22====
+El cliente 4 ha retirado 162.51 en su cuenta. El saldo de la cuenta es de 26529.37
+El cliente 1 ha retirado 410.35 en su cuenta. El saldo de la cuenta es de 3280.54
+Se ingresaron 398.47 en la cuenta 2. El saldo de la cuenta es de 3483.72
+==== Mes 4 día 23====
+El cliente 2 ha retirado 135.97 en su cuenta. El saldo de la cuenta es de 3347.75
+Se ingresaron 410.35 en la cuenta 2. El saldo de la cuenta es de 3690.89
+Se ingresaron 78.92 en la cuenta 1. El saldo de la cuenta es de 3769.81
+Se ingresaron 162.51 en la cuenta 3. El saldo de la cuenta es de 26691.88
+Cliente 3 pidió su saldo que es de: 3347.75
+Se ingresaron 157.55 en la cuenta 3. El saldo de la cuenta es de 3505.3
+El cliente 4 ha retirado 252.55 en su cuenta. El saldo de la cuenta es de 26439.33
+El cliente 1 ha retirado 381.47 en su cuenta. El saldo de la cuenta es de 3388.34
+El cliente 2 ha retirado 376.72 en su cuenta. El saldo de la cuenta es de 3128.58
+==== Mes 4 día 24====
+Se ingresaron 263.07 en la cuenta 0. El saldo de la cuenta es de 3651.41
+==== Mes 4 día 25====
+El cliente 0 ha retirado 149.37 en su cuenta. El saldo de la cuenta es de 3502.04
+Se ingresaron 381.47 en la cuenta 1. El saldo de la cuenta es de 3883.51
+El cliente 3 ha retirado 253.01 en su cuenta. El saldo de la cuenta es de 3252.29
+El cliente 4 ha retirado 253.71 en su cuenta. El saldo de la cuenta es de 26185.62
+Se ingresaron 376.72 en la cuenta 0. El saldo de la cuenta es de 3505.3
+El cliente 3 ha retirado 133.38 en su cuenta. El saldo de la cuenta es de 3118.91
+Se ingresaron 346.25 en la cuenta 2. El saldo de la cuenta es de 3465.15
+El cliente 0 ha retirado 357.31 en su cuenta. El saldo de la cuenta es de 3526.2
+Se ingresaron 253.71 en la cuenta 3. El saldo de la cuenta es de 26439.33
+El cliente 1 ha retirado 363.88 en su cuenta. El saldo de la cuenta es de 3162.32
+==== Mes 4 día 26====
+==== Mes 4 día 27====
+El cliente 2 ha retirado 349.03 en su cuenta. El saldo de la cuenta es de 3116.12
+Se ingresaron 363.88 en la cuenta 2. El saldo de la cuenta es de 3526.2
+Se ingresaron 357.31 en la cuenta 3. El saldo de la cuenta es de 3883.51
+Se ingresaron 479.2 en la cuenta 4. El saldo de la cuenta es de 26918.53
+Se ingresaron 133.38 en la cuenta 2. El saldo de la cuenta es de 3249.5
+El cliente 3 ha retirado 193.76 en su cuenta. El saldo de la cuenta es de 3055.74
+El cliente 4 ha retirado 101.69 en su cuenta. El saldo de la cuenta es de 26816.84
+El cliente 1 intentó retirar 496.59 en su cuenta y no pudo. El saldo de la cuenta es de 3414.37
+El cliente 0 ha retirado 469.14 en su cuenta. El saldo de la cuenta es de 3414.37
+El cliente 2 intentó retirar 378.22 en su cuenta y no pudo. El saldo de la cuenta es de 3055.74
+==== Mes 4 día 28====
+==== Mes 4 día 29====
+El cliente 1 ha retirado 156.91 en su cuenta. El saldo de la cuenta es de 3726.6
+Se ingresaron 469.14 en la cuenta 2. El saldo de la cuenta es de 3726.6
+El cliente 4 ha retirado 62.25 en su cuenta. El saldo de la cuenta es de 26754.59
+Se ingresaron 469.22 en la cuenta 2. El saldo de la cuenta es de 3524.97
+Se ingresaron 193.76 en la cuenta 3. El saldo de la cuenta es de 3718.73
+Se ingresaron 354.89 en la cuenta 3. El saldo de la cuenta es de 4073.62
+El cliente 2 ha retirado 224.65 en su cuenta. El saldo de la cuenta es de 3848.97
+Se ingresaron 411.16 en la cuenta 0. El saldo de la cuenta es de 4137.76
+Se ingresaron 62.25 en la cuenta 3. El saldo de la cuenta es de 26816.84
+Se ingresaron 156.91 en la cuenta 3. El saldo de la cuenta es de 4294.67
+==== Mes 4 día 30====
+El cliente 1 ha retirado 470.76 en su cuenta. El saldo de la cuenta es de 3823.92
+El cliente 4 ha retirado 309.12 en su cuenta. El saldo de la cuenta es de 26507.72
+El cliente 0 ha retirado 37.38 en su cuenta. El saldo de la cuenta es de 3786.53
+El cliente 3 ha retirado 407.69 en su cuenta. El saldo de la cuenta es de 3155.4
+El cliente 2 ha retirado 285.88 en su cuenta. El saldo de la cuenta es de 3563.09
+El cliente 3 intentó retirar 493.12 en su cuenta y no pudo. El saldo de la cuenta es de 3155.4
+Se ingresaron 285.88 en la cuenta 0. El saldo de la cuenta es de 3441.28
+El cliente 0 ha retirado 288.12 en su cuenta. El saldo de la cuenta es de 3498.41
+El cliente 4 ha retirado 143.23 en su cuenta. El saldo de la cuenta es de 26364.49
+El cliente 1 ha retirado 340.49 en su cuenta. El saldo de la cuenta es de 3157.92
+Se ingresaron 340.49 en la cuenta 1. El saldo de la cuenta es de 3498.41
+Se ingresaron 143.23 en la cuenta 3. El saldo de la cuenta es de 26507.72
+Cliente 2 pidió su saldo que es de: 3441.28
+Se ingresaron 288.12 en la cuenta 2. El saldo de la cuenta es de 3786.53
+Cliente 3 pidió su saldo que es de: 3441.28
+El cliente 4 ha retirado 122.7 en su cuenta. El saldo de la cuenta es de 26385.03
+Se ingresaron 491.18 en la cuenta 3. El saldo de la cuenta es de 3932.46
+El cliente 0 ha retirado 441.43 en su cuenta. El saldo de la cuenta es de 3345.11
+El cliente 1 ha retirado 159.44 en su cuenta. El saldo de la cuenta es de 3185.67
+Se ingresaron 77.23 en la cuenta 2. El saldo de la cuenta es de 4009.69
+El cliente 2 ha retirado 457.84 en su cuenta. El saldo de la cuenta es de 3551.86
+El cliente 3 ha retirado 406.51 en su cuenta. El saldo de la cuenta es de 3145.34
+El cliente 0 ha retirado 87.49 en su cuenta. El saldo de la cuenta es de 3257.61
+El cliente 4 ha retirado 405.27 en su cuenta. El saldo de la cuenta es de 25979.76
+Se ingresaron 159.44 en la cuenta 3. El saldo de la cuenta es de 3345.11
+El cliente 1 intentó retirar 355.92 en su cuenta y no pudo. El saldo de la cuenta es de 3257.61
+El cliente 2 intentó retirar 199.41 en su cuenta y no pudo. El saldo de la cuenta es de 3143.05
+Se ingresaron 405.27 en la cuenta 1. El saldo de la cuenta es de 26385.03
+Se ingresaron 87.49 en la cuenta 1. El saldo de la cuenta es de 3345.11
+El cliente 3 ha retirado 2.29 en su cuenta. El saldo de la cuenta es de 3143.05
+Cliente 2 pidió su saldo que es de: 3145.34
+El cliente 0 ha retirado 201.8 en su cuenta. El saldo de la cuenta es de 3143.31
+Se ingresaron 2.29 en la cuenta 2. El saldo de la cuenta es de 3145.34
+Se ingresaron 233.59 en la cuenta 4. El saldo de la cuenta es de 26618.62
+El cliente 1 intentó retirar 343.0 en su cuenta y no pudo. El saldo de la cuenta es de 3143.31
+Se ingresaron 96.6 en la cuenta 1. El saldo de la cuenta es de 3239.91
+El cliente 4 ha retirado 153.19 en su cuenta. El saldo de la cuenta es de 26465.43
+Cliente 3 pidió su saldo que es de: 3398.18
+El cliente 0 intentó retirar 280.74 en su cuenta y no pudo. El saldo de la cuenta es de 3239.91
+Se ingresaron 252.84 en la cuenta 2. El saldo de la cuenta es de 3398.18
+El cliente 0 intentó retirar 257.71 en su cuenta y no pudo. El saldo de la cuenta es de 3239.91
+Se ingresaron 489.1 en la cuenta 3. El saldo de la cuenta es de 3887.28
+El cliente 2 ha retirado 179.31 en su cuenta. El saldo de la cuenta es de 3707.97
+El cliente 1 intentó retirar 474.42 en su cuenta y no pudo. El saldo de la cuenta es de 3239.91
+El cliente 4 ha retirado 489.14 en su cuenta. El saldo de la cuenta es de 25976.29
+El cliente 3 ha retirado 24.89 en su cuenta. El saldo de la cuenta es de 3683.08
+Se ingresaron 489.14 en la cuenta 3. El saldo de la cuenta es de 26465.43
+El cliente 1 ha retirado 59.58 en su cuenta. El saldo de la cuenta es de 3180.33
+El cliente 2 ha retirado 278.06 en su cuenta. El saldo de la cuenta es de 3405.02
+El cliente 0 ha retirado 65.86 en su cuenta. El saldo de la cuenta es de 3114.47
+Se ingresaron 278.06 en la cuenta 0. El saldo de la cuenta es de 3683.08
+Se ingresaron 65.86 en la cuenta 2. El saldo de la cuenta es de 3180.33
+El cliente 3 ha retirado 143.07 en su cuenta. El saldo de la cuenta es de 3540.01
+El cliente 4 ha retirado 308.98 en su cuenta. El saldo de la cuenta es de 26156.44
+Se ingresaron 59.58 en la cuenta 2. El saldo de la cuenta es de 3239.91
+Cliente 1 pidió su saldo que es de: 3515.01
+Se ingresaron 308.98 en la cuenta 0. El saldo de la cuenta es de 26465.43
+Se ingresaron 275.1 en la cuenta 0. El saldo de la cuenta es de 3515.01
+El cliente 2 ha retirado 6.9 en su cuenta. El saldo de la cuenta es de 3533.11
+Se ingresaron 143.07 en la cuenta 2. El saldo de la cuenta es de 3676.18
+Cliente 3 pidió su saldo que es de: 3676.18
+El cliente 2 ha retirado 347.07 en su cuenta. El saldo de la cuenta es de 3329.11
+El cliente 0 ha retirado 100.3 en su cuenta. El saldo de la cuenta es de 3414.72
+El cliente 4 ha retirado 279.48 en su cuenta. El saldo de la cuenta es de 26185.95
+Se ingresaron 235.28 en la cuenta 1. El saldo de la cuenta es de 3650.0
+El cliente 1 ha retirado 406.29 en su cuenta. El saldo de la cuenta es de 3243.7
+Se ingresaron 279.48 en la cuenta 3. El saldo de la cuenta es de 26465.43
+El cliente 0 ha retirado 182.62 en su cuenta. El saldo de la cuenta es de 3061.08
+Se ingresaron 347.07 en la cuenta 0. El saldo de la cuenta es de 3707.42
+Se ingresaron 31.24 en la cuenta 3. El saldo de la cuenta es de 3360.34
+El cliente 3 ha retirado 288.14 en su cuenta. El saldo de la cuenta es de 3315.63
+El cliente 2 ha retirado 103.64 en su cuenta. El saldo de la cuenta es de 3603.78
+Cliente 4 pidió su saldo que es de: 26465.43
+El cliente 1 ha retirado 68.99 en su cuenta. El saldo de la cuenta es de 3174.72
+Se ingresaron 182.62 en la cuenta 2. El saldo de la cuenta es de 3243.7
+Se ingresaron 68.99 en la cuenta 2. El saldo de la cuenta es de 3243.7
+Se ingresaron 72.52 en la cuenta 4. El saldo de la cuenta es de 26537.95
+Cliente 0 pidió su saldo que es de: 3243.7
+El cliente 3 ha retirado 118.15 en su cuenta. El saldo de la cuenta es de 3301.12
+Se ingresaron 103.64 en la cuenta 2. El saldo de la cuenta es de 3419.27
+Se ingresaron 118.15 en la cuenta 2. El saldo de la cuenta es de 3419.27
+El cliente 1 intentó retirar 497.76 en su cuenta y no pudo. El saldo de la cuenta es de 3243.7
+El cliente 2 ha retirado 22.93 en su cuenta. El saldo de la cuenta es de 3396.34
+El cliente 4 ha retirado 142.43 en su cuenta. El saldo de la cuenta es de 26395.52
+Se ingresaron 23.15 en la cuenta 0. El saldo de la cuenta es de 3266.86
+El cliente 0 ha retirado 184.4 en su cuenta. El saldo de la cuenta es de 3082.46
+El cliente 4 ha retirado 94.76 en su cuenta. El saldo de la cuenta es de 26300.76
+Se ingresaron 22.93 en la cuenta 0. El saldo de la cuenta es de 3324.28
+El cliente 3 ha retirado 94.99 en su cuenta. El saldo de la cuenta es de 3301.35
+Cliente 1 pidió su saldo que es de: 3082.46
+El cliente 3 ha retirado 183.79 en su cuenta. El saldo de la cuenta es de 3140.49
+Se ingresaron 376.43 en la cuenta 1. El saldo de la cuenta es de 3458.9
+Se ingresaron 94.76 en la cuenta 3. El saldo de la cuenta es de 26395.52
+El cliente 0 ha retirado 60.06 en su cuenta. El saldo de la cuenta es de 3398.83
+Cliente 2 pidió su saldo que es de: 3140.49
+Hemos aplicado un incremento de 10% en la cuenta 0
+Hemos aplicado un incremento de 25% en la cuenta 0
+Se ingresaron 18.61 en la cuenta 2. El saldo de la cuenta es de 3159.1
+Se ingresaron 60.06 en la cuenta 1. El saldo de la cuenta es de 4733.46
+El cliente 1 ha retirado 346.81 en su cuenta. El saldo de la cuenta es de 4386.65
+Se ingresaron 183.79 en la cuenta 0. El saldo de la cuenta es de 3342.89
+El cliente 4 ha retirado 499.56 en su cuenta. El saldo de la cuenta es de 25895.96
+El cliente 1 ha retirado 278.34 en su cuenta. El saldo de la cuenta es de 4108.31
+Cliente 3 pidió su saldo que es de: 3342.89
+Hemos aplicado un incremento de 10% en la cuenta 1
+Se ingresaron 499.56 en la cuenta 3. El saldo de la cuenta es de 26395.52
+El cliente 0 ha retirado 144.54 en su cuenta. El saldo de la cuenta es de 3963.77
+El cliente 2 ha retirado 212.72 en su cuenta. El saldo de la cuenta es de 3464.46
+El cliente 2 ha retirado 435.3 en su cuenta. El saldo de la cuenta es de 3029.16
+Cliente 4 pidió su saldo que es de: 26395.52
+Se ingresaron 144.54 en la cuenta 1. El saldo de la cuenta es de 4108.31
+Hemos aplicado un incremento de 25% en la cuenta 1
+Se ingresaron 278.34 en la cuenta 1. El saldo de la cuenta es de 4386.65
+Se ingresaron 253.85 en la cuenta 3. El saldo de la cuenta es de 3283.01
+Se ingresaron 32.72 en la cuenta 1. El saldo de la cuenta es de 4419.36
+Hemos aplicado un incremento de 10% en la cuenta 2
+El cliente 3 ha retirado 135.05 en su cuenta. El saldo de la cuenta es de 3968.71
+Se ingresaron 435.3 en la cuenta 0. El saldo de la cuenta es de 4404.01
+Cliente 0 pidió su saldo que es de: 4419.36
+Se ingresaron 83.1 en la cuenta 4. El saldo de la cuenta es de 29118.17
+Se ingresaron 458.65 en la cuenta 2. El saldo de la cuenta es de 4862.65
+El cliente 4 ha retirado 52.41 en su cuenta. El saldo de la cuenta es de 29065.76
+Hemos aplicado un incremento de 25% en la cuenta 2
+Se ingresaron 230.08 en la cuenta 0. El saldo de la cuenta es de 4649.45
+El cliente 1 ha retirado 359.89 en su cuenta. El saldo de la cuenta es de 4289.56
+El cliente 3 ha retirado 203.35 en su cuenta. El saldo de la cuenta es de 4659.3
+Hemos aplicado un incremento de 10% en la cuenta 3
+El cliente 1 ha retirado 72.79 en su cuenta. El saldo de la cuenta es de 4216.77
+Se ingresaron 203.35 en la cuenta 0. El saldo de la cuenta es de 4862.65
+El cliente 4 ha retirado 308.06 en su cuenta. El saldo de la cuenta es de 36024.14
+El cliente 0 ha retirado 123.63 en su cuenta. El saldo de la cuenta es de 4093.14
+El cliente 2 ha retirado 404.69 en su cuenta. El saldo de la cuenta es de 4457.97
+El cliente 2 ha retirado 7.79 en su cuenta. El saldo de la cuenta es de 4450.18
+El cliente 0 ha retirado 118.22 en su cuenta. El saldo de la cuenta es de 3974.92
+Se ingresaron 72.79 en la cuenta 1. El saldo de la cuenta es de 4047.71
+Cliente 3 pidió su saldo que es de: 4450.18
+Se ingresaron 308.06 en la cuenta 1. El saldo de la cuenta es de 36332.2
+Hemos aplicado un incremento de 25% en la cuenta 3
+Hemos aplicado un incremento de 10% en la cuenta 4
+Se ingresaron 118.22 en la cuenta 1. El saldo de la cuenta es de 3960.17
+El cliente 1 ha retirado 205.76 en su cuenta. El saldo de la cuenta es de 3841.95
+Cliente 4 pidió su saldo que es de: 36332.2
+Se ingresaron 123.78 en la cuenta 3. El saldo de la cuenta es de 4573.96
+Se ingresaron 7.79 en la cuenta 3. El saldo de la cuenta es de 4581.75
+Se ingresaron 332.9 en la cuenta 4. El saldo de la cuenta es de 36665.11
+El cliente 3 ha retirado 168.34 en su cuenta. El saldo de la cuenta es de 4413.41
+Cliente 2 pidió su saldo que es de: 4413.41
+Se ingresaron 393.22 en la cuenta 0. El saldo de la cuenta es de 3958.68
+El cliente 1 ha retirado 394.72 en su cuenta. El saldo de la cuenta es de 3565.45
+Hemos aplicado un incremento de 25% en la cuenta 4
+==== Mes 5 día 0====
+Se ingresaron 394.72 en la cuenta 1. El saldo de la cuenta es de 4353.4
+Se ingresaron 234.58 en la cuenta 2. El saldo de la cuenta es de 4648.0
+El cliente 0 ha retirado 76.7 en su cuenta. El saldo de la cuenta es de 4276.69
+El cliente 3 ha retirado 430.36 en su cuenta. El saldo de la cuenta es de 4217.64
+El cliente 4 ha retirado 92.35 en su cuenta. El saldo de la cuenta es de 36572.76
+El cliente 4 ha retirado 237.93 en su cuenta. El saldo de la cuenta es de 36334.82
+El cliente 0 ha retirado 435.84 en su cuenta. El saldo de la cuenta es de 3840.85
+Se ingresaron 430.36 en la cuenta 2. El saldo de la cuenta es de 4648.0
+El cliente 2 ha retirado 93.07 en su cuenta. El saldo de la cuenta es de 4554.92
+El cliente 1 ha retirado 198.48 en su cuenta. El saldo de la cuenta es de 3642.37
+==== Mes 5 día 1====
+==== Mes 5 día 2====
+El cliente 1 ha retirado 73.73 en su cuenta. El saldo de la cuenta es de 3568.64
+El cliente 2 ha retirado 493.47 en su cuenta. El saldo de la cuenta es de 4061.45
+El cliente 3 ha retirado 271.78 en su cuenta. El saldo de la cuenta es de 3789.68
+Se ingresaron 237.93 en la cuenta 1. El saldo de la cuenta es de 36572.76
+Se ingresaron 435.84 en la cuenta 1. El saldo de la cuenta es de 4004.49
+Cliente 4 pidió su saldo que es de: 36572.76
+El cliente 3 ha retirado 285.25 en su cuenta. El saldo de la cuenta es de 3504.42
+Se ingresaron 443.43 en la cuenta 0. El saldo de la cuenta es de 4447.92
+==== Mes 5 día 3====
+Se ingresaron 493.47 en la cuenta 0. El saldo de la cuenta es de 3997.9
+Se ingresaron 73.73 en la cuenta 2. El saldo de la cuenta es de 4521.65
+Se ingresaron 236.57 en la cuenta 1. El saldo de la cuenta es de 4758.22
+El cliente 0 ha retirado 13.72 en su cuenta. El saldo de la cuenta es de 4744.5
+Se ingresaron 285.25 en la cuenta 3. El saldo de la cuenta es de 4283.15
+Se ingresaron 241.97 en la cuenta 2. El saldo de la cuenta es de 4525.12
+Se ingresaron 396.99 en la cuenta 4. El saldo de la cuenta es de 36969.75
+==== Mes 5 día 4====
+==== Mes 5 día 5====
+El cliente 2 ha retirado 337.36 en su cuenta. El saldo de la cuenta es de 4187.75
+El cliente 3 ha retirado 448.05 en su cuenta. El saldo de la cuenta es de 3739.71
+El cliente 1 ha retirado 166.96 en su cuenta. El saldo de la cuenta es de 4577.54
+El cliente 0 ha retirado 326.06 en su cuenta. El saldo de la cuenta es de 4251.49
+El cliente 4 ha retirado 29.77 en su cuenta. El saldo de la cuenta es de 36939.98
+El cliente 4 ha retirado 443.3 en su cuenta. El saldo de la cuenta es de 36496.68
+El cliente 1 ha retirado 197.04 en su cuenta. El saldo de la cuenta es de 4054.45
+Se ingresaron 448.05 en la cuenta 2. El saldo de la cuenta es de 4187.75
+Se ingresaron 326.06 en la cuenta 2. El saldo de la cuenta es de 4380.51
+El cliente 2 ha retirado 387.12 en su cuenta. El saldo de la cuenta es de 3800.63
+==== Mes 5 día 6====
+Se ingresaron 197.04 en la cuenta 3. El saldo de la cuenta es de 4577.54
+==== Mes 5 día 7====
+Se ingresaron 387.12 en la cuenta 3. El saldo de la cuenta es de 4187.75
+El cliente 0 ha retirado 26.78 en su cuenta. El saldo de la cuenta es de 4550.76
+El cliente 3 ha retirado 496.49 en su cuenta. El saldo de la cuenta es de 3691.27
+Se ingresaron 443.3 en la cuenta 3. El saldo de la cuenta es de 36939.98
+El cliente 0 ha retirado 359.47 en su cuenta. El saldo de la cuenta es de 4191.29
+El cliente 2 ha retirado 187.24 en su cuenta. El saldo de la cuenta es de 3504.03
+El cliente 4 ha retirado 97.9 en su cuenta. El saldo de la cuenta es de 36842.08
+El cliente 3 ha retirado 25.5 en su cuenta. El saldo de la cuenta es de 3478.53
+==== Mes 5 día 8====
+El cliente 1 ha retirado 294.87 en su cuenta. El saldo de la cuenta es de 3896.42
+==== Mes 5 día 9====
+Se ingresaron 294.87 en la cuenta 3. El saldo de la cuenta es de 4191.29
+El cliente 2 ha retirado 107.86 en su cuenta. El saldo de la cuenta es de 3370.67
+Se ingresaron 97.9 en la cuenta 0. El saldo de la cuenta es de 36939.98
+Se ingresaron 25.5 en la cuenta 0. El saldo de la cuenta es de 3396.17
+Se ingresaron 359.47 en la cuenta 1. El saldo de la cuenta es de 4550.76
+Se ingresaron 45.53 en la cuenta 3. El saldo de la cuenta es de 3441.7
+Se ingresaron 117.79 en la cuenta 4. El saldo de la cuenta es de 37057.76
+==== Mes 5 día 10====
+Se ingresaron 247.68 en la cuenta 0. El saldo de la cuenta es de 4798.44
+El cliente 1 ha retirado 406.41 en su cuenta. El saldo de la cuenta es de 4392.03
+Se ingresaron 107.86 en la cuenta 3. El saldo de la cuenta es de 3549.56
+El cliente 2 ha retirado 227.92 en su cuenta. El saldo de la cuenta es de 3321.63
+Se ingresaron 406.41 en la cuenta 1. El saldo de la cuenta es de 4798.44
+El cliente 0 ha retirado 490.51 en su cuenta. El saldo de la cuenta es de 4307.93
+El cliente 4 ha retirado 198.11 en su cuenta. El saldo de la cuenta es de 36859.65
+El cliente 3 intentó retirar 387.42 en su cuenta y no pudo. El saldo de la cuenta es de 3321.63
+==== Mes 5 día 11====
+==== Mes 5 día 12====
+El cliente 4 ha retirado 197.88 en su cuenta. El saldo de la cuenta es de 36661.77
+El cliente 0 ha retirado 455.64 en su cuenta. El saldo de la cuenta es de 3852.29
+El cliente 1 ha retirado 197.15 en su cuenta. El saldo de la cuenta es de 3655.14
+El cliente 3 intentó retirar 361.86 en su cuenta y no pudo. El saldo de la cuenta es de 3321.63
+Se ingresaron 227.92 en la cuenta 0. El saldo de la cuenta es de 3549.56
+El cliente 2 ha retirado 463.16 en su cuenta. El saldo de la cuenta es de 3086.4
+El cliente 3 intentó retirar 89.87 en su cuenta y no pudo. El saldo de la cuenta es de 3086.4
+El cliente 1 ha retirado 124.69 en su cuenta. El saldo de la cuenta es de 3530.45
+==== Mes 5 día 13====
+Se ingresaron 455.64 en la cuenta 3. El saldo de la cuenta es de 3986.09
+Se ingresaron 197.88 en la cuenta 3. El saldo de la cuenta es de 36859.65
+El cliente 4 ha retirado 236.53 en su cuenta. El saldo de la cuenta es de 36623.13
+Se ingresaron 124.69 en la cuenta 2. El saldo de la cuenta es de 4110.78
+==== Mes 5 día 14====
+El cliente 0 ha retirado 316.57 en su cuenta. El saldo de la cuenta es de 3794.21
+El cliente 3 intentó retirar 149.66 en su cuenta y no pudo. El saldo de la cuenta es de 3086.4
+El cliente 2 ha retirado 46.83 en su cuenta. El saldo de la cuenta es de 3039.57
+Se ingresaron 5.65 en la cuenta 3. El saldo de la cuenta es de 3045.22
+El cliente 0 ha retirado 229.56 en su cuenta. El saldo de la cuenta es de 3564.65
+El cliente 1 ha retirado 11.76 en su cuenta. El saldo de la cuenta es de 3552.88
+El cliente 4 ha retirado 25.34 en su cuenta. El saldo de la cuenta es de 36597.79
+==== Mes 5 día 15====
+Se ingresaron 46.83 en la cuenta 0. El saldo de la cuenta es de 3092.05
+Se ingresaron 25.34 en la cuenta 0. El saldo de la cuenta es de 36623.13
+Se ingresaron 11.76 en la cuenta 3. El saldo de la cuenta es de 3564.65
+Se ingresaron 229.56 en la cuenta 3. El saldo de la cuenta es de 3794.21
+El cliente 3 intentó retirar 114.98 en su cuenta y no pudo. El saldo de la cuenta es de 3092.05
+==== Mes 5 día 16====
+El cliente 2 intentó retirar 106.1 en su cuenta y no pudo. El saldo de la cuenta es de 3092.05
+El cliente 2 intentó retirar 128.01 en su cuenta y no pudo. El saldo de la cuenta es de 3092.05
+Se ingresaron 466.62 en la cuenta 0. El saldo de la cuenta es de 4260.82
+El cliente 3 intentó retirar 434.6 en su cuenta y no pudo. El saldo de la cuenta es de 3092.05
+==== Mes 5 día 17====
+Cliente 4 pidió su saldo que es de: 36623.13
+El cliente 1 ha retirado 225.36 en su cuenta. El saldo de la cuenta es de 4035.46
+El cliente 1 ha retirado 39.59 en su cuenta. El saldo de la cuenta es de 3995.87
+Cliente 3 pidió su saldo que es de: 3092.05
+Cliente 2 pidió su saldo que es de: 3092.05
+==== Mes 5 día 18====
+Se ingresaron 482.23 en la cuenta 4. El saldo de la cuenta es de 37105.35
+El cliente 0 ha retirado 385.97 en su cuenta. El saldo de la cuenta es de 3609.9
+==== Mes 5 día 19====
+El cliente 4 ha retirado 433.69 en su cuenta. El saldo de la cuenta es de 36671.66
+El cliente 0 ha retirado 86.17 en su cuenta. El saldo de la cuenta es de 3523.73
+Se ingresaron 346.37 en la cuenta 2. El saldo de la cuenta es de 3438.42
+Se ingresaron 4.04 en la cuenta 3. El saldo de la cuenta es de 3442.46
+Se ingresaron 39.59 en la cuenta 2. El saldo de la cuenta es de 3563.32
+El cliente 2 ha retirado 386.55 en su cuenta. El saldo de la cuenta es de 3055.9
+Cliente 1 pidió su saldo que es de: 3563.32
+El cliente 3 intentó retirar 169.49 en su cuenta y no pudo. El saldo de la cuenta es de 3055.9
+El cliente 4 ha retirado 413.6 en su cuenta. El saldo de la cuenta es de 36258.06
+Se ingresaron 86.17 en la cuenta 2. El saldo de la cuenta es de 3649.49
+==== Mes 5 día 20====
+El cliente 3 intentó retirar 103.97 en su cuenta y no pudo. El saldo de la cuenta es de 3055.9
+==== Mes 5 día 21====
+Se ingresaron 438.97 en la cuenta 1. El saldo de la cuenta es de 4088.46
+Se ingresaron 497.84 en la cuenta 0. El saldo de la cuenta es de 4586.3
+Se ingresaron 413.6 en la cuenta 0. El saldo de la cuenta es de 36671.66
+El cliente 2 intentó retirar 399.98 en su cuenta y no pudo. El saldo de la cuenta es de 3055.9
+El cliente 1 ha retirado 456.01 en su cuenta. El saldo de la cuenta es de 4130.29
+Cliente 4 pidió su saldo que es de: 36671.66
+El cliente 2 intentó retirar 244.0 en su cuenta y no pudo. El saldo de la cuenta es de 3055.9
+Cliente 3 pidió su saldo que es de: 3055.9
+El cliente 0 ha retirado 65.35 en su cuenta. El saldo de la cuenta es de 4064.94
+==== Mes 5 día 22====
+==== Mes 5 día 23====
+El cliente 0 ha retirado 298.17 en su cuenta. El saldo de la cuenta es de 3766.77
+Se ingresaron 19.71 en la cuenta 3. El saldo de la cuenta es de 3075.62
+El cliente 2 intentó retirar 436.66 en su cuenta y no pudo. El saldo de la cuenta es de 3075.62
+El cliente 1 ha retirado 338.55 en su cuenta. El saldo de la cuenta es de 3428.22
+Se ingresaron 95.77 en la cuenta 4. El saldo de la cuenta es de 36767.43
+Cliente 2 pidió su saldo que es de: 3075.62
+Se ingresaron 298.17 en la cuenta 1. El saldo de la cuenta es de 4064.94
+El cliente 4 ha retirado 59.22 en su cuenta. El saldo de la cuenta es de 36708.21
+El cliente 3 intentó retirar 167.94 en su cuenta y no pudo. El saldo de la cuenta es de 3075.62
+Se ingresaron 338.55 en la cuenta 3. El saldo de la cuenta es de 3766.77
+==== Mes 5 día 24====
+El cliente 3 intentó retirar 411.45 en su cuenta y no pudo. El saldo de la cuenta es de 3075.62
+El cliente 4 ha retirado 160.16 en su cuenta. El saldo de la cuenta es de 36548.05
+El cliente 1 ha retirado 80.68 en su cuenta. El saldo de la cuenta es de 3984.26
+Se ingresaron 266.48 en la cuenta 2. El saldo de la cuenta es de 3342.1
+Cliente 0 pidió su saldo que es de: 3984.26
+==== Mes 5 día 25====
+==== Mes 5 día 26====
+Se ingresaron 162.45 en la cuenta 0. El saldo de la cuenta es de 4146.7
+El cliente 1 ha retirado 385.38 en su cuenta. El saldo de la cuenta es de 3761.32
+Se ingresaron 160.16 en la cuenta 3. El saldo de la cuenta es de 36708.21
+El cliente 2 ha retirado 64.02 en su cuenta. El saldo de la cuenta es de 3278.08
+El cliente 3 intentó retirar 466.68 en su cuenta y no pudo. El saldo de la cuenta es de 3278.08
+==== Mes 5 día 27====
+El cliente 3 intentó retirar 336.31 en su cuenta y no pudo. El saldo de la cuenta es de 3278.08
+Cliente 4 pidió su saldo que es de: 36708.21
+El cliente 2 ha retirado 124.56 en su cuenta. El saldo de la cuenta es de 3153.52
+El cliente 0 ha retirado 411.21 en su cuenta. El saldo de la cuenta es de 3350.11
+Se ingresaron 385.38 en la cuenta 1. El saldo de la cuenta es de 3735.49
+El cliente 0 ha retirado 75.27 en su cuenta. El saldo de la cuenta es de 3660.22
+Se ingresaron 124.56 en la cuenta 3. El saldo de la cuenta es de 3278.08
+Se ingresaron 189.91 en la cuenta 4. El saldo de la cuenta es de 36898.12
+El cliente 3 ha retirado 185.14 en su cuenta. El saldo de la cuenta es de 3092.94
+El cliente 1 ha retirado 491.69 en su cuenta. El saldo de la cuenta es de 3168.53
+==== Mes 5 día 28====
+El cliente 4 ha retirado 265.09 en su cuenta. El saldo de la cuenta es de 36633.03
+Se ingresaron 491.69 en la cuenta 1. El saldo de la cuenta es de 3660.22
+==== Mes 5 día 29====
+El cliente 2 intentó retirar 396.07 en su cuenta y no pudo. El saldo de la cuenta es de 3092.94
+Se ingresaron 185.14 en la cuenta 2. El saldo de la cuenta es de 3278.08
+Se ingresaron 75.27 en la cuenta 3. El saldo de la cuenta es de 3735.49
+El cliente 0 ha retirado 23.4 en su cuenta. El saldo de la cuenta es de 3712.09
+El cliente 3 intentó retirar 304.97 en su cuenta y no pudo. El saldo de la cuenta es de 3278.08
+Se ingresaron 95.97 en la cuenta 1. El saldo de la cuenta es de 3808.06
+==== Mes 5 día 30====
+El cliente 2 ha retirado 103.65 en su cuenta. El saldo de la cuenta es de 3174.43
+El cliente 4 ha retirado 328.81 en su cuenta. El saldo de la cuenta es de 36304.22
+El cliente 1 ha retirado 30.68 en su cuenta. El saldo de la cuenta es de 3777.38
+El cliente 3 intentó retirar 419.57 en su cuenta y no pudo. El saldo de la cuenta es de 3278.08
+Se ingresaron 103.65 en la cuenta 0. El saldo de la cuenta es de 3278.08
+Se ingresaron 328.81 en la cuenta 0. El saldo de la cuenta es de 36633.03
+Se ingresaron 23.4 en la cuenta 3. El saldo de la cuenta es de 3800.78
+El cliente 0 ha retirado 164.03 en su cuenta. El saldo de la cuenta es de 3636.75
+El cliente 4 ha retirado 351.08 en su cuenta. El saldo de la cuenta es de 36281.95
+Se ingresaron 355.09 en la cuenta 2. El saldo de la cuenta es de 3633.17
+El cliente 1 ha retirado 41.53 en su cuenta. El saldo de la cuenta es de 3595.22
+Cliente 3 pidió su saldo que es de: 3633.17
+Se ingresaron 144.69 en la cuenta 3. El saldo de la cuenta es de 3777.86
+Se ingresaron 41.53 en la cuenta 3. El saldo de la cuenta es de 3636.75
+Se ingresaron 351.08 en la cuenta 0. El saldo de la cuenta es de 36633.03
+El cliente 2 ha retirado 427.53 en su cuenta. El saldo de la cuenta es de 3350.33
+Se ingresaron 164.03 en la cuenta 2. El saldo de la cuenta es de 3800.78
+El cliente 2 intentó retirar 393.81 en su cuenta y no pudo. El saldo de la cuenta es de 3350.33
+El cliente 1 ha retirado 159.78 en su cuenta. El saldo de la cuenta es de 3641.0
+El cliente 0 ha retirado 261.97 en su cuenta. El saldo de la cuenta es de 3379.03
+El cliente 3 intentó retirar 476.03 en su cuenta y no pudo. El saldo de la cuenta es de 3350.33
+Se ingresaron 414.23 en la cuenta 4. El saldo de la cuenta es de 37047.26
+El cliente 4 ha retirado 281.42 en su cuenta. El saldo de la cuenta es de 36765.84
+Se ingresaron 261.97 en la cuenta 2. El saldo de la cuenta es de 3641.0
+El cliente 2 intentó retirar 264.49 en su cuenta y no pudo. El saldo de la cuenta es de 3176.32
+El cliente 3 ha retirado 174.01 en su cuenta. El saldo de la cuenta es de 3176.32
+Se ingresaron 159.78 en la cuenta 2. El saldo de la cuenta es de 3800.78
+Cliente 1 pidió su saldo que es de: 3800.78
+El cliente 2 intentó retirar 363.67 en su cuenta y no pudo. El saldo de la cuenta es de 3176.32
+Se ingresaron 174.01 en la cuenta 0. El saldo de la cuenta es de 3350.33
+El cliente 4 ha retirado 438.95 en su cuenta. El saldo de la cuenta es de 36326.89
+Se ingresaron 497.65 en la cuenta 0. El saldo de la cuenta es de 4298.44
+Se ingresaron 478.93 en la cuenta 1. El saldo de la cuenta es de 4406.44
+El cliente 0 ha retirado 370.92 en su cuenta. El saldo de la cuenta es de 4406.44
+Se ingresaron 438.95 en la cuenta 3. El saldo de la cuenta es de 36765.84
+Se ingresaron 278.87 en la cuenta 2. El saldo de la cuenta es de 3549.83
+El cliente 3 ha retirado 79.36 en su cuenta. El saldo de la cuenta es de 3549.83
+Se ingresaron 79.36 en la cuenta 2. El saldo de la cuenta es de 3629.2
+El cliente 0 ha retirado 489.21 en su cuenta. El saldo de la cuenta es de 3649.84
+El cliente 1 ha retirado 267.39 en su cuenta. El saldo de la cuenta es de 3649.84
+Cliente 4 pidió su saldo que es de: 36765.84
+El cliente 2 ha retirado 297.59 en su cuenta. El saldo de la cuenta es de 3331.61
+El cliente 2 ha retirado 283.63 en su cuenta. El saldo de la cuenta es de 3047.98
+El cliente 1 ha retirado 283.65 en su cuenta. El saldo de la cuenta es de 3366.19
+Se ingresaron 489.21 en la cuenta 2. El saldo de la cuenta es de 3855.4
+Se ingresaron 57.78 en la cuenta 4. El saldo de la cuenta es de 36823.63
+Cliente 3 pidió su saldo que es de: 3047.98
+El cliente 4 ha retirado 147.31 en su cuenta. El saldo de la cuenta es de 36676.31
+Se ingresaron 335.05 en la cuenta 3. El saldo de la cuenta es de 3383.03
+El cliente 0 ha retirado 17.12 en su cuenta. El saldo de la cuenta es de 3838.28
+Se ingresaron 283.63 en la cuenta 3. El saldo de la cuenta es de 3666.66
+Se ingresaron 283.65 en la cuenta 1. El saldo de la cuenta es de 4121.93
+El cliente 1 ha retirado 397.37 en su cuenta. El saldo de la cuenta es de 3724.55
+El cliente 2 ha retirado 19.35 en su cuenta. El saldo de la cuenta es de 3647.31
+Se ingresaron 17.12 en la cuenta 2. El saldo de la cuenta es de 3741.68
+El cliente 3 ha retirado 147.32 en su cuenta. El saldo de la cuenta es de 3499.99
+El cliente 4 ha retirado 125.51 en su cuenta. El saldo de la cuenta es de 36550.8
+Se ingresaron 125.51 en la cuenta 0. El saldo de la cuenta es de 36676.31
+El cliente 3 ha retirado 451.97 en su cuenta. El saldo de la cuenta es de 3048.02
+El cliente 2 intentó retirar 261.12 en su cuenta y no pudo. El saldo de la cuenta es de 3048.02
+Se ingresaron 464.23 en la cuenta 0. El saldo de la cuenta es de 4205.91
+Se ingresaron 397.37 en la cuenta 2. El saldo de la cuenta es de 4603.28
+Cliente 1 pidió su saldo que es de: 4603.28
+El cliente 0 ha retirado 388.14 en su cuenta. El saldo de la cuenta es de 4215.14
+El cliente 2 intentó retirar 342.82 en su cuenta y no pudo. El saldo de la cuenta es de 3048.02
+Se ingresaron 451.97 en la cuenta 0. El saldo de la cuenta es de 3499.99
+Cliente 4 pidió su saldo que es de: 36676.31
+El cliente 0 ha retirado 192.21 en su cuenta. El saldo de la cuenta es de 4022.93
+Se ingresaron 334.98 en la cuenta 4. El saldo de la cuenta es de 37011.29
+El cliente 2 ha retirado 110.15 en su cuenta. El saldo de la cuenta es de 3880.17
+Se ingresaron 490.33 en la cuenta 3. El saldo de la cuenta es de 3990.31
+Se ingresaron 444.47 en la cuenta 1. El saldo de la cuenta es de 4467.41
+El cliente 3 ha retirado 249.83 en su cuenta. El saldo de la cuenta es de 3630.34
+Se ingresaron 110.15 en la cuenta 0. El saldo de la cuenta es de 3740.49
+El cliente 1 ha retirado 25.94 en su cuenta. El saldo de la cuenta es de 4441.46
+El cliente 4 ha retirado 230.56 en su cuenta. El saldo de la cuenta es de 36780.73
+Se ingresaron 192.21 en la cuenta 2. El saldo de la cuenta es de 4633.67
+El cliente 4 ha retirado 97.04 en su cuenta. El saldo de la cuenta es de 36683.69
+Cliente 0 pidió su saldo que es de: 4633.67
+El cliente 2 ha retirado 356.11 en su cuenta. El saldo de la cuenta es de 3384.38
+El cliente 1 ha retirado 357.37 en su cuenta. El saldo de la cuenta es de 4276.3
+El cliente 3 ha retirado 113.3 en su cuenta. El saldo de la cuenta es de 3271.08
+El cliente 2 ha retirado 66.78 en su cuenta. El saldo de la cuenta es de 3317.6
+Se ingresaron 113.3 en la cuenta 0. El saldo de la cuenta es de 3384.38
+Se ingresaron 357.37 en la cuenta 1. El saldo de la cuenta es de 4633.67
+Se ingresaron 340.59 en la cuenta 0. El saldo de la cuenta es de 4974.26
+Se ingresaron 97.04 en la cuenta 3. El saldo de la cuenta es de 36780.73
+Cliente 1 pidió su saldo que es de: 4974.26
+El cliente 3 ha retirado 270.97 en su cuenta. El saldo de la cuenta es de 3046.63
+El cliente 0 ha retirado 495.66 en su cuenta. El saldo de la cuenta es de 4478.59
+El cliente 4 ha retirado 242.5 en su cuenta. El saldo de la cuenta es de 36538.23
+Se ingresaron 66.78 en la cuenta 2. El saldo de la cuenta es de 3113.41
+Cliente 2 pidió su saldo que es de: 3113.41
+El cliente 4 ha retirado 475.9 en su cuenta. El saldo de la cuenta es de 36062.33
+Se ingresaron 459.14 en la cuenta 1. El saldo de la cuenta es de 4937.73
+El cliente 0 ha retirado 351.31 en su cuenta. El saldo de la cuenta es de 4586.43
+Se ingresaron 270.97 en la cuenta 3. El saldo de la cuenta es de 3384.38
+Cliente 3 pidió su saldo que es de: 3384.38
+Se ingresaron 351.31 en la cuenta 2. El saldo de la cuenta es de 4937.73
+Se ingresaron 475.9 en la cuenta 0. El saldo de la cuenta es de 36538.23
+El cliente 1 ha retirado 2.18 en su cuenta. El saldo de la cuenta es de 4935.55
+Se ingresaron 360.12 en la cuenta 2. El saldo de la cuenta es de 3744.5
+Hemos aplicado un incremento de 10% en la cuenta 0
+El cliente 2 ha retirado 397.51 en su cuenta. El saldo de la cuenta es de 3346.99
+Hemos aplicado un incremento de 25% en la cuenta 0
+El cliente 4 ha retirado 301.14 en su cuenta. El saldo de la cuenta es de 36237.09
+El cliente 0 ha retirado 92.04 en su cuenta. El saldo de la cuenta es de 6694.35
+Se ingresaron 477.0 en la cuenta 3. El saldo de la cuenta es de 3823.98
+El cliente 1 ha retirado 33.16 en su cuenta. El saldo de la cuenta es de 6661.18
+Se ingresaron 33.16 en la cuenta 3. El saldo de la cuenta es de 6694.35
+El cliente 3 ha retirado 483.18 en su cuenta. El saldo de la cuenta es de 3340.81
+Se ingresaron 92.04 en la cuenta 2. El saldo de la cuenta es de 6786.38
+El cliente 4 ha retirado 29.38 en su cuenta. El saldo de la cuenta es de 36207.71
+El cliente 2 ha retirado 359.39 en su cuenta. El saldo de la cuenta es de 3315.49
+Hemos aplicado un incremento de 10% en la cuenta 1
+Se ingresaron 359.39 en la cuenta 0. El saldo de la cuenta es de 3674.89
+Se ingresaron 29.38 en la cuenta 0. El saldo de la cuenta es de 36237.09
+Se ingresaron 337.95 en la cuenta 0. El saldo de la cuenta es de 7124.34
+El cliente 3 ha retirado 111.22 en su cuenta. El saldo de la cuenta es de 3563.67
+Hemos aplicado un incremento de 25% en la cuenta 1
+El cliente 1 ha retirado 259.0 en su cuenta. El saldo de la cuenta es de 6865.33
+Se ingresaron 111.22 en la cuenta 3. El saldo de la cuenta es de 4565.8
+El cliente 0 ha retirado 494.2 en su cuenta. El saldo de la cuenta es de 6371.14
+Se ingresaron 259.0 en la cuenta 2. El saldo de la cuenta es de 6630.14
+Hemos aplicado un incremento de 10% en la cuenta 2
+El cliente 4 ha retirado 298.62 en su cuenta. El saldo de la cuenta es de 39562.18
+Se ingresaron 211.62 en la cuenta 2. El saldo de la cuenta es de 4777.42
+Se ingresaron 254.98 en la cuenta 1. El saldo de la cuenta es de 6885.12
+El cliente 0 ha retirado 203.47 en su cuenta. El saldo de la cuenta es de 6681.65
+El cliente 2 ha retirado 68.83 en su cuenta. El saldo de la cuenta es de 4708.59
+Se ingresaron 298.62 en la cuenta 3. El saldo de la cuenta es de 39860.8
+El cliente 3 ha retirado 379.2 en su cuenta. El saldo de la cuenta es de 4329.39
+Hemos aplicado un incremento de 25% en la cuenta 2
+Hemos aplicado un incremento de 10% en la cuenta 3
+El cliente 3 ha retirado 498.77 en su cuenta. El saldo de la cuenta es de 3830.62
+Cliente 4 pidió su saldo que es de: 49826.0
+El cliente 2 ha retirado 270.86 en su cuenta. El saldo de la cuenta es de 3559.76
+Se ingresaron 203.47 en la cuenta 3. El saldo de la cuenta es de 6885.12
+El cliente 1 ha retirado 64.81 en su cuenta. El saldo de la cuenta es de 6820.31
+Se ingresaron 60.89 en la cuenta 0. El saldo de la cuenta es de 6765.92
+El cliente 1 ha retirado 115.27 en su cuenta. El saldo de la cuenta es de 6705.04
+Se ingresaron 242.78 en la cuenta 4. El saldo de la cuenta es de 50068.79
+Se ingresaron 498.77 en la cuenta 0. El saldo de la cuenta es de 4058.53
+Se ingresaron 270.86 en la cuenta 0. El saldo de la cuenta es de 4329.39
+Hemos aplicado un incremento de 25% en la cuenta 3
+Cliente 2 pidió su saldo que es de: 4329.39
+Hemos aplicado un incremento de 10% en la cuenta 4
+El cliente 3 ha retirado 287.07 en su cuenta. El saldo de la cuenta es de 4042.31
+Se ingresaron 115.27 en la cuenta 3. El saldo de la cuenta es de 6534.89
+El cliente 4 ha retirado 109.0 en su cuenta. El saldo de la cuenta es de 49959.79
+El cliente 0 ha retirado 346.31 en su cuenta. El saldo de la cuenta es de 6419.62
+El cliente 0 ha retirado 388.63 en su cuenta. El saldo de la cuenta es de 6146.26
+Se ingresaron 66.47 en la cuenta 1. El saldo de la cuenta es de 6212.74
+Se ingresaron 287.07 en la cuenta 3. El saldo de la cuenta es de 4329.39
+El cliente 4 ha retirado 131.23 en su cuenta. El saldo de la cuenta es de 49828.56
+Se ingresaron 282.88 en la cuenta 2. El saldo de la cuenta es de 4612.27
+Hemos aplicado un incremento de 25% en la cuenta 4
+Se ingresaron 131.23 en la cuenta 3. El saldo de la cuenta es de 49959.79
+El cliente 2 ha retirado 408.6 en su cuenta. El saldo de la cuenta es de 4203.67
+Se ingresaron 388.63 en la cuenta 1. El saldo de la cuenta es de 6245.75
+El cliente 1 ha retirado 355.61 en su cuenta. El saldo de la cuenta es de 5857.13
+El cliente 1 ha retirado 481.39 en su cuenta. El saldo de la cuenta es de 5764.37
+El cliente 2 ha retirado 280.51 en su cuenta. El saldo de la cuenta es de 3923.16
+Se ingresaron 481.39 en la cuenta 2. El saldo de la cuenta es de 6245.75
+Se ingresaron 280.51 en la cuenta 2. El saldo de la cuenta es de 4203.67
+===========================================================
+El saldo final de la cuenta 0 es de: 6245.75
+El saldo final de la cuenta 1 es de: 4203.67
+El saldo final de la cuenta 2 es de: 49959.79
+El saldo final de la cuenta 3 es de: 52998.37
+El saldo final de la cuenta 4 es de: 29435.8
