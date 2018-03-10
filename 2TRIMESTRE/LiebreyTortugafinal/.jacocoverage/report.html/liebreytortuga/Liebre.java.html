@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>Liebre.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">JaCoCoverage analysis of project &quot;LiebreyTortuga&quot; (powered by JaCoCo from EclEmma)</a> &gt; <a href="index.source.html" class="el_package">liebreytortuga</a> &gt; <span class="el_source">Liebre.java</span></div><h1>Liebre.java</h1><pre class="source lang-java linenums">/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package liebreytortuga;
+
+//import java.util.logging.*;
+/**
+ *
+ * @author ruben
+ */
+public class Liebre extends Thread {
+
+    private int fin;
+<span class="fc" id="L16">    private int casilla = 1;</span>
+    private final int numero; //ID del participante
+
+    @Override
+    public void run() {
+
+<span class="fc bfc" id="L22" title="All 4 branches covered.">        while (casilla &lt;= 70 &amp;&amp; fin == 0) {</span>
+            try {
+<span class="fc" id="L24">                Thread.sleep(100);</span>
+<span class="nc" id="L25">            } catch (InterruptedException ex) {</span>
+                //Logger.getLogger(Liebre.class.getName()).log(Level.SEVERE, null, ex);
+<span class="fc" id="L27">            }</span>
+<span class="fc" id="L28">            int azar = (int) (Math.random() * 100);</span>
+<span class="fc bfc" id="L29" title="All 2 branches covered.">            if (azar &lt;= 20) {</span>
+<span class="fc" id="L30">                casilla = casilla + this.Duerme();</span>
+            }
+
+<span class="fc bfc" id="L33" title="All 4 branches covered.">            if (azar &gt; 21 &amp;&amp; azar &lt;= 40) {</span>
+<span class="fc" id="L34">                casilla = casilla + this.GranSalto();</span>
+            }
+<span class="fc bfc" id="L36" title="All 4 branches covered.">            if (azar &gt; 41 &amp;&amp; azar &lt;= 50) {</span>
+<span class="fc" id="L37">                casilla = casilla - this.ResbalonGrande();</span>
+<span class="fc bfc" id="L38" title="All 2 branches covered.">                if (casilla &lt; 1) {</span>
+<span class="fc" id="L39">                    casilla = 1;</span>
+                }
+            }
+<span class="fc bfc" id="L42" title="All 4 branches covered.">            if (azar &gt; 51 &amp;&amp; azar &lt;= 80) {</span>
+<span class="fc" id="L43">                casilla = casilla + this.PequenoSalto();</span>
+
+            }
+<span class="fc bfc" id="L46" title="All 2 branches covered.">            if (azar &gt; 81) {</span>
+<span class="fc" id="L47">                casilla = casilla - this.Resbalonpequeno();</span>
+<span class="fc bfc" id="L48" title="All 2 branches covered.">                if (casilla &lt; 1) {</span>
+<span class="fc" id="L49">                    casilla = 1;</span>
+                }
+            }
+<span class="fc" id="L52">            String imprimir = &quot;&quot;;</span>
+
+<span class="fc bfc" id="L54" title="All 2 branches covered.">            for (int i = 0; i &lt; this.getCasilla(); i++) {</span>
+<span class="fc" id="L55">                imprimir = imprimir + &quot; &quot;;</span>
+
+            }
+<span class="fc" id="L58">            System.out.println(imprimir + &quot;L&quot; + numero);</span>
+<span class="fc" id="L59">        }</span>
+<span class="fc" id="L60">    }</span>
+
+<span class="fc" id="L62">    public Liebre(Carrera c, int numero) {</span>
+<span class="fc" id="L63">        casilla = 1;</span>
+<span class="fc" id="L64">        this.numero = numero;</span>
+<span class="fc" id="L65">        fin = 0;</span>
+
+<span class="fc" id="L67">    }</span>
+
+    private int Duerme() {
+<span class="fc" id="L70">        return 0;</span>
+
+    }
+
+    private int GranSalto() {
+<span class="fc" id="L75">        return 9;</span>
+    }
+
+    private int ResbalonGrande() {
+<span class="fc" id="L79">        return 12;</span>
+    }
+
+    private int PequenoSalto() {
+<span class="fc" id="L83">        return 1;</span>
+
+    }
+
+    private int Resbalonpequeno() {
+<span class="fc" id="L88">        return 2;</span>
+    }
+
+    public int getCasilla() {
+<span class="fc" id="L92">        return casilla;</span>
+    }
+
+    public void finProceso() {
+<span class="fc" id="L96">        fin++;</span>
+<span class="fc" id="L97">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.5.201505241946</span></div></body></html>
