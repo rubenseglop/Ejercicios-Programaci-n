@@ -1,11 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * He realizado cambios en esta parte del código
+ * 
+ * 
  */
 package liebreytortuga;
 
 /**
+ * Clase Carrera que controla los turnos de cada participante
  *
  * @author ruben
  */
@@ -16,6 +17,9 @@ public class Carrera {
     private boolean reloj;
     private boolean meta;
 
+    /**
+     * Constructor en donde pongo las posiciones de los participantes a 1
+     */
     public Carrera() {
         this.meta = false;
         this.reloj = false;
@@ -24,9 +28,15 @@ public class Carrera {
     }
     private int casillaL, casillaT;
 
+    /**
+     * Método sincronizado que invoca el turno de la liebre
+     *
+     * @param casillasAMover introduzco el número de casilla a mover en la
+     * carrera
+     */
     public synchronized void turnoL(int casillasAMover) {
 
-        while (reloj == true && meta==false) {
+        while (reloj == true && meta == false) {
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -42,9 +52,14 @@ public class Carrera {
         reloj = false;
     }
 
+    /**
+     * Método sincronizado que invoca el turno de la tortuga
+     *
+     * @param casillasAMover
+     */
     public synchronized void turnoT(int casillasAMover) {
         String linea = "<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>";
-        while (reloj == true && meta==false) {
+        while (reloj == true && meta == false) {
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -56,14 +71,14 @@ public class Carrera {
         if (posicionT < 1) {
             posicionT = 1;
         }
-        if (posicionL <= 70 && meta==false) {
+        if (posicionL <= 70 && meta == false) {
             for (int i = 1; i <= posicionL; i++) {
                 System.out.print(" ");
                 if (posicionL == i) {
                     System.out.println("L");
                 }
             }
-            if (posicionT <= 70 && meta==false) {
+            if (posicionT <= 70 && meta == false) {
                 for (int i = 1; i <= posicionT; i++) {
                     System.out.print(" ");
                     if (posicionT == i) {
@@ -73,12 +88,12 @@ public class Carrera {
             }
         }
 
-        if (posicionL <= 70 && posicionT <= 70 && meta==false) {
+        if (posicionL <= 70 && posicionT <= 70 && meta == false) {
             System.out.println(linea);
             reloj = false;
         }
 
-// Resultado final
+        // Llegada a la meta, pongo la variable meta = true para indicar que finalice los hilos
         if (posicionL >= 70 && posicionT >= 70 && meta == false) {
             System.out.println("Han acabado en empate!!");
             meta = true;
@@ -87,7 +102,7 @@ public class Carrera {
             meta = true;
         } else if (posicionT >= 70 && posicionL < 70 && meta == false) {
             System.out.println("Ha ganado la tortuga");
-            meta = true;            
+            meta = true;
         }
     }
 }

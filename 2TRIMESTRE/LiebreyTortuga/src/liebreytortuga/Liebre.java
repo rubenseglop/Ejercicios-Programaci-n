@@ -5,9 +5,8 @@
  */
 package liebreytortuga;
 
-//import java.util.logging.*;
 /**
- *
+ * Clase Liebre
  * @author ruben
  */
 public class Liebre extends Thread {
@@ -15,7 +14,10 @@ public class Liebre extends Thread {
     private int casilla;
     private final Carrera carrera;
     private int poscarrera;
-
+    
+    /**
+     * Método sobreescrito de la clase Thread para indicar el inicio del hilo
+     */
     @Override
     public void run() {
 
