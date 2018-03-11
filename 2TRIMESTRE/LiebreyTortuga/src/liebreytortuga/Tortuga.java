@@ -5,9 +5,10 @@
  */
 package liebreytortuga;
 
-//import java.util.logging.*;
+import java.util.logging.*;
+
 /**
- *
+ * 
  * @author ruben
  */
 public class Tortuga extends Thread {
@@ -16,6 +17,9 @@ public class Tortuga extends Thread {
     private Carrera carrera1;
     private int poscarrera = 1;
 
+    /**
+     * Método sobreescrito de la clase Thread para indicar el inicio del hilo
+     */
     @Override
     public void run() {
 
@@ -24,8 +28,10 @@ public class Tortuga extends Thread {
             try {
                 Thread.sleep(100);
             } catch (InterruptedException ex) {
-                //Logger.getLogger(Liebre.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(Liebre.class.getName()).log(Level.SEVERE, null, ex);
             }
+            
+            // Cálculo de las casillas a moverse
             int azar = (int) (Math.random() * 100);
             if (azar <= 50) {
                 casilla = this.AvanceRapido();
@@ -49,12 +55,17 @@ public class Tortuga extends Thread {
 
     }
 
+    /**
+     * Constructor de la tortuga
+     * @param carrera 
+     */
     public Tortuga(Carrera carrera) {
         casilla = 1;
         this.carrera1 = carrera;
 
     }
-
+    
+    // Movimientos
     private int AvanceRapido() {
         return 3;
     }
