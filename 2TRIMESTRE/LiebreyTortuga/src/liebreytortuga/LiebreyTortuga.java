@@ -12,6 +12,7 @@ package liebreytortuga;
 public class LiebreyTortuga {
 
     /**
+     * Inicio de programa
      * @param args the command line arguments
      * @throws java.lang.InterruptedException
      */
