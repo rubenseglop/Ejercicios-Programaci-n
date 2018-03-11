@@ -18,6 +18,8 @@ public class MultiplicarMatrices {
     public static void main(String[] args) throws InterruptedException {
         // TODO code application logic here
         int[][] resultado;
+        //El tamaño de las matrices está fijado en 1000 x 1000 para que no tarde mucho
+        //La diferencia de tiempo en resolverse (respecto a sin hilos) es mayor cuanto más grande sea su tamaño
         int x1 = 1000;
         int y1 = 1000;
         int x2 = 1000;
@@ -30,13 +32,14 @@ public class MultiplicarMatrices {
         startTime = System.currentTimeMillis();
         mimatriz.mostrarMatriz();
 
-// multiplicar arrays
+// multiplicar arrays en 4 fracciones (0,251, 501 y 751)
         resultado = new int[x1][y2];
         FilasHebras hebra1 = new FilasHebras(resultado, mimatriz, 0,250);
         FilasHebras hebra2 = new FilasHebras(resultado, mimatriz, 251, 500);
         FilasHebras hebra3 = new FilasHebras(resultado, mimatriz, 501, 750);
         FilasHebras hebra4 = new FilasHebras(resultado, mimatriz, 751, 1000);
 
+        //1º inicio los hilos y 2º dejo que finalicen completamente
         hebra1.start();
         hebra2.start();
         hebra3.start();
@@ -47,6 +50,8 @@ public class MultiplicarMatrices {
         hebra4.join();
 
         System.out.println("Matriz resultado");
+        
+        //Calculado los hilos, imprimo el resultado
         for (int i = 0; i < x1; i++) {
             System.out.print("[ ");
             for (int j = 0; j < y2; j++) {

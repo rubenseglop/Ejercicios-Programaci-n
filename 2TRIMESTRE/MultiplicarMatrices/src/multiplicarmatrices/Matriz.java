@@ -86,14 +86,14 @@ public class Matriz {
     public int devolverx1() {
         return x1;
     }
-        /**
+    /**
      * Metodo para devolver información de la matriz 1
      * @return valor y de matriz 1
      */
     public int devolvery1() {
         return y1;
     }
-        /**
+    /**
      * Metodo para devolver información de la matriz 2
      * @return valor x de matriz 2
      */
@@ -114,7 +114,7 @@ public class Matriz {
     public int[][] matriz1(){
         return matriz1;
     }
-        /**
+    /**
      * Método que devuelve la matriz 2
      * @return resultado a devolver de la matriz 2
      */
