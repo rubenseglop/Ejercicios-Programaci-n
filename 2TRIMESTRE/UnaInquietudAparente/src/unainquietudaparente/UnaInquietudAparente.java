@@ -23,20 +23,19 @@ public class UnaInquietudAparente {
         // Fichero del que queremos leer
         File fichero = new File("ciudades.txt");
         Scanner s = null;
-
+        // Al desconocer el número de líneas a almacenar en un array, usamos ArrayList y asi no desbordaremos la capacidad
+        ArrayList<String> ciudades = new ArrayList<>();
+        
         try {
             // Leemos el contenido del fichero
 
             s = new Scanner(fichero);
-
+            
             // Leemos linea a linea el fichero
             while (s.hasNextLine()) {
-                String linea = s.nextLine(); 	// Guardamos la linea en un String
-                ArrayList<String> ciudades = new ArrayList<>();
-
-                ciudades.addAll(Arrays.asList(linea.split(" ")));
-                
-                Collections.sort(ciudades); // Por orden alfabético
+                String linea = s.nextLine(); 	// Guardamos la linea en un String                
+                ciudades.addAll(Arrays.asList(linea.split(" ")));                
+                Collections.sort(ciudades); // Método sort para ordenar alfabéticamente
 
                 // Ordenamos por tamaño de caracteres 
                 int[] ordenados= new int[ciudades.size()];
@@ -44,8 +43,7 @@ public class UnaInquietudAparente {
                 
                 for (int i = 0; i < ciudades.size(); i++) {
                     ordenados[i]= ciudades.get(i).length();
-                    indice[i]=i;
-                   
+                    indice[i]=i;                   
                 }
                 // Bucle que ordena por método de burbuja el índice
                 int i, j, aux1,aux2;
@@ -76,9 +74,8 @@ public class UnaInquietudAparente {
                     s.close();
                 }
             } catch (Exception ex2) {
-                System.out.println("Error: " + ex2.getMessage());
+                System.err.println("Error: " + ex2.getMessage());
             }
         }
     }
-
 }
