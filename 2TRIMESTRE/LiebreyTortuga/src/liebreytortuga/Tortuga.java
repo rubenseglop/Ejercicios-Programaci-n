@@ -65,7 +65,7 @@ public class Tortuga extends Thread {
 
     }
     
-    // Movimientos
+    // Movimientos de la tortuga
     private int AvanceRapido() {
         return 3;
     }
