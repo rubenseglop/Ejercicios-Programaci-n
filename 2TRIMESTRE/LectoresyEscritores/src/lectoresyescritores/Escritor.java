@@ -16,6 +16,7 @@ public class Escritor extends Thread {
 
     int escritor;
     Libro milibro;
+    boolean bucleinfinito = false;
 
     public Escritor(int escritor, Libro milibro) {
 
@@ -27,20 +28,13 @@ public class Escritor extends Thread {
     @Override
     public void run() {
 
-        boolean bucleinfinito = false;
-        while (!bucleinfinito) {
+        while (!milibro.esfinallibro()) {
             try {
-                sleep((int) (Math.random() * 4000 + 1000));  // Reloj pausa entre 1 y 5 seg.
-            } catch (InterruptedException ex) {
-                Logger.getLogger(Escritor.class.getName()).log(Level.SEVERE, null, ex);
-            }
-            try {
+                sleep((int) (Math.random() * 4000 + 1000));  // Reloj pausa entre 1 y 5 seg. 
                 milibro.escribir(escritor);
             } catch (InterruptedException ex) {
                 Logger.getLogger(Escritor.class.getName()).log(Level.SEVERE, null, ex);
             }
-
         }
-
     }
 }

@@ -16,6 +16,7 @@ public class Lector extends Thread {
 
     int lector;
     Libro milibro;
+    boolean bucleinfinito = false;
 
     public Lector(int lector, Libro milibro) {
         super();
@@ -25,18 +26,15 @@ public class Lector extends Thread {
 
     @Override
     public void run() {
-        boolean bucleinfinito = false;
-        while (!bucleinfinito) {
+
+        while (!milibro.esfinallibro()) {
             try {
                 sleep((int) (Math.random() * 4000 + 1000));  // Reloj pausa entre 1 y 5 seg.
-            } catch (InterruptedException ex) {
-                Logger.getLogger(Lector.class.getName()).log(Level.SEVERE, null, ex);
-            }
-            try {
                 milibro.leer(lector); //Escribe
             } catch (InterruptedException ex) {
                 Logger.getLogger(Lector.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
+
     }
 }

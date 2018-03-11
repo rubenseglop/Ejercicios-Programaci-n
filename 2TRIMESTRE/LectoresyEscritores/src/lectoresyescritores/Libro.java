@@ -5,18 +5,22 @@
  */
 package lectoresyescritores;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 /**
  *
  * @author Ruben
  */
 public class Libro {
 
-    String texto;
-    char char_aleatorio;
-    int escribiendo, leyendo;
-    boolean[] escritores = new boolean[10];
-    boolean[] lectores = new boolean[20];
-    boolean finlibro;
+    private String texto;
+    private char char_aleatorio;
+    private int escribiendo, leyendo;
+    private final boolean[] escritores = new boolean[10];
+    private final boolean[] lectores = new boolean[20];
+    private boolean finlibro;
+    private int lector;
 
     public Libro() {
         texto = "En un lugar de la Mancha, ";
@@ -24,11 +28,12 @@ public class Libro {
     }
 
     public synchronized void escribir(int escritor) throws InterruptedException {
-        System.out.println("Escritor " + escritor + " va a probar a escribir");
-        // Al ser un método sincronizado, solo un escritor puede escribir
-        // Miro si hay lectores leyendo
         
-            notifyAll();
+        while (!finlibro) {
+            System.out.println((char) 27 + "[34m" + "Escritor " + escritor + " va a probar a escribir");
+
+            // Al ser un método sincronizado, solo un escritor puede escribir
+            // Miro si hay lectores leyendo
             leyendo = 0;
             for (int i = 0; i < 20; i++) {
                 if (lectores[i] == true) {
@@ -36,66 +41,86 @@ public class Libro {
                     wait(); //Si encuentro a un lector, me detengo
                 }
             }
-        
 
-        if (leyendo == 0) {  //Si nadie esta leyendo...
-            //Verifico si está acabado el libro
+            if (leyendo == 0) {  //Si nadie esta leyendo...
+                //Verifico si está acabado el libro
 
-            if (texto.length() > 150) {
-                System.out.println("El libro está completado");
-                System.out.println(this.mostrarLibro());
-                this.finlibro(); //Detener hilos
+                if (texto.length() > 50 && finlibro == false) {
+                    finlibro(); //Detener hilos
+                    System.out.println((char) 27 + "[35m" + "El libro está completado");
+                    System.out.println(this.mostrarLibro());
+                } else {
+                    // Añado una letra al azar en caso de no estar acabado
+                    escritores[escritor] = true;
+                    notifyAll();
+                    char_aleatorio = (char) (int) (Math.random() * 25 + 65);
+                    System.out.println((char) 27 + "[34m" + "==>Escritor " + escritor + " escribe una: " + char_aleatorio);
+                    texto += char_aleatorio;
+                    escritores[escritor] = false;
+
+                }
             } else {
-                // Añado una letra al azar en caso de no estar acabado
-                escritores[escritor] = true;
-                Thread.sleep(500);
-                char_aleatorio = (char) (int) (Math.random() * 25 + 65);
-                System.out.println("==>Escritor " + escritor + " escribe una: " + char_aleatorio);
-                texto += char_aleatorio;
-                escritores[escritor] = false;
-
+                System.out.println((char) 27 + "[34m" + "Escritor " + escritor + " no puede escribir, ya que hay " + leyendo + " lectores");
             }
-        } else {
-            System.out.println("Escritor " + escritor + " no puede escribir, ya que hay " + leyendo + " lectores");
+        } 
+
+    }
+
+    private synchronized void esperaLectura(int lector) {
+
+        this.lector = lector;
+
+        try {
+            if (finlibro == false) {
+                System.out.println((char) 27 + "[27m" + "Lector " + lector + " va a esperar a leer");
+                wait();
+            }
+        } catch (InterruptedException ex) {
+            Logger.getLogger(Libro.class.getName()).log(Level.SEVERE, null, ex);
         }
 
     }
 
     public void leer(int lector) throws InterruptedException {
-        System.out.println("Lector " + lector + " va a probar a leer");
+        while (!finlibro) {
 
-        //Verificamos si hay escritores
-        escribiendo = 0;
-        for (int i = 0; i < 10; i++) {
-            if (escritores[i] == true) {
-                escribiendo++;
-                try {
-                    notifyAll(); //Si encuentro un escritor
-                } catch (Exception e) {
-                    System.out.println("Lector " + lector + " no puede leer (hay escritores escribiendo)");
+            this.esperaLectura(lector);
+
+            //Verificamos si hay escritores
+            escribiendo = 0;
+            for (int i = 0; i < 10; i++) {
+                if (escritores[i] == true) {
+                    escribiendo++;
+                    try {
+                        wait();
+                    } catch (Exception e) {
+
+                        System.out.println("Lector " + lector + " no puede leer (hay escritores escribiendo)");
+                    }
+
                 }
-
             }
-        }
 
-        if (escribiendo == 0) {        // Si nadie esta escribiendo
+            if (escribiendo == 0) {        // Si nadie esta escribiendo
 
-            if (lectores[lector] == false) {
-                lectores[lector] = true;
-                System.out.println("==>Lector " + lector + " está leyendo");
-                lectores[lector] = true;
+                if (lectores[lector] == false) {
+                    lectores[lector] = true;
+                    System.out.println((char) 27 + "[27m" + "==>Lector " + lector + " está leyendo: " + texto );
+                    lectores[lector] = true;
 
-                Thread.sleep(450); // Está 0.5 segundos leyendo
+                    lectores[lector] = false;
 
-                lectores[lector] = false;
-
+                }
             }
-        }
-
+        } 
     }
 
     public String mostrarLibro() {
         return texto;
+    }
+
+    public boolean esfinallibro() {
+        return finlibro;
     }
 
     public void finlibro() {

@@ -5,6 +5,9 @@
  */
 package lectoresyescritores;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 /**
  *
  * @author Ruben
@@ -19,15 +22,17 @@ public class LectoresyEscritores {
         Libro milibro=new Libro();
         Escritor[] escritor = new Escritor[10];
         
-        for (int i = 0; i < escritor.length; i++) {
-            escritor[i] = new Escritor(i,milibro);
-             escritor[i].start();
-        }
+        
         Lector[] lector = new Lector[20];
 
         for (int i = 0; i < lector.length; i++) {
             lector[i] = new Lector(i,milibro);
             lector[i].start();
+        }
+        
+        for (int i = 0; i < escritor.length; i++) {
+            escritor[i] = new Escritor(i,milibro);
+            escritor[i].start();
         }
     }
 }
